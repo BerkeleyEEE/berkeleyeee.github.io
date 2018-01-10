@@ -1,29 +1,19 @@
 <h4> Presentations begin at 12pm and conclude at 1:10pm in Giannini Hall, room 248. </h4>
 
-## Fall 2017 schedule
+## Spring 2018 schedule
 
-### 25 October 2017
+### 17 January 2018
 
-<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1446502020.jpg?itok=Mg6xVIH4" width = "200" hspace = "20" alt = "Kate">
 
-__Presenter__: Danamona Andrianarimanana
-<br>__Title__: Evaluating the tradeoff between the health and wealth effects of agricultural fires in Madagascar
-<br>__Abstract__: 
- Fire is regularly used in agriculture globally and especially in developing countries. While potentially increasing farming land availability and productivity in the short-run, this important agricultural input is controversial due to its pollution effects.  However, due to the traditional lack of reliable fire data in developing countries, there is a paucity of evidence on the net impact of fires on health and on the tradeoff between its pollution effects and the expected output gains. Identifying this tradeoff is also challenging because fires are manmade and motivated by future agricultural gains. Using high-frequency and high-resolution fire and weather data from NASA satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to smaller birth cohort size, increased risk of stillbirths and a higher number of hospitalizations related to respiratory and eye infections. Effects are stronger and more persistent among children and infants. On the other hand, I find that non-upwind fires predict better health. Next, I use the rollout of creation of new parks as a result of an international conservation movement, and an IV approach to identify the impact of fires on agricultural production and yield. I find that impacts are heterogeneous based on the nature of the fire, types of crops and distinction between shorter-run and longer-run. Contemporaneous and recent fires tend to be harmful to crops whereas previous years' fires are associated with more land cropped and higher yields however the magnitudes of the effects are relatively small. I also see some evidence of shifting production towards more land-intensive crops.
+__Presenter__: Kate Pennington
+<br>__Title__: 
+
 
 
 ### 08 November 2017
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12706-1414091315.jpg" width = "200" hspace = "20" alt = "Ed">
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13025-1414093071.jpg" width = "200" hspace = "20" alt = "Matt">
 
-__Presenter__: Ed Rubin
-<br>__Title__: TBA
-<br>__Abstract__: TBA
-
-__Presenter__: Matt Woerman
-<br>__Title__: TBA
-<br>__Abstract__: TBA
 
 ## Past presentations
 
@@ -44,6 +34,12 @@ __Presenter__: Tamma Carleton (with Solomon Hsiang, Michael Greenstone, Amir Jin
 <br>__Title__: Global mortality consequences of climate change accounting for adaptation costs and benefits
 <br>__Abstract__: Empirically-based and plausibly causal estimates of the damages of climate change are greatly needed to inform rapidly developing global and local climate policies. To accurately reflect the costs of climate change, it is essential to estimate how much populations will adapt to a changing climate, yet adaptation remains one of the least understood aspects of social responses to climate. In this paper, we develop and implement a novel methodology to estimate climate damages globally that paves the way for the first data-driven, global social cost of carbon in which adaptation and its costs are empirically identified. We apply this method to mortality — likely to be one of the largest losses associated with climate change. We assemble comprehensive sub-national panel data on mortality in 41 countries that account for 56% of the world’s population, and combine them with high resolution daily climate data to flexibly estimate the causal effect of temperature on mortality. Consistent with previous studies, we find the impacts of temperature on mortality have a U-shaped response; both hot days and cold days cause excess mortality. However, this average response obscures substantial heterogeneity, as populations are differentially adapted to extreme temperatures. We derive spatio-temporally heterogeneous mortality-temperature response functions to build a high-resolution model of adaptation in which incomes and average climate determine the sensitivity of mortality rates to changes in the climate. This model allows us to extrapolate response functions across the entire globe, as well as across time, using a range of economic, population, and climate change scenarios. Importantly, we develop and apply a revealed preference methodology to capture not only the benefits of adaptation, but also its costs. We combine these innovations to produce the first causal, micro-founded, global, empirically-derived climate damage function for human health. We project that by 2100, business-as-usual climate change is likely to incur mortality-only costs that amount to approximately 3-14% of global GDP. 
 
+### 25 October 2017
+
+__Presenter__: Danamona Andrianarimanana
+<br>__Title__: Evaluating the tradeoff between the health and wealth effects of agricultural fires in Madagascar
+<br>__Abstract__: 
+ Fire is regularly used in agriculture globally and especially in developing countries. While potentially increasing farming land availability and productivity in the short-run, this important agricultural input is controversial due to its pollution effects.  However, due to the traditional lack of reliable fire data in developing countries, there is a paucity of evidence on the net impact of fires on health and on the tradeoff between its pollution effects and the expected output gains. Identifying this tradeoff is also challenging because fires are manmade and motivated by future agricultural gains. Using high-frequency and high-resolution fire and weather data from NASA satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to smaller birth cohort size, increased risk of stillbirths and a higher number of hospitalizations related to respiratory and eye infections. Effects are stronger and more persistent among children and infants. On the other hand, I find that non-upwind fires predict better health. Next, I use the rollout of creation of new parks as a result of an international conservation movement, and an IV approach to identify the impact of fires on agricultural production and yield. I find that impacts are heterogeneous based on the nature of the fire, types of crops and distinction between shorter-run and longer-run. Contemporaneous and recent fires tend to be harmful to crops whereas previous years' fires are associated with more land cropped and higher yields however the magnitudes of the effects are relatively small. I also see some evidence of shifting production towards more land-intensive crops.
 
 ## Spring 2017
 
