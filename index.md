@@ -1,4 +1,4 @@
-<h4> Presentations begin at 12pm and conclude at 1:10pm in Giannini Hall, room 248. </h4>
+<h4> Presentations begin at 12pm SHARP and conclude at 1pm in Giannini Hall, room 248. </h4>
 
 ## Spring 2018 schedule
 
@@ -11,8 +11,89 @@ __Presenter__: Kate Pennington
 
 
 
-### 08 November 2017
+### 24 January 2018
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Andy Hultgren
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Jonathan Proctor
+<br>__Title__: 
+
+### 31 January 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Gabe Englander
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1446504792.jpg?itok=WGr8INv9" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Scott Kaplan
+<br>__Title__: 
+
+### 14 February 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Susanna Berkouwer
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=PDwGZtTi" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Peiley Lau
+<br>__Title__: 
+
+### 7 March 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13620-1446502106.jpg?itok=tISu7Aoe" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Wenfeng Qiu
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Karl Dunkle Werner
+<br>__Title__: 
+
+### 4 April 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12915-1498256344.jpg?itok=jTHTIi35" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Dina Gorenshteyn
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Dave McLaughlin
+<br>__Title__: 
+
+### 14 April 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=64yOgnyT" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Derek Wolfson
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=2R0yxXLR" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Hal Gordon
+<br>__Title__: 
+
+### 2 May 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg?itok=pfHrZ1L3" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Ellen Lin
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13613-1446502871.jpg?itok=fkSLz7xz" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Elisa Duran
+<br>__Title__: 
 
 
 ## Past presentations
