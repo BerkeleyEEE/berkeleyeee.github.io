@@ -7,7 +7,7 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1446502020.jpg?itok=Mg6xVIH4" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Kate Pennington
-<br>__Title__: 
+<br>__Title__: Poisoned by Policy: The Impact of the Flint Water Crisis on Political Participation
 
 
 
