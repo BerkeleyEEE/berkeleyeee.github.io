@@ -2,50 +2,22 @@
 
 ## Spring 2018 schedule
 
-### 17 January 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1446502020.jpg?itok=Mg6xVIH4" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Kate Pennington
-<br>__Title__: Poisoned by Policy: The Impact of the Flint Water Crisis on Political Participation
-
-
-
-### 24 January 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Andy Hultgren
-<br>__Title__: 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Jonathan Proctor
-<br>__Title__: 
-
-### 31 January 2018
+### 23 February 2018
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Gabe Englander
-<br>__Title__: 
+<br>__Title__:  "Estimating the Bindingness of the World's Fishing-Restricted Areas"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1446504792.jpg?itok=WGr8INv9" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Scott Kaplan
 <br>__Title__: 
 
-### 14 February 2018
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Kate">
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Susanna Berkouwer
-<br>__Title__: 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=PDwGZtTi" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Peiley Lau
-<br>__Title__: 
+__Presenter__: Jonathan Proctor
+<br>__Title__: "The Agricultural Impacts of Clouds: Implications for Climate Change, Air Pollution, and Weather Modification Policy"
 
 ### 7 March 2018
 
@@ -57,7 +29,7 @@ __Presenter__: Wenfeng Qiu
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Karl Dunkle Werner
-<br>__Title__: 
+<br>__Title__: "How does CO2 cap-and-trade affect local pollution?"
 
 ### 4 April 2018
 
@@ -69,18 +41,6 @@ __Presenter__: Dina Gorenshteyn
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Dave McLaughlin
-<br>__Title__: 
-
-### 14 April 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=64yOgnyT" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Derek Wolfson
-<br>__Title__: 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=2R0yxXLR" width = "200" hspace = "20" alt = "Kate">
-
-__Presenter__: Hal Gordon
 <br>__Title__: 
 
 ### 2 May 2018
@@ -95,10 +55,45 @@ __Presenter__: Ellen Lin
 __Presenter__: Elisa Duran
 <br>__Title__: 
 
+### 14 February 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Susanna Berkouwer
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=PDwGZtTi" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Peiley Lau
+<br>__Title__: 
+
+### 11 May 2018
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=64yOgnyT" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Derek Wolfson
+<br>__Title__: 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=2R0yxXLR" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Hal Gordon
+<br>__Title__: "Housing effects of Coal Plant Retirements"
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Kate">
+
+__Presenter__: Andy Hultgren
+<br>__Title__:
 
 ## Past presentations
 
 ------------
+## Spring 2018
+
+### 17 January 2018
+__Presenter__: Kate Pennington
+<br>__Title__: Poisoned by Policy: The Impact of the Flint Water Crisis on Political Participation
+
+
 ## Fall 2017
 
 ### 27 September 2017
