@@ -48,7 +48,7 @@ __Presenter__: Dave McLaughlin
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg?itok=pfHrZ1L3" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Ellen Lin
-<br>__Title__: 
+<br>__Title__: “Air pollution and family planning”
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13613-1446502871.jpg?itok=fkSLz7xz" width = "200" hspace = "20" alt = "Kate">
 
