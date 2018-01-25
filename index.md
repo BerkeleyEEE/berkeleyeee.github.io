@@ -24,7 +24,7 @@ __Presenter__: Jonathan Proctor
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13620-1446502106.jpg?itok=tISu7Aoe" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Wenfeng Qiu
-<br>__Title__: 
+<br>__Title__: "Optimal information disclosure under present-bias"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Kate">
 
