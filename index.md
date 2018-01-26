@@ -12,7 +12,7 @@ __Presenter__: Gabe Englander
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1446504792.jpg?itok=WGr8INv9" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Scott Kaplan
-<br>__Title__: 
+<br>__Title__: "Are consumers willing to pay to avoid price uncertainty? Evidence from the vehicle leasing market" 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Kate">
 
@@ -36,7 +36,7 @@ __Presenter__: Karl Dunkle Werner
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12915-1498256344.jpg?itok=jTHTIi35" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Dina Gorenshteyn
-<br>__Title__: 
+<br>__Title__: "Social Networks and Environmental Investment Decisions"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Kate">
 
@@ -53,36 +53,36 @@ __Presenter__: Ellen Lin
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13613-1446502871.jpg?itok=fkSLz7xz" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Elisa Duran
-<br>__Title__: 
+<br>__Title__: "Do double markups really matter?: Empirical evidence from the United States"
 
 ### 9 May 2018
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Susanna Berkouwer
-<br>__Title__: 
+<br>__Title__: either "The Political Economy and Governance of Rural Electrification" (joint work with Catherine Wolfram and Edward Miguel) or "Behavioral and market determinants of household energy efficiency in a development context" (joint work with Joshua Dean)
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=PDwGZtTi" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Peiley Lau
-<br>__Title__: 
+<br>__Title__: "Seeing the Forest for the Trees: Estimating Corporate Tax Elasticity in the Papua New Guinea Forestry Industry"
 
 ### 11 May 2018
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=64yOgnyT" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Derek Wolfson
-<br>__Title__: 
+<br>__Title__: "Are Certain Consumers Myopic? An Evaluation of Product Groups in Used Vehicle Purchases"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=2R0yxXLR" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Hal Gordon
-<br>__Title__: "Housing effects of Coal Plant Retirements"
+<br>__Title__: "Using Cell Phone data to produce a Travel Cost Method Estimate of Climate Damages"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Andy Hultgren
-<br>__Title__:
+<br>__Title__: "Electricity Wholesale Prices and Entry Under Climate Change." 
 
 ## Past presentations
 
