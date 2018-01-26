@@ -41,7 +41,7 @@ __Presenter__: Dina Gorenshteyn
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Kate">
 
 __Presenter__: Dave McLaughlin
-<br>__Title__: 
+<br>__Title__: "Do free cookstoves to below poverty line households improve air quality in India?"
 
 ### 2 May 2018
 
