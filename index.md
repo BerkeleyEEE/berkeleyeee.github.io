@@ -24,7 +24,7 @@ __Presenter__: Jonathan Proctor
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13620-1446502106.jpg?itok=tISu7Aoe" width = "200" hspace = "20" alt = "Wenfeng">
 
 __Presenter__: Wenfeng Qiu
-<br>__Title__: "Optimal information disclosure under present-bias"
+<br>__Title__: "Persuasion of a Prudent Receiver"
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Klaus">
 
@@ -41,7 +41,7 @@ __Presenter__: Dina Gorenshteyn
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Dave">
 
 __Presenter__: Dave McLaughlin
-<br>__Title__: "Do free cookstoves to below poverty line households improve air quality in India?"
+<br>__Title__: "Do consumers value clean tap water?"
 
 ### 2 May 2018
 
