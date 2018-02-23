@@ -2,23 +2,6 @@
 
 ## Spring 2018 schedule
 
-### 23 February 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Gabe">
-
-__Presenter__: Gabe Englander
-<br>__Title__:  "Estimating the Bindingness of the World's Fishing-Restricted Areas"
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1446504792.jpg?itok=WGr8INv9" width = "200" hspace = "20" alt = "Scott">
-
-__Presenter__: Scott Kaplan
-<br>__Title__: "Are consumers willing to pay to avoid price uncertainty? Evidence from the vehicle leasing market" 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon">
-
-__Presenter__: Jonathan Proctor
-<br>__Title__: "The Agricultural Impacts of Clouds: Implications for Climate Change, Air Pollution, and Weather Modification Policy"
-
 ### 7 March 2018
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13620-1446502106.jpg?itok=tISu7Aoe" width = "200" hspace = "20" alt = "Wenfeng">
@@ -92,6 +75,17 @@ __Presenter__: Andy Hultgren
 ### 17 January 2018
 __Presenter__: Kate Pennington
 <br>__Title__: Poisoned by Policy: The Impact of the Flint Water Crisis on Political Participation
+
+### 23 February 2018
+
+__Presenter__: Gabe Englander
+<br>__Title__:  "Estimating the Bindingness of the World's Fishing-Restricted Areas"
+
+__Presenter__: Scott Kaplan
+<br>__Title__: "Are consumers willing to pay to avoid price uncertainty? Evidence from the vehicle leasing market" 
+
+__Presenter__: Jonathan Proctor
+<br>__Title__: "The Agricultural Impacts of Clouds: Implications for Climate Change, Air Pollution, and Weather Modification Policy"
 
 
 ## Fall 2017
