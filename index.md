@@ -39,7 +39,7 @@ __Presenter__: Deirdre Sutula
 
 __Presenter__: Scott Kaplan
 <br>__Title__: "Recreational Damages from Air Pollution: Evidence from a Secondary Ticket Marketplace for Major League Baseball Games"
-<br>__Abstract__: TBA
+<br>__Abstract__: This project aims to measure the economic cost of air pollution in a recreational setting. We leverage a unique environment to study the effects of different types of air pollution (specifically, ozone or PM2.5, which may result from fires or other causes) on a market good, namely tickets to Major League Baseball (MLB) games. We use novel data-scraping methods to collect (i) individual ticket listing level-data for each future MLB game each half-hour from a widely used online secondary marketplace, and (ii) hourly air quality data (and forecasts) in cities with MLB teams. We also leverage randomly announced “Action Days,” which are public air pollutant notices warning people about poor air quality conditions (e.g. Spare the Air Days), as well as wildfire events that may cause severe reductions in air quality. Our goal is to understand the effect of air pollution levels and warnings on price fluctuations in the secondary ticket marketplace for MLB games. In order to determine the economic significance of this estimated cost of air pollution, we plan to compare it to other economic effects, for example the effect of a one standard deviation change in game-time temperature from the expected climatic mean, a starting all-star pitcher versus non-all-star starter, the playoff probability of the home team, a weekday versus weekend game, etc.
 
 ### 10 October 2018
 
