@@ -1,83 +1,80 @@
-<h4> Presentations begin at 12pm SHARP and conclude at 1pm in Giannini Hall, room 248. </h4>
+<h4> Presentations begin at 12pm SHARP and conclude at 1pm in Dwinelle Room 83. </h4>
 
-## Fall 2018 schedule
+## Spring 2019 schedule
 
-### 22 August 2018
+### 16 January 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12945-1502813453.jpg?itok=XDweCMqP" width = "200" hspace = "20" alt = "Shaoda">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13618-1446502044.jpg?itok=kd5vFoIJ" width = "200" hspace = "20" alt = "Megan">
 
-__Presenter__: Shaoda Wang
-<br>__Title__: "Environmental Regulation and Firm Productivity in China: Estimates from a Regression Discontinuity Design"
-<br>__Abstract__: This paper estimates the effect of environmental regulation on firm productivity using a regression discontinuity design implicit in China’s water quality monitoring system. Because water quality readings are important for political evaluations, and the monitoring stations only capture emissions from their upstream regions, local governments are incentivized to enforce tighter environmental regulations on firms immediately upstream of a monitoring station, rather than those immediately downstream. Exploiting this discontinuity, we find that upstream firms’ TFP is 27% lower than that of downstream firms, indicating that China’s water-pollution abatement target (2016-2020) would lead to roughly one trillion Chinese Yuan loss in industrial output value. 
+__Presenter__: Megan Lang
+<br>__Title__: "Understanding rural demand for solar energy in Rwanda and Kenya: Price versus flexibility."
+<br>__Abstract__: TBD
 
-### 29 August 2018
+### 23 January 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Karl">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Andy">
 
-__Presenter__: Karl Dunkle-Werner
-<br>__Title__: "US Nuclear Closures and Air Pollution" 
-<br>__Abstract__: Nuclear power is the largest source of non-fossil energy in the US, but
-the plants are expensive to run, and many are closing down. These shutdowns cause other plants to produce more electricity and release more air pollution. This early-stage project investigates the damages from these changes in air pollution, as well as potential policy responses.
+__Presenter__: Andy Hultgren
+<br>__Title__: "Lobbying and R&D in the face of policy uncertainty"
+<br>__Abstract__: TBD
 
-<img src = "https://media.licdn.com/dms/image/C4E03AQFNekyoeKGcoQ/profile-displayphoto-shrink_800_800/0?e=1541635200&v=beta&t=S385Vzvf3QEGCw0YfeHZnlMfJzVEl4eAJuvN0ctehuU" width = "200" hspace = "20" alt = "Stephen">
+### 30 January 2019
 
-__Presenter__: Stephen Jarvis
-<br>__Title__: "Choosing between environmental ills: a study of the phase-out of nuclear power in Germany"
-<br>__Abstract__: This study examines the impacts of Germany's decision to phase-out nuclear power. In response to the Fukushima nuclear disaster in Japan in 2011, Germany committed to phasing out nuclear power by 2022, and immediately shutdown almost half of their operating nuclear reactors. In the long-term the government aims to replace this lost generation with renewable sources as part of Germany's ambitious Energiewende initiative. To date though much of the gap has likely been filled using fossil fuels, particularly coal. Our analysis utilizes a novel machine learning approach to identify the power plants that stepped in as nuclear capacity was taken offline. We use this to estimate empirically the private costs from higher electricity prices, as well as the external costs from increased emissions of CO2 and local pollutants.
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=PDwGZtTi" width = "200" hspace = "20" alt = "Peiley">
 
-### 19 September 2018
+__Presenter__: Peiley Lau
+<br>__Title__: "Estimating non-point source pollution in New Zealand waterways"
+<br>__Abstract__: TBD
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=64yOgnyT" width = "200" hspace = "20" alt = "Derek">
 
-__Presenter__: Deirdre Sutula
-<br>__Title__: “Flooding and Flood Insurance in the UK”
-<br>__Abstract__: TBA
+__Presenter__: Derek Wolfson
+<br>__Title__:  “The effect of transportation network companies on alcohol consumption and drunk driving”
+<br>__Abstract__: TBD
 
-### 3 October 2018
+### 6 February 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1446504792.jpg?itok=WGr8INv9" width = "200" hspace = "20" alt = "Scott">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13676-1474659435.jpg?itok=6ounlYW2" width = "200" hspace = "20" alt = "Molly">
 
-__Presenter__: Scott Kaplan
-<br>__Title__: "Recreational Damages from Air Pollution: Evidence from a Secondary Ticket Marketplace for Major League Baseball Games"
-<br>__Abstract__: This project aims to measure the economic cost of air pollution in a recreational setting. We leverage a unique environment to study the effects of different types of air pollution (specifically, ozone or PM2.5, which may result from fires or other causes) on a market good, namely tickets to Major League Baseball (MLB) games. We use novel data-scraping methods to collect (i) individual ticket listing level-data for each future MLB game each half-hour from a widely used online secondary marketplace, and (ii) hourly air quality data (and forecasts) in cities with MLB teams. We also leverage randomly announced “Action Days,” which are public air pollutant notices warning people about poor air quality conditions (e.g. Spare the Air Days), as well as wildfire events that may cause severe reductions in air quality. Our goal is to understand the effect of air pollution levels and warnings on price fluctuations in the secondary ticket marketplace for MLB games. In order to determine the economic significance of this estimated cost of air pollution, we plan to compare it to other economic effects, for example the effect of a one standard deviation change in game-time temperature from the expected climatic mean, a starting all-star pitcher versus non-all-star starter, the playoff probability of the home team, a weekday versus weekend game, etc.
+__Presenter__: Molly Van Dop
+<br>__Title__: "Pricing groundwater in the Pajaro Valley: A saltwater intrusion story"
+<br>__Abstract__: TBD
 
-### 10 October 2018
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1524157489.jpg?itok=ASgyz_WN" width = "200" hspace = "20" alt = "James">
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Gabe">
+__Presenter__: James Sears
+<br>__Title__: TBD
+<br>__Abstract__: TBD
 
-__Presenter__: Gabe Englander
-<br>__Title__: “Extraction, Enforcement, and Detection Avoidance in an International Property Rights Regime”
-<br>__Abstract__: I test whether Exclusive Economic Zones (EEZs), an international property rights regime covering 30% of the planet, affect fishing effort using a boundary regression discontinuity design and two global, high resolution fishing effort datasets. Hours of fishing by unauthorized foreign vessels drops discontinuously by more than 80% just inside EEZs compared to just outside EEZs on the high seas, a difference of more than 50,000 hours of fishing. However, this net effect is concentrated in a small number of EEZs; most EEZs do not deter unauthorized foreign fishing effort. Given the high cost of patrolling EEZ boundaries, I find evidence that deterrence only occurs in the most valuable EEZs.  EEZs in the top net primary productivity decile (quintile) account for 84% (97%) of the deterrence effect. I also find evidence that unauthorized foreign vessels strategically manipulate their Automatic Identification System (AIS) transponders to avoid being detected fishing illegally in another nation's EEZ. These vessels are four times more likely to turn their transponder off when they are just outside another nation's EEZ compared to when they are just inside another nation's EEZ. This strategic behavior reveals that some vessels anticipate a penalty from illegal fishing and illustrates the difficulty coastal nations face in enforcing their EEZs.
+### 13 February 2019
+
+<img src = "" width = "200" hspace = "20" alt = "Katherine">
+
+__Presenter__: Katherine Wagner
+<br>__Title__: "Crowding-In with impure altruism: Theory with evidence from volunteerism in national parks"
+<br>__Abstract__: TBD
+
+### 27 February 2019
+
+<img src = "https://economics.yale.edu/sites/default/files/styles/people_image/public/img_3829_2_9_0_0.jpg?itok=5pIwiVwo" width = "200" hspace = "20" alt = "Ellen">
+
+__Presenter__: Ellen Lan Lin
+<br>__Title__: TBD
+<br>__Abstract__: TBD
 
 
-### 17 October 2018
+### 3 April 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13021-1414091616.jpg?itok=fWWoQ4UW" width = "200" hspace = "20" alt = "Itai">
+<img src = "https://static1.squarespace.com/static/55667009e4b04bbb290cc837/t/594866bc414fb5fe434f0164/1497917180174/Hannah+Druckenmiller?format=750w" width = "200" hspace = "20" alt = "Hannah">
 
-__Presenter__: Itai Trilnick
-<br>__Title__: "Micro-Climate Engineering for Climate Change Adaptation in Agriculture"
-<br>__Abstract__: TBA
+__Presenter__: Hannah Druckenmiller
+<br>__Title__: "The impact of climate change on ecosystem services: Evidence from U.S. forests"
+<br>__Abstract__: TBD
 
-### 31 October 2018
+### 10 April 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12952-1414092784.jpg?itok=4yQsde-j" width = "200" hspace = "20" alt="Kwabena">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
 
-__Presenter__: Kwabena Donkor
-<br>__Title__: “Default Options and Active Choice: The Role of Cognitive Cost and Social Pressure”
-<br>__Abstract__: TBA
-
-### 14 November 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12915-1498256344.jpg?itok=jTHTIi35" width = "200" hspace = "20" alt = "Dina">
-
-__Presenter__: Dina Gorenshteyn
-<br>__Title__: TBA
-<br>__Abstract__: TBA
-
-### 28 November 2018
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=2R0yxXLR" width = "200" hspace = "20" alt = "Hal">
-
-__Presenter__: Hal Gordon
-<br>__Title__: TBA
-<br>__Abstract__: TBA
+__Presenter__: Susanna Berkouwer
+<br>__Title__: "Behavioral barriers to energy efficiency in development contexts: Evidence from cookstoves"
+<br>__Abstract__: TBD
