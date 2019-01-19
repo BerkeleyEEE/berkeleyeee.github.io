@@ -48,7 +48,7 @@ __Presenter__: James Sears
 
 ### 13 February 2019
 
-<img src = "" width = "200" hspace = "20" alt = "Katherine">
+<img src = "https://economics.yale.edu/sites/default/files/styles/people_image/public/img_3829_2_9_0_0.jpg?itok=5pIwiVwo" width = "200" hspace = "20" alt = "Katherine">
 
 __Presenter__: Katherine Wagner
 <br>__Title__: "Crowding-In with impure altruism: Theory with evidence from volunteerism in national parks"
@@ -56,8 +56,8 @@ __Presenter__: Katherine Wagner
 
 ### 27 February 2019
 
-<img src = "https://economics.yale.edu/sites/default/files/styles/people_image/public/img_3829_2_9_0_0.jpg?itok=5pIwiVwo" width = "200" hspace = "20" alt = "Ellen">
-
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg?itok=pfHrZ1L3
+" width = "200" hspace = "20" alt = "Ellen">
 __Presenter__: Ellen Lan Lin
 <br>__Title__: TBD
 <br>__Abstract__: TBD
