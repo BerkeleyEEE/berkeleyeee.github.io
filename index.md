@@ -1,4 +1,4 @@
-<h4> Presentations begin at 12pm SHARP and conclude at 1pm in Dwinelle Room 83. </h4>
+<h4> Presentations begin at 12pm SHARP and conclude at 1pm in Mulford Hall Room 240. </h4>
 
 ## Spring 2019 schedule
 
@@ -8,7 +8,7 @@
 
 __Presenter__: Megan Lang
 <br>__Title__: "Understanding rural demand for solar energy in Rwanda and Kenya: Price versus flexibility."
-<br>__Abstract__: TBD
+<br>__Abstract__: While evidence suggests that demand for electricity among low income, rural consumers in developing countries is highly sensitive to price on the adoption margin, little evidence exists on the importance of price versus non-price factors on the use margin. I partner with a pay as you go (PAYG) solar company to investigate the importance of price and liquidity in shaping demand for electricity on the use margin in Rwanda and Kenya. I randomly offer solar customers incentives for using their solar home systems, varying the liquidity required to qualify for incentives as well as the price discounts customers receive when they qualify for incentives. This random variation enables me to measure consumer responsiveness to price and liquidity. I find that neither price nor liquidity substantially alters consumer demand for solar on the use margin. Finally, I present descriptive evidence from daily customer use data that suggests intertemporal substitution of energy consumption likely plays only a modest role in explaining my experimental results.
 
 ### 23 January 2019
 
@@ -38,7 +38,7 @@ __Presenter__: Derek Wolfson
 
 __Presenter__: Molly Van Dop
 <br>__Title__: "Pricing groundwater in the Pajaro Valley: A saltwater intrusion story"
-<br>__Abstract__: TBD
+<br>__Abstract__: Located on the Central Coast of California, the Pajaro Valley is an internationally recognized region for the production of berries and fruit. Growers in the valley rely primarily on groundwater to irrigate their crops. However, seawater intrusion due to the reduction of the groundwater table has led to decreased water quality along the coast and threatens water quality across the entire watershed. Following the guidelines of Proposition 218, the Pajaro Valley Water Management Agency has implemented a second-best pricing system for groundwater, where farmers pay for recharge facilities and the distribution of recycled water along the coast as a measure to reduce overdraft. Using a regression discontinuity design, we study how this spatially and time-varying pricing system affects land prices and water quality for the region. We discuss implications for the effectiveness of future recharge facilities on minimizing groundwater overdraft. 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1524157489.jpg?itok=ASgyz_WN" width = "200" hspace = "20" alt = "James">
 
