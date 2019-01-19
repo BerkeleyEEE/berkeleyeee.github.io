@@ -56,11 +56,10 @@ __Presenter__: Katherine Wagner
 
 ### 27 February 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg?itok=pfHrZ1L3
-" width = "200" hspace = "20" alt = "Ellen">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg?itok=pfHrZ1L3" width = "200" hspace = "20" alt = "Ellen">
 
 __Presenter__: Ellen Lan Lin
-<br>__Title__: TBD
+<br>__Title__: "Pollution and Fertility Intentions: Evidence from Online Purchases"
 <br>__Abstract__: TBD
 
 
