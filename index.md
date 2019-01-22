@@ -16,7 +16,7 @@ __Presenter__: Megan Lang
 
 __Presenter__: Andy Hultgren
 <br>__Title__: "Lobbying and R&D in the face of policy uncertainty"
-<br>__Abstract__: TBD
+<br>__Abstract__: The field of economics invests extraordinary effort in measuring externalities and recommending appropriate policy corrections. Yet, the role of firms as strategic actors in the design and implementation of externality-correcting policy is rarely considered. Firms which are negatively affected by a potential policy may seek to profit from it by investing in R&D, or they may seek to kill the policy by investing in lobbying of government officials. In this paper, I present a simple model of firm behavior under information shocks on production externalities, in which firms can invest in R&D and/or lobbying in response to the shock. The model describes two key testable predictions regarding how firms will respond to externality-related information shocks. Empirically, information shocks are represented by scientific discoveries of adverse health effects associated with commonly used products. Early-stage empirical results on the R&D response suggest that R&D spending does indeed increase in response to an information shock of this type.
 
 ### 30 January 2019
 
