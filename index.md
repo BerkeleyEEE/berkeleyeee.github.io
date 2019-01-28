@@ -52,7 +52,7 @@ __Presenter__: James Sears
 
 __Presenter__: Katherine Wagner
 <br>__Title__: "Crowding-In with impure altruism: Theory with evidence from volunteerism in national parks"
-<br>__Abstract__: TBD
+<br>__Abstract__:  How does government provision of a public good affect private provision? The extent to which public supply crowds out private provision is the standard test between the models of pure and impure altruism, which provide different explanations for why people contribute to public goods. We show that this commonly used specification test relies implicitly on functional form assumptions that eliminate the possibility for government provision to crowd in private provision. Relaxing these assumptions yields two main theoretical findings. First, crowding-in is admissible in the standard models of privately provided public goods. Second, specification tests based on the extent of crowding-out are problematic, but tests based on crowding-in are more well-founded. We test the implications of the theory with a unique and comprehensive data set on volunteer hours in the National Park Service (NPS). We find statistically significant and economically meaningful crowding-in. Specifically, we estimate that an additional dollar of federal funding within a park crowds in 25 cents-worth of additional volunteerism. Consistent with theory, estimates of crowding-in are greater for parks and activities that are more likely characterized by joint production and thus impure altruism. The results contribute to our understanding of how policies may promote the efficient provision of public goods and provide a more robust test between models of the underlying motives of charitable behavior.
 
 ### 27 February 2019
 
