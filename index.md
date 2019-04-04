@@ -73,8 +73,8 @@ __Presenter__: Hannah Druckenmiller
 
 ### 10 April 2019
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Susanna">
 
-__Presenter__: Susanna Berkouwer
-<br>__Title__: "Behavioral barriers to energy efficiency in development contexts: Evidence from cookstoves"
-<br>__Abstract__: We seek to quantify how behavioral biases and market frictions affect poor households’ adoption of energy efficient durables. While a substantial literature studies how behavioral anomalies and failures of rationality—self-control problems, incorrect beliefs, and limited attention—contribute to the energy efficiency gap in the US (see Gillingham and Palmer for a review), little work exists in a development setting. This is important because biases might operate differently in poor environments. It could be that biases are exacerbated by stress or cognitive load associated with poverty (see Haushofer and Fehr for a review), or it could be that because poverty makes large, durable purchases high-stakes, poorer individuals are more likely to make decisions more carefully. Market frictions common in developing settings, like liquidity constraints and asymmetric information, might further exacerbate any failures of rationality. We study this question in the context of energy efficient charcoal cookstoves. In a pilot RCT with 150 low-income households in Nairobi in 2018 we estimated that ownership of the energy efficient stove reduced weekly energy spending by 60% relative to control group spending ($2.50 per week, or $130 per year), but average WTP for the stove was only $15. We employ a 3x3 RCT design to understand how inattention and credit constraints affect adoption, and we use lab-in-the-field tests to measure present bias and risk preference parameters. This will be the first paper to rigorously quantify the energy efficiency gap, causally identify the mechanisms driving this gap, and estimate its welfare effects, and it will do so in a high-stakes development setting.
+__Presenter__: Shelley He
+<br>__Title__: TBD
+<br>__Abstract__: TBD
