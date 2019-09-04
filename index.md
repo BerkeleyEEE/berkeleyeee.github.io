@@ -51,7 +51,8 @@
 **Title:** TBD   
 **Abstract:** TBD  
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13731-1505413789.jpg?itok=fZg39FAq" width = "200" hspace = "20" alt = "Matthew">  
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13731-1505413789.jpg?itok=fZg39FAq" width = "200" hspace = "20" alt = "Matthew">
+
 **Presenter:** Matthew Tarduno  
 **Title:** TBD   
 **Abstract:** TBD  
