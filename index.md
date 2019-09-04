@@ -62,7 +62,7 @@
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/stephenjarvis.jpg" width = "200" hspace = "20" alt = "Stephen">
 
 **Presenter:** Stephen Jarvis  
-**Title:** TBD   
+**Title:** The social costs of NIMBYism: evidence from renewable energy projects   
 
 **Abstract:** Large infrastructure projects are critical to tackling major national or global challenges. However, any large project also creates highly concentrated local impacts for nearby residents and businesses. The creation of local winners and losers can result in fierce lobbying during the project approval process, and where these efforts are successful socially beneficial investments may be abandoned. This kind of NIMBY (Not In My Backyard) behavior is common, but the scale of the welfare costs it imposes are poorly understood. In this study I use detailed data on planning applications for all renewable energy projects in the United Kingdom to estimate the social costs of local lobbying. I first use hedonic methods to estimate how the construction of a new project is capitalized into local house prices. I then examine how the scale and distribution of these house price effects determines the likelihood of projects being approved. Lastly I estimate the forgone benefits of projects that were unsuccessful, and consider the feasibility of using transfers to reduce opposition to projects that create significant welfare gains. I find that a modest targeted transfer scheme could have substantially increased UK electricity generation from renewable sources, or achieved the same level today at much lower cost. 
 
