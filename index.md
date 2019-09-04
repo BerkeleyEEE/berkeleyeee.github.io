@@ -6,8 +6,9 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
 
 **Presenter:** Susanna Berkouwer  
-**Title:** TBD  
-**Abstract:** TBD  
+**Title:** Credit, psychology, and the adoption of profitable energy efficient technologies in Kenya  
+
+**Abstract:** What is the role of credit and psychology in the adoption of profitable technologies? We use an incentive compatible Becker-DeGroot-Marschak mechanism to elicit willingness-to-pay (WTP) and randomize adoption of an energy efficient cookstove in a field experiment with 1,000 households in Nairobi. We estimate that the technology has an average annual internal rate of return of 300%, saving $120 per year - around one month of income. Current adoption rates are inefficiently low: household WTP is only $12. Households would need to have a discount factor of 0.88 per week to rationalize this. To understand why, we cross-randomize access to credit with an intervention designed to increase attention. The attention treatment has no impact, but credit doubles WTP and closes the energy efficiency gap. We then study the psychology of credit: time-inconsistency, partially caused by inattention to future costs, increases the impact of credit and lowers WTP under credit constraints. Finally, since nearly half of global emissions reductions under the Paris agreement are to come from energy efficiency gains - largely in low-income contexts - our results have strong implications for policies seeking to regulate environmental externalities using Pigovian taxation in the presence of credit constraints.  
 
 ### 25 September 2019 (Job Market Practice Talk: 12-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
