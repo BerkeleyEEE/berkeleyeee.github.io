@@ -5,6 +5,7 @@
 ### 11 September 2019
 <img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
 " width = "200" hspace = "20" alt = "Julia">
+
 **Presenter:** Julia Mink 
 **Title:** The effects of early-life exposure to World War II on later-life health outcomes  
 
