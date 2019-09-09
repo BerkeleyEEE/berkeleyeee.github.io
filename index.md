@@ -6,7 +6,7 @@
 <img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
 " width = "200" hspace = "20" alt = "Julia">
 
-**Presenter:** Julia Mink 
+**Presenter:** Julia Mink  
 **Title:** The effects of early-life exposure to World War II on later-life health outcomes  
 
 **Abstract:** Combining data from the French prospective cohort study E3N with historical data on World War II, we estimate the long-run effects of early-life exposure to the war on objectively measured health outcomes at adulthood. To identify causal effects, we exploit plausibly exogenous variation in exposure to the war across space and time related to the German invasion of France. More precisely, we use the number of French military deaths in the individual's post- code area of birth as measure of exposure intensity. We find that exposure to WWII during the first five years of life increases the probability of developing any of the health conditions at
