@@ -16,8 +16,9 @@ adulthood.
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
 
 **Presenter:** Ariel Zucker  
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** Targeting Incentive Contracts in Heterogeneous Populations: Evidence from Walking Payments
+
+**Abstract:** Providing financial incentives to encourage behavioral change is increasingly common, and have been effective in health, environmental, and educational contexts. However, in designing such contracts, policymakers face a trade-off between designing contracts for high-behavior-cost individuals (who require large incentives or easy behavior targets) and low-behavior-cost individuals (for whom large incentives are unnecessary and easy behavior targets will induce minimal change). A promising strategy to improve effectiveness is to target contracts based on individual behavior costs, or “types”. Using a randomized controlled trial offering incentives for walking in India, we explore two strategies for doing this. The first is analogous to third-degree price discrimination: we target contracts based on observable proxies of their effectiveness. The second is analogous to second-degree price discrimination: we allow individuals to choose between a menu of contracts where the favorite choice is correlated with its expected effectiveness. We show that, while imperfect, both forms of targeting can be effective in our context.    
 
 ### 9 October 2019
 
