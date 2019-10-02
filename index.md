@@ -71,7 +71,7 @@
 **Title:** TBD   
 **Abstract:** TBD  
 
-### Fall 2019 - Past Presentations
+## Fall 2019 - Past Presentations
 
 ### 11 September 2019
 <img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
