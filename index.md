@@ -1,24 +1,6 @@
 #### Presentations begin at 12PM and conclude at 1PM in Mulford 132 unless otherwise noted.
 
-## Fall 2019
-
-### 11 September 2019
-<img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
-" width = "200" hspace = "20" alt = "Julia">
-
-**Presenter:** Julia Mink  
-**Title:** The effects of early-life exposure to World War II on later-life health outcomes  
-
-**Abstract:** Combining data from the French prospective cohort study E3N with historical data on World War II, we estimate the long-run effects of early-life exposure to the war on objectively measured health outcomes at adulthood. To identify causal effects, we exploit plausibly exogenous variation in exposure to the war across space and time related to the German invasion of France. More precisely, we use the number of French military deaths in the individual's post- code area of birth as measure of exposure intensity. We find that exposure to WWII during the first five years of life increases the probability of developing any of the health conditions at
-adulthood. 
-
-### 25 September 2019
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
-
-**Presenter:** Ariel Zucker  
-**Title:** Targeting Incentive Contracts in Heterogeneous Populations: Evidence from Walking Payments
-
-**Abstract:** Providing financial incentives to encourage behavioral change is increasingly common, and have been effective in health, environmental, and educational contexts. However, in designing such contracts, policymakers face a trade-off between designing contracts for high-behavior-cost individuals (who require large incentives or easy behavior targets) and low-behavior-cost individuals (for whom large incentives are unnecessary and easy behavior targets will induce minimal change). A promising strategy to improve effectiveness is to target contracts based on individual behavior costs, or “types”. Using a randomized controlled trial offering incentives for walking in India, we explore two strategies for doing this. The first is analogous to third-degree price discrimination: we target contracts based on observable proxies of their effectiveness. The second is analogous to second-degree price discrimination: we allow individuals to choose between a menu of contracts where the favorite choice is correlated with its expected effectiveness. We show that, while imperfect, both forms of targeting can be effective in our context.    
+## Fall 2019 -- Upcoming
 
 ### 9 October 2019
 
@@ -88,3 +70,23 @@ adulthood.
 **Presenter:** Eva Lyubich  
 **Title:** TBD   
 **Abstract:** TBD  
+
+### Fall 2019 - Past Presentations
+
+### 11 September 2019
+<img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
+" width = "200" hspace = "20" alt = "Julia">
+
+**Presenter:** Julia Mink  
+**Title:** The effects of early-life exposure to World War II on later-life health outcomes  
+
+**Abstract:** Combining data from the French prospective cohort study E3N with historical data on World War II, we estimate the long-run effects of early-life exposure to the war on objectively measured health outcomes at adulthood. To identify causal effects, we exploit plausibly exogenous variation in exposure to the war across space and time related to the German invasion of France. More precisely, we use the number of French military deaths in the individual's post- code area of birth as measure of exposure intensity. We find that exposure to WWII during the first five years of life increases the probability of developing any of the health conditions at
+adulthood. 
+
+### 25 September 2019
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
+
+**Presenter:** Ariel Zucker  
+**Title:** Targeting Incentive Contracts in Heterogeneous Populations: Evidence from Walking Payments
+
+**Abstract:** Providing financial incentives to encourage behavioral change is increasingly common, and have been effective in health, environmental, and educational contexts. However, in designing such contracts, policymakers face a trade-off between designing contracts for high-behavior-cost individuals (who require large incentives or easy behavior targets) and low-behavior-cost individuals (for whom large incentives are unnecessary and easy behavior targets will induce minimal change). A promising strategy to improve effectiveness is to target contracts based on individual behavior costs, or “types”. Using a randomized controlled trial offering incentives for walking in India, we explore two strategies for doing this. The first is analogous to third-degree price discrimination: we target contracts based on observable proxies of their effectiveness. The second is analogous to second-degree price discrimination: we allow individuals to choose between a menu of contracts where the favorite choice is correlated with its expected effectiveness. We show that, while imperfect, both forms of targeting can be effective in our context.    
