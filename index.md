@@ -14,13 +14,15 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13618-1446502044.jpg?itok=kd5vFoIJ" width = "200" hspace = "20" alt = "Megan">
 
 **Presenter:** Megan Lang  
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** Title: Revealed preferences or market frictions? Evidence from solar in Rwanda  
+
+**Abstract:** The literature on welfare impacts from electrification finds mixed, and at times negative, results (see Lee et al forthcoming, Grimm et al 2017, among others). However, current estimates represent the composite of consumer demand and many other factors including poor supply side reliability, imperfect information, credit constraints, and difficulty enforcing contracts. While these factors reflect the present reality of demand for electricity, understanding the extent of distortion from market frictions versus true consumer value for electricity is important in prioritizing future investments. In this project, I examine a setting where supply is reliable, contracts are well-enforced, and consumers have full information: pay as you go solar on the intensive margin. I am currently conducting an experiment that further lowers other distortionary barriers by alleviating credit constraints and reducing transaction costs. I will present my proposed analysis, which seeks to estimate the welfare impacts of such distortions, measure the change in demand for electricity that results from reducing distortions, and perform a test of consumer behavior to rule out behavioral biases as the driving factor behind any observed changes.   
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13616-1446501639.jpg?itok=v0qmel3b" width = "200" hspace = "20" alt = "Andrew">
 
 **Presenter:** Andrew Hultgren  
 **Title:** Climate Change and Crop Choice: Evidence from Australia, Brazil, China, Europe, and the United States     
+
 **Abstract:** We examine how farmers adjust the land they allocate to crops when climatic conditions change. We analyze subnational longitudinal data for six major cereals across five of the world's major agricultural regions: Australia, Brazil, China, Europe and the United States. Consistent with theory, we find that more land is allocated to producing a specific crop when the climatological conditions for growing that crop improve, although the timescales for these adjustments are long, with only about half of the long run response to an abrupt and permanent change visible after 25 years. When we estimate the effectiveness of land use change as an adaptive strategy, we find that these adjustments reclaim 5-10% of climate-induced losses to producer surplus. The availability of adaptation via land use fails to generate more value because enduring climate-induced yield losses is less costly than altering land use practices for most farmers, so surplus is only reclaimed by the fraction of farmers who are indifferent to adjusting their extensive margin.  
 
 ### 23 October 2019 
