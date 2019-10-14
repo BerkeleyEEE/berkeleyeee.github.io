@@ -2,7 +2,7 @@
 
 ## Fall 2019 -- Upcoming
 
-### 16 October 2019 
+### 16 October 2019 (12PM-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Gabriel">
 
 **Presenter:** Gabriel Englander  
