@@ -2,8 +2,7 @@
 
 ## Fall 2019 -- Upcoming
 
-### 9 October 2019
-
+### 16 October 2019 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Gabriel">
 
 **Presenter:** Gabriel Englander  
@@ -12,13 +11,6 @@
 **Abstract:** Differentiated policy instruments are optimal when marginal damages from an externality-causing activity are heterogeneous. Even when optimal taxes are infeasible, policy instruments that target a proxy for marginal damages could achieve a fraction of first-best welfare gains. However, leakage from the targeted policy, including anticipation, spatial spillovers, and temporal lag effects, can undermine the potential benefits of the targeted policy. I study a natural resource setting with near-continuous monitoring of harvest activity and data on target outcomes. I empirically estimate the direct effect of the targeted policy as well as the three leakage effects. While the targeted policy reduces the high marginal damage activity in the location and time periods for which it applies, leakage effects outweigh the direct effect of the targeted policy. The targeted policy increases the high marginal damage activity and worsens the target outcome on net.  
 
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=GhTiiRed" width = "200" hspace = "20" alt = "Jaechoel">
-
-**Presenter:** Jaecheol Lee  
-**Title:** Information saves lives: Air pollution alerts and Mortality  
-**Abstract:** TBD  
-
-### 16 October 2019 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13618-1446502044.jpg?itok=kd5vFoIJ" width = "200" hspace = "20" alt = "Megan">
 
 **Presenter:** Megan Lang  
@@ -69,6 +61,12 @@
 
 **Presenter:** Eva Lyubich  
 **Title:** TBD   
+**Abstract:** TBD  
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=GhTiiRed" width = "200" hspace = "20" alt = "Jaechoel">
+
+**Presenter:** Jaecheol Lee  
+**Title:** Information saves lives: Air pollution alerts and Mortality  
 **Abstract:** TBD  
 
 ## Fall 2019 - Past Presentations
