@@ -35,7 +35,7 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13731-1505413789.jpg?itok=fZg39FAq" width = "200" hspace = "20" alt = "Matthew">
 
 **Presenter:** Matthew Tarduno  
-**Title:** TBD   
+**Title:** Electorally optimal revenue recycling     
 **Abstract:** TBD  
 
 ### 13 November 2019 
