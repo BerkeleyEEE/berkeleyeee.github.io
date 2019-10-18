@@ -26,16 +26,11 @@
 **Abstract:** We examine how farmers adjust the land they allocate to crops when climatic conditions change. We analyze subnational longitudinal data for six major cereals across five of the world's major agricultural regions: Australia, Brazil, China, Europe and the United States. Consistent with theory, we find that more land is allocated to producing a specific crop when the climatological conditions for growing that crop improve, although the timescales for these adjustments are long, with only about half of the long run response to an abrupt and permanent change visible after 25 years. When we estimate the effectiveness of land use change as an adaptive strategy, we find that these adjustments reclaim 5-10% of climate-induced losses to producer surplus. The availability of adaptation via land use fails to generate more value because enduring climate-induced yield losses is less costly than altering land use practices for most farmers, so surplus is only reclaimed by the fraction of farmers who are indifferent to adjusting their extensive margin.  
 
 ### 23 October 2019 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1534260134.png?itok=EpN1S_Sv" width = "200" hspace = "20" alt = "Kate">
 
-**Presenter:** Kate Pennington  
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13824-1570206664.jpg?itok=jyfuBMn1" width = "200" hspace = "20" alt = "Nick">
+
+**Presenter:** Nick Hagerty  
 **Title:** TBD   
-**Abstract:** TBD  
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13731-1505413789.jpg?itok=fZg39FAq" width = "200" hspace = "20" alt = "Matthew">
-
-**Presenter:** Matthew Tarduno  
-**Title:** Electorally optimal revenue recycling     
 **Abstract:** TBD  
 
 ### 13 November 2019 
@@ -64,6 +59,13 @@
 **Presenter:** Eva Lyubich  
 **Title:** TBD   
 **Abstract:** TBD  
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1534260134.png?itok=EpN1S_Sv" width = "200" hspace = "20" alt = "Kate">
+
+**Presenter:** Kate Pennington  
+**Title:** TBD   
+**Abstract:** TBD  
+
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=GhTiiRed" width = "200" hspace = "20" alt = "Jaechoel">
 
