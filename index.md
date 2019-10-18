@@ -10,7 +10,7 @@
 **Title:** TBD   
 **Abstract:** TBD  
 
-### 13 November 2019 
+### 13 November 2019 (12-1:30PM)
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/stephenjarvis.jpg" width = "200" hspace = "20" alt = "Stephen">
 
 **Presenter:** Stephen Jarvis  
@@ -24,7 +24,7 @@
 **Title:** Regulating Poorly-Measured Pollution: A Sufficient Statistics Approach to Methane Emissions  
 **Abstract:** TBD  
 
-### 11 December 2019
+### 11 December 2019 (12-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Shelley">
 
 **Presenter:** Shelley He  
