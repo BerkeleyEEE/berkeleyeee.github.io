@@ -7,8 +7,9 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13824-1570206664.jpg?itok=jyfuBMn1" width = "200" hspace = "20" alt = "Nick">
 
 **Presenter:** Nick Hagerty  
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** The Scope for Climate Adaptation: Water Scarcity and Irrigated Agriculture in California  
+   
+**Abstract:** How much can societies adapt to climate change? I provide evidence on this question by comparing the short-run and long-run effects of water scarcity in irrigated agriculture. In California, local rainfall matters less than surface water supplies, which are allocated to irrigation districts by historical rules. First, I estimate short-run effects using weather-driven fluctuations in water supplies for the same farm in different years. Then, I estimate long-run effects by comparing across the boundaries between neighboring irrigation districts, where otherwise similar farms have long been exposed to different average water supplies. Using high-resolution satellite data on land use, I find that lower water availability reduces crop area and crop revenue (as predicted by crop choices) in both the short run and the long run. There is some evidence of adaptation: land held fallow in the short run is permanently retired in the long run, while farmers invest in higher-value crops on the remaining cropland. However, predicted crop revenue falls by nearly as much in the long run as in the short run, suggesting that adaptation has mitigated few of the revenue effects of water scarcity. Under current policy, technology, and infrastructure, projected future declines in surface water availability are likely to cause meaningful declines in the land area and total output of agriculture in California.  
 
 ### 13 November 2019 (12-1:30PM)
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/stephenjarvis.jpg" width = "200" hspace = "20" alt = "Stephen">
