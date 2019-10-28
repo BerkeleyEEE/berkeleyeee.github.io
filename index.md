@@ -16,6 +16,12 @@
 **Title:** Regulating Poorly-Measured Pollution: A Sufficient Statistics Approach to Methane Emissions  
 **Abstract:** TBD  
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1534260134.png?itok=EpN1S_Sv" width = "200" hspace = "20" alt = "Kate">
+
+**Presenter:** Kate Pennington  
+**Title:** TBD   
+**Abstract:** TBD  
+
 ### 11 December 2019 (12-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Shelley">
 
@@ -26,12 +32,6 @@
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/eva-lyubich2.png" width = "200" hspace = "20" alt = "Eva">
 
 **Presenter:** Eva Lyubich  
-**Title:** TBD   
-**Abstract:** TBD  
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1534260134.png?itok=EpN1S_Sv" width = "200" hspace = "20" alt = "Kate">
-
-**Presenter:** Kate Pennington  
 **Title:** TBD   
 **Abstract:** TBD  
 
