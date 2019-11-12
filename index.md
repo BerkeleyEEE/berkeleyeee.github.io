@@ -27,7 +27,7 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Shelley">
 
 **Presenter:** Shelley He  
-**Title:** TBD   
+**Title:** Climate Risk and Municipal Financing   
 **Abstract:** TBD  
 
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/eva-lyubich2.png" width = "200" hspace = "20" alt = "Eva">
