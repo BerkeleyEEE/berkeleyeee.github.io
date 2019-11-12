@@ -1,4 +1,4 @@
-#### Presentations begin at 12PM and conclude at 1PM in Mulford 132 unless otherwise noted.
+#### Presentations begin at 12PM and conclude at 1:30PM in Mulford 132 unless otherwise noted.
 
 ## Fall 2019 -- Upcoming
 
@@ -20,6 +20,7 @@
 
 **Presenter:** Kate Pennington  
 **Title:** The Impact of Expectations About Future Reproductive Rights on Contraceptive Choice, Pregnancy, and Abortion    
+
 **Abstract:** A growing body of work shows that restricting family planning budgets and access to abortion causes an increase in fertility and a decrease in abortion.  This paper investigates whether women respond to changing expectations about their future access to reproductive services when they choose a contraceptive method today.  I hypothesize that an increase in the risk of high costs and low abortion access causes some women to switch to Long Acting Reversible Contraceptives (LARCs) like IUDs and implants.  These methods are free or low-cost under the ACA, more effective than most other methods, and last 3-10 years.  Using de-identified patient level data from Planned Parenthood of Northern New England, I find that the unexpected election of the Trump administration in 2016 caused a spike in the probability of switching to a LARC.  Next, I will explore how this changing contraceptive choice affect rates of unintended pregnancy and abortion.    
 
 ### 11 December 2019 (12-1:30PM)
