@@ -16,7 +16,7 @@
 **Title:** Regulating Poorly-Measured Pollution: A Sufficient Statistics Approach to Methane Emissions  
 **Abstract:** TBD  
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1534260134.png?itok=EpN1S_Sv" width = "200" hspace = "20" alt = "Kate">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1571100882.jpg?itok=cihwUvI7" width = "200" hspace = "20" alt = "Kate">
 
 **Presenter:** Kate Pennington  
 **Title:** The Impact of Expectations About Future Reproductive Rights on Contraceptive Choice, Pregnancy, and Abortion    
