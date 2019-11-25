@@ -2,26 +2,7 @@
 
 ## Fall 2019 -- Upcoming
 
-### 13 November 2019 (12-1:30PM)
-<img src = "https://ei.haas.berkeley.edu/images/profiles/staff/stephenjarvis.jpg" width = "200" hspace = "20" alt = "Stephen">
 
-**Presenter:** Stephen Jarvis  
-**Title:** The social costs of NIMBYism: evidence from renewable energy projects   
-
-**Abstract:** Large infrastructure projects are critical to tackling major national or global challenges. However, any large project also creates highly concentrated local impacts for nearby residents and businesses. The creation of local winners and losers can result in fierce lobbying during the project approval process, and where these efforts are successful socially beneficial investments may be abandoned. This kind of NIMBY (Not In My Backyard) behavior is common, but the scale of the welfare costs it imposes are poorly understood. In this study I use detailed data on planning applications for all renewable energy projects in the United Kingdom to estimate the social costs of local lobbying. I first use hedonic methods to estimate how the construction of a new project is capitalized into local house prices. I then examine how the scale and distribution of these house price effects determines the likelihood of projects being approved. Lastly I estimate the forgone benefits of projects that were unsuccessful, and consider the feasibility of using transfers to reduce opposition to projects that create significant welfare gains. I find that a modest targeted transfer scheme could have substantially increased UK electricity generation from renewable sources, or achieved the same level today at much lower cost. 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Karl">
-
-**Presenter:** Karl Dunkle Werner  
-**Title:** Regulating Poorly-Measured Pollution: A Sufficient Statistics Approach to Methane Emissions  
-**Abstract:** TBD  
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1571100882.jpg?itok=cihwUvI7" width = "200" hspace = "20" alt = "Kate">
-
-**Presenter:** Kate Pennington  
-**Title:** The Impact of Expectations About Future Reproductive Rights on Contraceptive Choice, Pregnancy, and Abortion    
-
-**Abstract:** A growing body of work shows that restricting family planning budgets and access to abortion causes an increase in fertility and a decrease in abortion.  This paper investigates whether women respond to changing expectations about their future access to reproductive services when they choose a contraceptive method today.  I hypothesize that an increase in the risk of high costs and low abortion access causes some women to switch to Long Acting Reversible Contraceptives (LARCs) like IUDs and implants.  These methods are free or low-cost under the ACA, more effective than most other methods, and last 3-10 years.  Using de-identified patient level data from Planned Parenthood of Northern New England, I find that the unexpected election of the Trump administration in 2016 caused a spike in the probability of switching to a LARC.  Next, I will explore how this changing contraceptive choice affect rates of unintended pregnancy and abortion.    
 
 ### 11 December 2019 (12-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Shelley">
@@ -44,6 +25,25 @@
 **Abstract:** TBD  
 
 ## Fall 2019 - Past Presentations
+
+### 11 September 2019
+<img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
+" width = "200" hspace = "20" alt = "Julia">
+
+**Presenter:** Julia Mink  
+**Title:** The effects of early-life exposure to World War II on later-life health outcomes  
+
+**Abstract:** Combining data from the French prospective cohort study E3N with historical data on World War II, we estimate the long-run effects of early-life exposure to the war on objectively measured health outcomes at adulthood. To identify causal effects, we exploit plausibly exogenous variation in exposure to the war across space and time related to the German invasion of France. More precisely, we use the number of French military deaths in the individual's post- code area of birth as measure of exposure intensity. We find that exposure to WWII during the first five years of life increases the probability of developing any of the health conditions at
+adulthood. 
+
+### 25 September 2019
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
+
+**Presenter:** Ariel Zucker  
+**Title:** Targeting Incentive Contracts in Heterogeneous Populations: Evidence from Walking Payments
+
+**Abstract:** Providing financial incentives to encourage behavioral change is increasingly common, and have been effective in health, environmental, and educational contexts. However, in designing such contracts, policymakers face a trade-off between designing contracts for high-behavior-cost individuals (who require large incentives or easy behavior targets) and low-behavior-cost individuals (for whom large incentives are unnecessary and easy behavior targets will induce minimal change). A promising strategy to improve effectiveness is to target contracts based on individual behavior costs, or “types”. Using a randomized controlled trial offering incentives for walking in India, we explore two strategies for doing this. The first is analogous to third-degree price discrimination: we target contracts based on observable proxies of their effectiveness. The second is analogous to second-degree price discrimination: we allow individuals to choose between a menu of contracts where the favorite choice is correlated with its expected effectiveness. We show that, while imperfect, both forms of targeting can be effective in our context.    
+
 
 ### 16 October 2019 (12PM-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13614-1446501898.jpg?itok=9PtW98UB" width = "200" hspace = "20" alt = "Gabriel">
@@ -68,25 +68,6 @@
 
 **Abstract:** We examine how farmers adjust the land they allocate to crops when climatic conditions change. We analyze subnational longitudinal data for six major cereals across five of the world's major agricultural regions: Australia, Brazil, China, Europe and the United States. Consistent with theory, we find that more land is allocated to producing a specific crop when the climatological conditions for growing that crop improve, although the timescales for these adjustments are long, with only about half of the long run response to an abrupt and permanent change visible after 25 years. When we estimate the effectiveness of land use change as an adaptive strategy, we find that these adjustments reclaim 5-10% of climate-induced losses to producer surplus. The availability of adaptation via land use fails to generate more value because enduring climate-induced yield losses is less costly than altering land use practices for most farmers, so surplus is only reclaimed by the fraction of farmers who are indifferent to adjusting their extensive margin.  
 
-
-### 11 September 2019
-<img src = "http://econ.sciences-po.fr/sites/default/files/file/melissa/J_MINK.jpg
-" width = "200" hspace = "20" alt = "Julia">
-
-**Presenter:** Julia Mink  
-**Title:** The effects of early-life exposure to World War II on later-life health outcomes  
-
-**Abstract:** Combining data from the French prospective cohort study E3N with historical data on World War II, we estimate the long-run effects of early-life exposure to the war on objectively measured health outcomes at adulthood. To identify causal effects, we exploit plausibly exogenous variation in exposure to the war across space and time related to the German invasion of France. More precisely, we use the number of French military deaths in the individual's post- code area of birth as measure of exposure intensity. We find that exposure to WWII during the first five years of life increases the probability of developing any of the health conditions at
-adulthood. 
-
-### 25 September 2019
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=uGjfQpM1" width = "200" hspace = "20" alt = "Ariel">
-
-**Presenter:** Ariel Zucker  
-**Title:** Targeting Incentive Contracts in Heterogeneous Populations: Evidence from Walking Payments
-
-**Abstract:** Providing financial incentives to encourage behavioral change is increasingly common, and have been effective in health, environmental, and educational contexts. However, in designing such contracts, policymakers face a trade-off between designing contracts for high-behavior-cost individuals (who require large incentives or easy behavior targets) and low-behavior-cost individuals (for whom large incentives are unnecessary and easy behavior targets will induce minimal change). A promising strategy to improve effectiveness is to target contracts based on individual behavior costs, or “types”. Using a randomized controlled trial offering incentives for walking in India, we explore two strategies for doing this. The first is analogous to third-degree price discrimination: we target contracts based on observable proxies of their effectiveness. The second is analogous to second-degree price discrimination: we allow individuals to choose between a menu of contracts where the favorite choice is correlated with its expected effectiveness. We show that, while imperfect, both forms of targeting can be effective in our context.    
-
 ### 23 October 2019  (12-1:30PM)
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13824-1570206664.jpg?itok=jyfuBMn1" width = "200" hspace = "20" alt = "Nick">
@@ -95,3 +76,27 @@ adulthood.
 **Title:** The Scope for Climate Adaptation: Water Scarcity and Irrigated Agriculture in California  
    
 **Abstract:** How much can societies adapt to climate change? I provide evidence on this question by comparing the short-run and long-run effects of water scarcity in irrigated agriculture. In California, local rainfall matters less than surface water supplies, which are allocated to irrigation districts by historical rules. First, I estimate short-run effects using weather-driven fluctuations in water supplies for the same farm in different years. Then, I estimate long-run effects by comparing across the boundaries between neighboring irrigation districts, where otherwise similar farms have long been exposed to different average water supplies. Using high-resolution satellite data on land use, I find that lower water availability reduces crop area and crop revenue (as predicted by crop choices) in both the short run and the long run. There is some evidence of adaptation: land held fallow in the short run is permanently retired in the long run, while farmers invest in higher-value crops on the remaining cropland. However, predicted crop revenue falls by nearly as much in the long run as in the short run, suggesting that adaptation has mitigated few of the revenue effects of water scarcity. Under current policy, technology, and infrastructure, projected future declines in surface water availability are likely to cause meaningful declines in the land area and total output of agriculture in California.  
+
+
+### 13 November 2019 (12-1:30PM)
+<img src = "https://ei.haas.berkeley.edu/images/profiles/staff/stephenjarvis.jpg" width = "200" hspace = "20" alt = "Stephen">
+
+**Presenter:** Stephen Jarvis  
+**Title:** The social costs of NIMBYism: evidence from renewable energy projects   
+
+**Abstract:** Large infrastructure projects are critical to tackling major national or global challenges. However, any large project also creates highly concentrated local impacts for nearby residents and businesses. The creation of local winners and losers can result in fierce lobbying during the project approval process, and where these efforts are successful socially beneficial investments may be abandoned. This kind of NIMBY (Not In My Backyard) behavior is common, but the scale of the welfare costs it imposes are poorly understood. In this study I use detailed data on planning applications for all renewable energy projects in the United Kingdom to estimate the social costs of local lobbying. I first use hedonic methods to estimate how the construction of a new project is capitalized into local house prices. I then examine how the scale and distribution of these house price effects determines the likelihood of projects being approved. Lastly I estimate the forgone benefits of projects that were unsuccessful, and consider the feasibility of using transfers to reduce opposition to projects that create significant welfare gains. I find that a modest targeted transfer scheme could have substantially increased UK electricity generation from renewable sources, or achieved the same level today at much lower cost. 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13606-1446501990.jpg?itok=2l4Pmsrr" width = "200" hspace = "20" alt = "Karl">
+
+**Presenter:** Karl Dunkle Werner  
+**Title:** Regulating Poorly-Measured Pollution: A Sufficient Statistics Approach to Methane Emissions  
+**Abstract:** TBD  
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1571100882.jpg?itok=cihwUvI7" width = "200" hspace = "20" alt = "Kate">
+
+**Presenter:** Kate Pennington  
+**Title:** The Impact of Expectations About Future Reproductive Rights on Contraceptive Choice, Pregnancy, and Abortion    
+
+**Abstract:** A growing body of work shows that restricting family planning budgets and access to abortion causes an increase in fertility and a decrease in abortion.  This paper investigates whether women respond to changing expectations about their future access to reproductive services when they choose a contraceptive method today.  I hypothesize that an increase in the risk of high costs and low abortion access causes some women to switch to Long Acting Reversible Contraceptives (LARCs) like IUDs and implants.  These methods are free or low-cost under the ACA, more effective than most other methods, and last 3-10 years.  Using de-identified patient level data from Planned Parenthood of Northern New England, I find that the unexpected election of the Trump administration in 2016 caused a spike in the probability of switching to a LARC.  Next, I will explore how this changing contraceptive choice affect rates of unintended pregnancy and abortion.    
+
+
