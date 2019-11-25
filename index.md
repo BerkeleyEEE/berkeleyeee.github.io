@@ -2,8 +2,6 @@
 
 ## Fall 2019 -- Upcoming
 
-
-
 ### 11 December 2019 (12-1:30PM)
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=uu9KcWqd" width = "200" hspace = "20" alt = "Shelley">
 
