@@ -9,7 +9,7 @@
 **Title:** Climate Risk and Municipal Financing   
 **Abstract:** TBD  
 
-<img src = "https://lh5.googleusercontent.com/w5ZTSylVpuFaLLvg726dRHXiYheE9NY9bL3fBvWZPDFwIkc8uVOD-ICr8g53C2LFC3KeVfZisqtXJudbdVmK4w5A8ChjsGDxmyEWnhXmdQexNcJOqMg=w271" width = "200" hspace = "20" alt = "Eva">
+<img src = "https://ei.haas.berkeley.edu/images/profiles/staff/eva-lyubich2.png" width = "200" hspace = "20" alt = "Eva">
 
 **Presenter:** Eva Lyubich  
 **Title:** TBD   
