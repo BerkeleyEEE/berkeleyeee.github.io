@@ -12,14 +12,14 @@
 <img src = "https://ei.haas.berkeley.edu/images/profiles/staff/eva-lyubich2.png" width = "200" hspace = "20" alt = "Eva">
 
 **Presenter:** Eva Lyubich  
-**Title:** TBD   
+**Title:** Inequality, Public Goods, and Private Investment: Impacts on Carbon Emissions  
 **Abstract:** TBD  
 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=GhTiiRed" width = "200" hspace = "20" alt = "Jaechoel">
 
 **Presenter:** Jaecheol Lee  
-**Title:** Information saves lives: Air pollution alerts and Mortality  
+**Title:** Beneficial Anyway?: Air Pollution Alerts and Traffic Accidents
 **Abstract:** TBD  
 
 ## Fall 2019 - Past Presentations
