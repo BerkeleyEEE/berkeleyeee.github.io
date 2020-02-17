@@ -12,7 +12,7 @@
 **Abstract:** Abstract: Estimating the welfare impacts of rural electrification in low income countries is difficult because consumers in these settings typically face significant market frictions in both adopting and paying for electricity. Market frictions distort consumers' observed willingness to pay, so the resulting demand curves are not ideal for measuring welfare. I experiment with a service that substantially reduces relevant frictions in paying for electricity. Consumers exhibit inelastic demand for the service, suggesting that it substantially improves welfare. The service significantly increases demand for electricity on the intensive margin; however, the impacts are highly heterogeneous. I propose a model of liquidity constraints and transaction costs that can explain seemingly conflicting empirical results.
 
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=zw5kwg-p" width = "200" hspace = "20" alt = "Peiley">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1579136593.jpg?itok=awVbUhHq" width = "200" hspace = "20" alt = "Peiley">
 
 **Presenter:** Peiley Lau  
 **Title:** Heterogeneity in firm level flaring: identifying a culture of pollution and noncompliance   
