@@ -54,7 +54,7 @@
 **Title:** Taxation Toward Representation: Public Goods, Tax Collection, Social Norms, and Democratic Accountability     
 **Abstract:** While theoretical and historical work has explored the relationship between public goods, taxation, social norms, and the formation of democratic institutions, there is a considerable gap in empirical evidence. Haiti is piloting a system for managing federal transfers and collecting municipal taxes which provides an opportunity to study the efforts of a weak state with extremely low tax compliance as it attempts to formalize society. I have partnered with the mayor of one of the largest cities in the country to implement a city-wide RCT of public goods, tax collection, and public exposure of tax compliance to identify effective interventions and disentangle channels for transitioning from a zero-tax equilibrium as well as the impact of such efforts on participation in formal channels of accountability including voting as well as participation in informal taxation and other non-governmental forms of civic engagement.  
 
-### 18 March 2020
+### 20 March 2020 (Friday, Location TBD)
  
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=a1cmRsXe" width = "200" hspace = "20" alt = "Derek">
 
