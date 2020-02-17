@@ -7,13 +7,16 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13618-1446502044.jpg?itok=Pzg2FUbe" width = "200" hspace = "20" alt = "Megan">
 
 **Presenter:** Megan Lang  
-**Title:** TBD   
-**Abstract:** TBD 
+**Title:** Addressing Market Frictions in Paying for Electricity in Rwanda     
+
+**Abstract:** Abstract: Estimating the welfare impacts of rural electrification in low income countries is difficult because consumers in these settings typically face significant market frictions in both adopting and paying for electricity. Market frictions distort consumers' observed willingness to pay, so the resulting demand curves are not ideal for measuring welfare. I experiment with a service that substantially reduces relevant frictions in paying for electricity. Consumers exhibit inelastic demand for the service, suggesting that it substantially improves welfare. The service significantly increases demand for electricity on the intensive margin; however, the impacts are highly heterogeneous. I propose a model of liquidity constraints and transaction costs that can explain seemingly conflicting empirical results.
+
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1446502165.jpg?itok=zw5kwg-p" width = "200" hspace = "20" alt = "Peiley">
 
 **Presenter:** Peiley Lau  
 **Title:** Heterogeneity in firm level flaring: identifying a culture of pollution and noncompliance   
+
 **Abstract:** The recent increase in petroleum production in the United States resulting from technological breakthroughs in unconventional oil and gas production techniques has been accompanied by record amounts of flaring of associated gas. State agencies that oversee the oil and gas industry in petroleum rich states, such as the Railroad Commission of Texas and the North Dakota Industrial Commission, regulate the duration and quantity of permissible routine gas flaring. Despite existing regulations and stated industry buy-in to reduce flaring, the volume of flared gas has climbed in recent years. Firm level heterogeneity in the US oil industry characterized by varied ownership structure, scale of operations, and regional presence, renders the oil industry a rich landscape to examine how heterogeneity in firm management practices affects environmental pollution outcomes, such as flaring, that have climate change and public health consequences. In this paper, I exploit both exogenous changes in flaring policies within-state and across-states, and use both a difference-in-differences approach as well as a spatial border regression discontinuity approach, to examine how firm characteristics affect flaring outcomes. Furthermore, this paper is the first to distinguish between firm level reported and actual flaring behavior by combining administrative well and lease level oil production and flared volume data with a novel remotely sensed well level flared volume dataset. This allows me to discern how firm characteristics enable strategic reporting and whether that is accompanied by true changes in flared volumes.  
 
 
