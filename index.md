@@ -34,19 +34,6 @@
 **Title:** Taxation Toward Representation: Public Goods, Tax Collection, Social Norms, and Democratic Accountability     
 **Abstract:** While theoretical and historical work has explored the relationship between public goods, taxation, social norms, and the formation of democratic institutions, there is a considerable gap in empirical evidence. Haiti is piloting a system for managing federal transfers and collecting municipal taxes which provides an opportunity to study the efforts of a weak state with extremely low tax compliance as it attempts to formalize society. I have partnered with the mayor of one of the largest cities in the country to implement a city-wide RCT of public goods, tax collection, and public exposure of tax compliance to identify effective interventions and disentangle channels for transitioning from a zero-tax equilibrium as well as the impact of such efforts on participation in formal channels of accountability including voting as well as participation in informal taxation and other non-governmental forms of civic engagement.  
 
-### 20 March 2020 (Friday, Location TBD)
- 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=a1cmRsXe" width = "200" hspace = "20" alt = "Derek">
-
-**Presenter:** Derek Wolfson  
-**Title:** Consumer Surplus, Producer Surplus and Wealth: Implications for Policy and Welfare Analysis   
-**Abstract:** TBD 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13676-1474659435.jpg?itok=pdIDnNrt" width = "200" hspace = "20" alt = "Molly">
-
-**Presenter:** Molly Van Dop Sears  
-**Title:** TBD   
-**Abstract:** TBD
 
 ### 1 April 2020
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13644-1474658047.jpg?itok=aSj_tjyh" width = "200" hspace = "20" alt = "Hannah">
@@ -96,6 +83,20 @@
 **Title:** TBD   
 **Abstract:** TBD
 
+### 17 April 2020 (Friday, Location UHall 150)
+ 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=a1cmRsXe" width = "200" hspace = "20" alt = "Derek">
+
+**Presenter:** Derek Wolfson  
+**Title:** Consumer Surplus, Producer Surplus and Wealth: Implications for Policy and Welfare Analysis   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13676-1474659435.jpg?itok=pdIDnNrt" width = "200" hspace = "20" alt = "Molly">
+
+**Presenter:** Molly Van Dop Sears  
+**Title:** TBD   
+**Abstract:** TBD
+
 
 ## Past Presentations -- Spring 2020 
 
@@ -129,8 +130,4 @@
 **Title:** Heterogeneity in firm level flaring: identifying a culture of pollution and noncompliance   
 
 **Abstract:** The recent increase in petroleum production in the United States resulting from technological breakthroughs in unconventional oil and gas production techniques has been accompanied by record amounts of flaring of associated gas. State agencies that oversee the oil and gas industry in petroleum rich states, such as the Railroad Commission of Texas and the North Dakota Industrial Commission, regulate the duration and quantity of permissible routine gas flaring. Despite existing regulations and stated industry buy-in to reduce flaring, the volume of flared gas has climbed in recent years. Firm level heterogeneity in the US oil industry characterized by varied ownership structure, scale of operations, and regional presence, renders the oil industry a rich landscape to examine how heterogeneity in firm management practices affects environmental pollution outcomes, such as flaring, that have climate change and public health consequences. In this paper, I exploit both exogenous changes in flaring policies within-state and across-states, and use both a difference-in-differences approach as well as a spatial border regression discontinuity approach, to examine how firm characteristics affect flaring outcomes. Furthermore, this paper is the first to distinguish between firm level reported and actual flaring behavior by combining administrative well and lease level oil production and flared volume data with a novel remotely sensed well level flared volume dataset. This allows me to discern how firm characteristics enable strategic reporting and whether that is accompanied by true changes in flared volumes.  
-
-
-
-
 
