@@ -8,7 +8,7 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13619-1571100882.jpg?itok=cihwUvI7" width = "200" hspace = "20" alt = "Kate">
 
 **Presenter:** Kate Pennington  
-**Title:** TBD   
+**Title:** Does New Housing Construction Cause Displacement?: Evidence from San Francisco   
 **Abstract:** TBD  
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1524157489.jpg?itok=rVehzX7c" width = "200" hspace = "20" alt = "James">
