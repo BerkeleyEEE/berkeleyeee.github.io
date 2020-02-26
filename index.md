@@ -9,7 +9,7 @@
 
 **Presenter:** Kate Pennington  
 **Title:** Does New Housing Construction Cause Displacement?: Evidence from San Francisco   
-**Abstract:** TBD  
+**Abstract:** San Francisco is gentrifying rapidly as an influx of high-income newcomers drives up housing prices and displaces lower-income longtime residents. Yet building new housing is controversial. While advocates insist that increasing supply is the only way to bring down prices, opponents fear that construction will jumpstart gentrification in new areas through spillover effects on the price of nearby housing. This paper identifies the causal impact of new construction on displacement by exploiting random variation in the location of new construction induced by serious building fires. I combine parcel-level data on new construction with panel data on individual migration history to test whether proximity to exogenous new construction impacts the risk of moving.  I find that proximity to new market rate construction reduces the risk of displacement by 4.7% per year and has no impact on gentrification.  New affordable construction and endogenous construction have no impact on nearby displacement or gentrification. Using an original dataset of historic Craiglist rents, I show that new market rate construction brings down nearby rents, reducing the likelihood of moving mainly among renters without rent control.  
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1524157489.jpg?itok=rVehzX7c" width = "200" hspace = "20" alt = "James">
 
