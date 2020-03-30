@@ -26,7 +26,6 @@ Meeting ID: 716 261 2938
 **Abstract:** Economists typically consider electricity a homogeneous good, yet some residential customers in deregulated retail electricity markets face prices over twice as high as others. I demonstrate the limitations of conventional explanations to justify price variation across customers, including product bundling, unobserved quality differences across suppliers, and changes in costs over time. Using Connecticut retail supplier by month price distribution data and Connecticut and Texas offers on government comparison websites, I show that rationalizing the residential electricity prices we observe in Connecticut and the retail rate designs we observe in Texas requires the presence of another market friction. I provide evidence that price discrimination on inattention can rationalize these prices and rate designs. I then test equilibrium outcomes under counterfactual policies and discuss welfare implications.  
 
 
-
 ### 8 April 2020
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13615-1446501945.jpg?itok=Wl6nObpR" width = "200" hspace = "20" alt = "Hal">
 
@@ -54,7 +53,7 @@ Meeting ID: 716 261 2938
 **Title:** TBD   
 **Abstract:** TBD
 
-### 17 April 2020 (Friday, Location UHall 150)
+### 17 April 2020 (Friday)
  
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel">
 
