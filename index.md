@@ -1,5 +1,12 @@
 #### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again.  Presentations begin at 12PM and conlude at 1:00PM.
 
+Join Zoom Meeting
+https://berkeley.zoom.us/j/7162612938
+
+Meeting ID: 716 261 2938
+
+
+
 
 ## Spring 2020 -- Upcoming Schedule
 
@@ -8,21 +15,16 @@
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13644-1474658047.jpg?itok=aSj_tjyh" width = "200" hspace = "20" alt = "Hannah">
 
 **Presenter:** Hannah Drunkenmiller  
-**Title:** TBD   
+**Title:** Natural Disasters and Long-run Development: Evidence from A Historical Archive of Aerial Photographs     
 **Abstract:** TBD  
 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13727-1509586799.jpg?itok=6nixeQaH" width = "200" hspace = "20" alt = "Jenya">
 
 **Presenter:** Jenya Kahn-Lang  
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** Discriminating on Inattention in Retail Power Markets   
+**Abstract:** Economists typically consider electricity a homogeneous good, yet some residential customers in deregulated retail electricity markets face prices over twice as high as others. I demonstrate the limitations of conventional explanations to justify price variation across customers, including product bundling, unobserved quality differences across suppliers, and changes in costs over time. Using Connecticut retail supplier by month price distribution data and Connecticut and Texas offers on government comparison websites, I show that rationalizing the residential electricity prices we observe in Connecticut and the retail rate designs we observe in Texas requires the presence of another market friction. I provide evidence that price discrimination on inattention can rationalize these prices and rate designs. I then test equilibrium outcomes under counterfactual policies and discuss welfare implications.  
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel">
-
-**Presenter:** Daniel Kannell  
-**Title:** TBD   
-**Abstract:** TBD
 
 
 ### 8 April 2020
@@ -54,11 +56,11 @@
 
 ### 17 April 2020 (Friday, Location UHall 150)
  
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13622-1446501770.jpg?itok=a1cmRsXe" width = "200" hspace = "20" alt = "Derek">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel">
 
-**Presenter:** Derek Wolfson  
-**Title:** Consumer Surplus, Producer Surplus and Wealth: Implications for Policy and Welfare Analysis   
-**Abstract:** TBD 
+**Presenter:** Daniel Kannell  
+**Title:** TBD   
+**Abstract:** TBD
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13676-1474659435.jpg?itok=pdIDnNrt" width = "200" hspace = "20" alt = "Molly">
 
