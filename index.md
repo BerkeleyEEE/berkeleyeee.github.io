@@ -14,7 +14,7 @@ Meeting ID: 716 261 2938
 ### 1 April 2020
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13644-1474658047.jpg?itok=aSj_tjyh" width = "200" hspace = "20" alt = "Hannah">
 
-**Presenter:** Hannah Drunkenmiller  
+**Presenter:** Hannah Druckenmiller  
 **Title:** Natural Disasters and Long-run Development: Evidence from A Historical Archive of Aerial Photographs     
 **Abstract:** TBD  
 
