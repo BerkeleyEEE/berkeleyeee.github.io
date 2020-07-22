@@ -7,7 +7,6 @@ Meeting ID: 716 261 2938
 
 
 
-
 ## Spring 2020 -- Upcoming Schedule
 
 
@@ -19,7 +18,7 @@ Meeting ID: 716 261 2938
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun">
 
 **Presenter:** Wenjun Wang  
-**Title:** TBD   
+**Title:** TBD     
 **Abstract:** TBD
 
 ### 17 April 2020 (Friday)
