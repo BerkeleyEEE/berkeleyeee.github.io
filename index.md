@@ -17,7 +17,7 @@ Password: 960711
 
 ### 23 September 2020 (Practice Job Talk)
 
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/AZ.jpg" width = "200" hspace = "20" alt = "Ariel Zucker">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=bGdt7ntH" width = "200" hspace = "20" alt = "Ariel Zucker">
 
 **Presenter:** Ariel Zucker  
 **Title:** Customizing Incentives for Behavioral Change: The Power of Price Discrimination     
