@@ -25,7 +25,7 @@ Password: 960711
 
 ### 30 September 2020
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/HD.jpg" width = "200" hspace = "20" alt = "Hannah Druckenmiller">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13644-1474658047.jpg?itok=aSj_tjyh" width = "200" hspace = "20" alt = "Hannah Druckenmiller">
 
 **Presenter:** Hannah Druckenmiller  
 **Title:** The economic and social value of forests: Evidence from tree mortality in the American West   
@@ -33,7 +33,7 @@ Password: 960711
 
 ### 7 October 2020 (Practice Job Talk)
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/SK.jpg" width = "200" hspace = "20" alt = "Scott Kaplan">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12464-1567823941.jpg?itok=U4SiD_7T" width = "200" hspace = "20" alt = "Scott Kaplan">
 
 **Presenter:** Scott Kaplan   
 **Title:** Entertainment Utility from Suspense, Surprise, and Starpower   
@@ -41,7 +41,7 @@ Password: 960711
 
 ### 14 October 2020 (Practice Job Talk)
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/BK.jpg" width = "200" hspace = "20" alt = "Benjamin Krause">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13617-1594934642.jpg?itok=kT7Ytg73" width = "200" hspace = "20" alt = "Benjamin Krause">
 
 **Presenter:** Benjamin Krause   
 **Title:** Taxation Toward Representation: Public Goods, Tax Collection, Social Norms and Democratic Accountability   
@@ -49,7 +49,7 @@ Password: 960711
 
 ### 21 October 2020 (Practice Job Talk)
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/PL.jpg" width = "200" hspace = "20" alt = "Peiley Lau">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-12793-1579136593.jpg?itok=awVbUhHq" width = "200" hspace = "20" alt = "Peiley Lau">
 
 **Presenter:** Peiley Lau   
 **Title:** Identifying environmental misreporting from space: Evidence from natural gas flaring in the Bakken    
@@ -57,7 +57,7 @@ Password: 960711
 
 ### 28 October 2020 (Practice Job Talk)
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/SJ.jpg" width = "200" hspace = "20" alt = "Stephen Jarvis">
+<img src = "https://stephenjarvis.github.io/img/profile.jpg" width = "200" hspace = "20" alt = "Stephen Jarvis">
 
 **Presenter:** Stephen Jarvis   
 **Title:** The economic costs of NIMBYism: evidence from renewable energy projects    
@@ -65,13 +65,13 @@ Password: 960711
 
 ### 4 November 2020
  
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/JS.jpg" width = "200" hspace = "20" alt = "James Sayre">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13651-1588886123.jpg?itok=B-_22yYp" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** James Sayre     
 **Title:** TBD   
 **Abstract:** TBD   
 
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/SH.jpg" width = "200" hspace = "20" alt = "Shelley He">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
 
 **Presenter:** Shelley He   
 **Title:** TBD   
