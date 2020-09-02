@@ -1,11 +1,13 @@
-#### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again. ERE student work-in-progress presentations begin at 12PM and conlude at 1:00PM. Practice job talks will begin at 11:30AM or 12PM, and last for 1.5 hours.
+#### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again. ERE student work-in-progress presentations begin at 12PM and conlude at 1:00PM. Practice job talks begin at 11:30AM or 12PM, and last for 1.5 hours.
 
 Join Zoom Meeting
-https://berkeley.zoom.us/j/93929425145?pwd=L01keEE1Snk1dlltTFFCSTVrK0cxUT09
+https://berkeley.zoom.us/j/93929425145
 
 Meeting ID: 939 2942 5145
 
 Password: 960711
+
+(See the ERE Calendar for dial-in number)
 
 
 
