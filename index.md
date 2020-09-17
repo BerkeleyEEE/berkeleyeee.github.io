@@ -66,12 +66,6 @@ Password: 960711
 **Abstract:** Large infrastructure projects can create widespread societal benefits and are often critical to tackling major national or global challenges. However, large infrastructure projects frequently prompt strong opposition from local residents and businesses. This is sometimes pejoratively labeled NIMBY (Not In My Backyard) behavior and is thought to be common in many settings, although the economic costs it imposes are poorly understood. In this paper I estimate the economic costs of so-called NIMBYism. To do this I examine the case of renewable energy in the United Kingdom where I am able to draw on detailed planning data for all renewable energy projects, including projects that were proposed but not approved. I first use hedonic methods to estimate how the construction of a wind or solar project is capitalized into local property values. I find that wind projects have significant negative local impacts whilst solar projects do not. I then quantify the weight that planning officials place on these local factors during the planning process and find evidence that they are indeed uniquely responsive to local property value impacts. This has resulted in societally beneficial projects being systematically refused, which may have contributed to increasing the cost of the UK's deployment of wind power by as much as 12-36%. I conclude by discussing policy solutions and suggest that the remedies tried to date are the right ones, but that they have been too small in scope.
 
 ### 4 November 2020
- 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13651-1588886123.jpg?itok=B-_22yYp" width = "200" hspace = "20" alt = "James Sayre">
-
-**Presenter:** James Sayre     
-**Title:** TBD   
-**Abstract:** TBD   
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
 
