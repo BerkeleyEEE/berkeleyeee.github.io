@@ -17,13 +17,6 @@ Password: 960711
 
 
 
-### 23 September 2020 (Practice Job Talk, 12PM-1:30PM)
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=bGdt7ntH" width = "200" hspace = "20" alt = "Ariel Zucker">
-
-**Presenter:** Ariel Zucker  
-**Title:** Can price discrimination incentivize behavioral change? Evidence from a randomized field experiment     
-**Abstract:** Incentives for health behaviors are an increasingly important policy tool in both developed and developing countries, and there is widespread interest in improving the effectiveness of incentive contracts. However, people are different, and no one contract is most effective for everyone. The theory of price discrimination offers two promising strategies to effectively customize contracts: tagging on observables (i.e., 3rd-degree price discrimination), and offering a menu of contract choices (i.e., 2nd-degree price discrimination). We adapt each of these strategies to customize incentive contracts for walking. Using a randomized controlled trial among more than 5,000 adults in urban India, we show that both mechanisms increase physical activity, leading to a 60% increase in steps walked relative to the effect of a one-size-fits-all benchmark contract. Moreover, we find that a common force in health behavior settings - commitment motives - helps both mechanisms to sort agents into more effective contracts. In particular, time inconsistent agents demand contracts that commit their future selves to walk more, bringing their preferences in partial alignment with the principal and improving self-selection. Finally, we find limited evidence that lack of information about health behavior costs is a barrier to effective price discrimination. The results suggest that customization mechanisms have broad promise in preventive health settings.
 
 ### 30 September 2020
  
@@ -75,4 +68,13 @@ Password: 960711
 
 
 
-## Past Presentations -- Fall 2020 
+## Past Presentations -- Fall 2020
+
+### 23 September 2020 (Practice Job Talk, 12PM-1:30PM)
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13826-1567463638.jpg?itok=bGdt7ntH" width = "200" hspace = "20" alt = "Ariel Zucker">
+
+**Presenter:** Ariel Zucker  
+**Title:** Can price discrimination incentivize behavioral change? Evidence from a randomized field experiment     
+**Abstract:** Incentives for health behaviors are an increasingly important policy tool in both developed and developing countries, and there is widespread interest in improving the effectiveness of incentive contracts. However, people are different, and no one contract is most effective for everyone. The theory of price discrimination offers two promising strategies to effectively customize contracts: tagging on observables (i.e., 3rd-degree price discrimination), and offering a menu of contract choices (i.e., 2nd-degree price discrimination). We adapt each of these strategies to customize incentive contracts for walking. Using a randomized controlled trial among more than 5,000 adults in urban India, we show that both mechanisms increase physical activity, leading to a 60% increase in steps walked relative to the effect of a one-size-fits-all benchmark contract. Moreover, we find that a common force in health behavior settings - commitment motives - helps both mechanisms to sort agents into more effective contracts. In particular, time inconsistent agents demand contracts that commit their future selves to walk more, bringing their preferences in partial alignment with the principal and improving self-selection. Finally, we find limited evidence that lack of information about health behavior costs is a barrier to effective price discrimination. The results suggest that customization mechanisms have broad promise in preventive health settings.
+
