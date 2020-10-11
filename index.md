@@ -8,10 +8,13 @@ Meeting ID: 939 2942 5145
 Password: 960711
 
 One tap mobile
+
 +16692192599,,93929425145#,,,,,,0#,,960711# US (San Jose)
+
 +16699006833,,93929425145#,,,,,,0#,,960711# US (San Jose)
 
 Dial by your location
+
         +1 669 219 2599 US (San Jose)
         +1 669 900 6833 US (San Jose)
         +1 213 338 8477 US (Los Angeles)
