@@ -42,22 +42,13 @@ Dial by your location
 
 
 
-
-### 28 October 2020 (Practice Job Talk, 11:30AM-1PM)
- 
-<img src = "https://stephenjarvis.github.io/img/profile.jpg" width = "200" hspace = "20" alt = "Stephen Jarvis">
-
-**Presenter:** Stephen Jarvis   
-**Title:** The economic costs of NIMBYism: evidence from renewable energy projects    
-**Abstract:** Large infrastructure projects can create widespread societal benefits and are often critical to tackling major national or global challenges. However, large infrastructure projects frequently prompt strong opposition from local residents and businesses. This is sometimes pejoratively labeled NIMBY (Not In My Backyard) behavior and is thought to be common in many settings, although the economic costs it imposes are poorly understood. In this paper I estimate the economic costs of so-called NIMBYism. To do this I examine the case of renewable energy in the United Kingdom where I am able to draw on detailed planning data for all renewable energy projects, including projects that were proposed but not approved. I first use hedonic methods to estimate how the construction of a wind or solar project is capitalized into local property values. I find that wind projects have significant negative local impacts whilst solar projects do not. I then quantify the weight that planning officials place on these local factors during the planning process and find evidence that they are indeed uniquely responsive to local property value impacts. This has resulted in societally beneficial projects being systematically refused, which may have contributed to increasing the cost of the UK's deployment of wind power by as much as 12-36%. I conclude by discussing policy solutions and suggest that the remedies tried to date are the right ones, but that they have been too small in scope.
-
 ### 4 November 2020
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
 
 **Presenter:** Shelley He   
-**Title:** TBD   
-**Abstract:** TBD   
+**Title:** Adaptation Investment, Local Government Financing and the Municipal Bond Market   
+**Abstract:** Adaptation investment by the public sector can affect both the supply and demand of local government financing. A large proportion of public adaptation investment in the U.S. is funded by FEMA grants, which are disbursed to state and local governments after a Presidential Disaster Declaration (PDD), as a share of total assistance given to the entire state. I use the idiosyncratic variation in timing and availability of hazard mitigation funds due to proration rules to study the impact of public investment in adaptation on disaster response, outstanding long-term debt issued by local governments, municipal bond yields and risk premia. There are three main findings. First, hazard mitigation funds reduce damage in subsequent major disasters. Second, counties exposed to higher level of climate risks have less outstanding long-term debt and pay less interests after receiving more hazard mitigation funds. Third, hazard mitigation funds reduce yields and risk premia for municipal bonds with shorter maturity and increase those for bonds with longer maturity issued by high-risk counties.   
 
 
 
@@ -103,6 +94,13 @@ Dial by your location
 **Title:** The Extraordinary and Unexplained rise of unreported gas flaring among fracking firms    
 **Abstract:** This paper evaluates the effect of an environmental policy aimed at reducing routine natural gas flaring and provides causal evidence of misreporting by unconventional oil and gas wells in the Bakken Shale. I overcome the challenge of relying on self-reported administrative data by constructing a novel monthly well level dataset to evaluate flaring and policy compliance between March 2012 - November 2019 in the Bakken. I employ a difference-in-differences estimation specification using North Dakota and Montana wells to evaluate the causal impact of a North Dakota flaring reduction policy on reported and true flaring in North Dakota. I find evidence that the policy reduced well level flaring by 6.7 (5.2 - 7.1) points in the remotely detected data, and by 6.1 (5.3 - 6.6) points in the self-reported data between October 2014 - October 2016, relative to flaring rates in the pre-policy period. However, I find evidence of misreporting November 2016 onward; I estimate that the policy on average reduced well level flaring by 6.7 (5.9 - 8.9) points in the remotely detected data, but that it reduced flaring by 15.8 (15.7 - 16.2) points in the self-reported data, relative to the pre-policy flaring rates. Furthermore, I find that the remotely detected statewide flared volumes grew from being 2.5% larger than the self-reported flared volumes between (122 BCF/year, and 118 BCF/year, respectively) 2012-2016, to being larger by 74% (227 BCF/year, and 131 BCF/year, respectively) between 2017-2019.
 
+### 28 October 2020 (Practice Job Talk, 11:30AM-1PM)
+ 
+<img src = "https://stephenjarvis.github.io/img/profile.jpg" width = "200" hspace = "20" alt = "Stephen Jarvis">
+
+**Presenter:** Stephen Jarvis   
+**Title:** The economic costs of NIMBYism: evidence from renewable energy projects    
+**Abstract:** Large infrastructure projects can create widespread societal benefits and are often critical to tackling major national or global challenges. However, large infrastructure projects frequently prompt strong opposition from local residents and businesses. This is sometimes pejoratively labeled NIMBY (Not In My Backyard) behavior and is thought to be common in many settings, although the economic costs it imposes are poorly understood. In this paper I estimate the economic costs of so-called NIMBYism. To do this I examine the case of renewable energy in the United Kingdom where I am able to draw on detailed planning data for all renewable energy projects, including projects that were proposed but not approved. I first use hedonic methods to estimate how the construction of a wind or solar project is capitalized into local property values. I find that wind projects have significant negative local impacts whilst solar projects do not. I then quantify the weight that planning officials place on these local factors during the planning process and find evidence that they are indeed uniquely responsive to local property value impacts. This has resulted in societally beneficial projects being systematically refused, which may have contributed to increasing the cost of the UK's deployment of wind power by as much as 12-36%. I conclude by discussing policy solutions and suggest that the remedies tried to date are the right ones, but that they have been too small in scope.
 
 
 
