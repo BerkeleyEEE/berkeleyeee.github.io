@@ -42,7 +42,7 @@ Dial by your location
 
 
 
-### 4 November 2020
+### 9 December 2020
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
 
