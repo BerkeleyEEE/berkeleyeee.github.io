@@ -78,9 +78,9 @@ Dial by your location
 **Title:** TBD   
 **Abstract:** TBD  
 
-<img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
-
 ### 10 March 2021
+
+<img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
 
 **Presenter:** Matthew Tarduno   
 **Title:** TBD   
@@ -106,9 +106,9 @@ Dial by your location
 **Title:** TBD   
 **Abstract:** TBD 
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1594327691.png?itok=wSImUNQU" width = "200" hspace = "20" alt = "James Sears">
-
 ### 21 April 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1594327691.png?itok=wSImUNQU" width = "200" hspace = "20" alt = "James Sears">
 
 **Presenter:** James Sears   
 **Title:** Culpable Consumption: Public Shame and Excessive Water Use   
@@ -128,9 +128,9 @@ Dial by your location
 **Title:** TBD   
 **Abstract:** TBD 
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel Kannell">
-
 ### 12 May 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel Kannell">
 
 **Presenter:** Daniel Kannell   
 **Title:** TBD   
