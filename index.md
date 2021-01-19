@@ -44,13 +44,13 @@ Dial by your location
 
 ### 27 January 2021
 
-<img src = "https://are.berkeley.edu/user/13782" width = "200" hspace = "20" alt = "Pierre Biscaye">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13782-1536775275.jpg?itok=X1G03fhX" width = "200" hspace = "20" alt = "Pierre Biscaye">
 
 **Presenter:** Pierre Biscaye   
 **Title:** Electricity subsidy programs in practice: Evidence from COVID-19 relief in Ghana   
 **Abstract:** During economic downturns, governments often provide transfers to protect some of their poorest constituents. These often take the form of in-kind transfers and subsidies government programs to distribute food, water, or electricity at low or no cost have been widespread during the 2020 global health crisis. We survey 1,200 households in Accra, Ghana who were eligible for an electricity subsidy program introduced in response to the COVID-19 crisis to assess the efficiency, distributional, and political implications of the program and identify opportunities for increasing the efficacy of government transfer programs. First, most households report valuing the subsidy only slightly less (and often more) than the equivalent amount in cash, presumably because the subsidized electricity is inframarginal to their optimal consumption. Providing relief through the existing electricity payments system also allowed some households to benefit quickly, but did not preclude delays in subsidy receipt or exclusion of certain recipients. Second, we identify regressivity in subsidy distribution, beyond the regressivity of providing greater subsidy amounts to households using more electricity. Households that pay a landlord for electricity and that share an electricity meter with other users both common setups for low-income electricity consumers in urban settings in the developing world are significantly less likely to have ever received the subsidy. Finally, we show that subsidy receipt increases support for the governing party but that respondents sour on the subsidies substantially when reminded that they might have to pay for them in the future.   
 
-<img src = "https://are.berkeley.edu/user/13784" width = "200" hspace = "20" alt = "Joel Ferguson">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13784-1536622495.jpg?itok=C8b_70kt" width = "200" hspace = "20" alt = "Joel Ferguson">
 
 **Presenter:** Joel Ferguson   
 **Title:** Sustainable Agriculture, Residue Burning, and Urban Infant Mortality: Evidence from Mexico   
