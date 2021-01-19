@@ -58,7 +58,7 @@ Dial by your location
 
 <img src = "https://derekwolfson.weebly.com/uploads/2/1/3/4/21340124/9209264.jpg" width = "200" hspace = "20" alt = "Derek Wolfson">
 
-### 10 Febrary 2021
+### 10 February 2021
 
 **Presenter:** Derek Wolfson   
 **Title:** Who Gets a Bid? Racial Disparities in Price Quotes   
@@ -66,7 +66,7 @@ Dial by your location
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
 
-### 24 Febrary 2021
+### 24 February 2021
 
 **Presenter:** Jesse Buchsbaum   
 **Title:** TBD   
