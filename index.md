@@ -1,4 +1,4 @@
-#### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again. ERE student work-in-progress presentations begin at 12PM and conlude at 1:00PM. Practice job talks begin at 11:30AM or 12PM, and last for 90 minutes.
+#### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
 
 Join Zoom Meeting
 https://berkeley.zoom.us/j/93929425145
@@ -36,21 +36,29 @@ Dial by your location
 
 
 
-## Fall 2020 -- Upcoming Schedule
+## Spring 2021 -- Upcoming Schedule
 
 
 
 
 
-### 9 December 2020
+### 27 January 2021
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
+<img src = "https://are.berkeley.edu/user/13782" width = "200" hspace = "20" alt = "Pierre Biscaye">
 
-**Presenter:** Shelley He   
-**Title:** Adaptation Investment, Local Government Financing and the Municipal Bond Market   
-**Abstract:** Adaptation investment by the public sector can affect both the supply and demand of local government financing. A large proportion of public adaptation investment in the U.S. is funded by FEMA hazard mitigation grant program, which disburses funds to state and local governments after a Presidential Disaster Declaration (PDD), as a share of total assistance given to the entire state. I use the idiosyncratic variation in timing and availability of hazard mitigation funds due to proration rules to study the impact of public investment in adaptation on disaster response, outstanding long-term debt issued by local governments, municipal bond yields and risk premia. There are three main findings. First, hazard mitigation funds reduce damage in subsequent major disasters. Second, counties exposed to higher level of climate risks have less outstanding long-term debt and pay less interests after receiving more hazard mitigation funds. Third, hazard mitigation funds reduce yields and risk premia for municipal bonds with shorter maturity and increase those for bonds with longer maturity issued by high-risk counties.   
+**Presenter:** Pierre Biscaye   
+**Title:** Electricity subsidy programs in practice: Evidence from COVID-19 relief in Ghana   
+**Abstract:** During economic downturns, governments often provide transfers to protect some of their poorest constituents. These often take the form of in-kind transfers and subsidies government programs to distribute food, water, or electricity at low or no cost have been widespread during the 2020 global health crisis. We survey 1,200 households in Accra, Ghana who were eligible for an electricity subsidy program introduced in response to the COVID-19 crisis to assess the efficiency, distributional, and political implications of the program and identify opportunities for increasing the efficacy of government transfer programs. First, most households report valuing the subsidy only slightly less (and often more) than the equivalent amount in cash, presumably because the subsidized electricity is inframarginal to their optimal consumption. Providing relief through the existing electricity payments system also allowed some households to benefit quickly, but did not preclude delays in subsidy receipt or exclusion of certain recipients. Second, we identify regressivity in subsidy distribution, beyond the regressivity of providing greater subsidy amounts to households using more electricity. Households that pay a landlord for electricity and that share an electricity meter with other users both common setups for low-income electricity consumers in urban settings in the developing world are significantly less likely to have ever received the subsidy. Finally, we show that subsidy receipt increases support for the governing party but that respondents sour on the subsidies substantially when reminded that they might have to pay for them in the future.   
+
+<img src = "https://are.berkeley.edu/user/13784" width = "200" hspace = "20" alt = "Joel Ferguson">
+
+**Presenter:** Joel Ferguson   
+**Title:** Sustainable Agriculture, Residue Burning, and Urban Infant Mortality: Evidence from Mexico   
+**Abstract:** Agricultural fires in developing countries produce substantial amounts of particulate matter and contribute to urban air pollution. However, relatively little research has evaluated policies intended to reduce crop residue burning compared to other air pollution abatement strategies. We quantify the effects of a portfolio of extension programs promoting sustainable agriculture practices to almost 250,000 plots throughout Mexico on agricultural burning and infant mortality in urban localities. Using event study regressions, we show that the roll-out of extension services to 0.1° x 0.1° grid-cells was unanticipated and led to reductions in the number of agricultural fires. Subsequently, we find that at the mean area serviced by extension in 2019, localities have 20% fewer agricultural fires within 50 Km and 15% fewer infant deaths relative to the mean. Reductions in infant mortality are experienced year round, rather than concentrated in the agricultural burning season, and are completely driven by the amount of area upwind that receives extension. We estimate the programs' cost of delaying an infant death by a month to be about $3000, suggesting that promotion of sustainable agriculture can be a cost-effective policy for reducing air pollution-induced infant mortality.   
 
 
+
+## Past Presentations -- Spring 2021
 
 ## Past Presentations -- Fall 2020
 
@@ -101,6 +109,14 @@ Dial by your location
 **Presenter:** Stephen Jarvis   
 **Title:** The economic costs of NIMBYism: evidence from renewable energy projects    
 **Abstract:** Large infrastructure projects can create widespread societal benefits and are often critical to tackling major national or global challenges. However, large infrastructure projects frequently prompt strong opposition from local residents and businesses. This is sometimes pejoratively labeled NIMBY (Not In My Backyard) behavior and is thought to be common in many settings, although the economic costs it imposes are poorly understood. In this paper I estimate the economic costs of so-called NIMBYism. To do this I examine the case of renewable energy in the United Kingdom where I am able to draw on detailed planning data for all renewable energy projects, including projects that were proposed but not approved. I first use hedonic methods to estimate how the construction of a wind or solar project is capitalized into local property values. I find that wind projects have significant negative local impacts whilst solar projects do not. I then quantify the weight that planning officials place on these local factors during the planning process and find evidence that they are indeed uniquely responsive to local property value impacts. This has resulted in societally beneficial projects being systematically refused, which may have contributed to increasing the cost of the UK's deployment of wind power by as much as 12-36%. I conclude by discussing policy solutions and suggest that the remedies tried to date are the right ones, but that they have been too small in scope.
+
+### 9 December 2020
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13646-1527380047.jpg?itok=h5JPdK2_" width = "200" hspace = "20" alt = "Shelley He">
+
+**Presenter:** Shelley He   
+**Title:** Adaptation Investment, Local Government Financing and the Municipal Bond Market   
+**Abstract:** Adaptation investment by the public sector can affect both the supply and demand of local government financing. A large proportion of public adaptation investment in the U.S. is funded by FEMA hazard mitigation grant program, which disburses funds to state and local governments after a Presidential Disaster Declaration (PDD), as a share of total assistance given to the entire state. I use the idiosyncratic variation in timing and availability of hazard mitigation funds due to proration rules to study the impact of public investment in adaptation on disaster response, outstanding long-term debt issued by local governments, municipal bond yields and risk premia. There are three main findings. First, hazard mitigation funds reduce damage in subsequent major disasters. Second, counties exposed to higher level of climate risks have less outstanding long-term debt and pay less interests after receiving more hazard mitigation funds. Third, hazard mitigation funds reduce yields and risk premia for municipal bonds with shorter maturity and increase those for bonds with longer maturity issued by high-risk counties.   
 
 
 
