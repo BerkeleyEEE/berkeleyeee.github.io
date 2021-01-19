@@ -56,6 +56,92 @@ Dial by your location
 **Title:** Sustainable Agriculture, Residue Burning, and Urban Infant Mortality: Evidence from Mexico   
 **Abstract:** Agricultural fires in developing countries produce substantial amounts of particulate matter and contribute to urban air pollution. However, relatively little research has evaluated policies intended to reduce crop residue burning compared to other air pollution abatement strategies. We quantify the effects of a portfolio of extension programs promoting sustainable agriculture practices to almost 250,000 plots throughout Mexico on agricultural burning and infant mortality in urban localities. Using event study regressions, we show that the roll-out of extension services to 0.1° x 0.1° grid-cells was unanticipated and led to reductions in the number of agricultural fires. Subsequently, we find that at the mean area serviced by extension in 2019, localities have 20% fewer agricultural fires within 50 Km and 15% fewer infant deaths relative to the mean. Reductions in infant mortality are experienced year round, rather than concentrated in the agricultural burning season, and are completely driven by the amount of area upwind that receives extension. We estimate the programs' cost of delaying an infant death by a month to be about $3000, suggesting that promotion of sustainable agriculture can be a cost-effective policy for reducing air pollution-induced infant mortality.   
 
+<img src = "https://derekwolfson.weebly.com/uploads/2/1/3/4/21340124/9209264.jpg" width = "200" hspace = "20" alt = "Derek Wolfson">
+
+### 10 Febrary 2021
+
+**Presenter:** Derek Wolfson   
+**Title:** Who Gets a Bid? Racial Disparities in Price Quotes   
+**Abstract:** When services are customized and priced on a case-by-case basis, sellers possess considerable leeway in whether to serve a customer and how much to charge if they do.  These types of markets are ubiquitous--including, among others, construction contracting, auto repair, and legal services.  Compared to firms with posted menus or fixed prices, firms offering customized services have more potential to discriminate based on customer characteristics. Inherent in these settings is the possibility of discrimination with respect to racial or ethnic characteristics.  Our research will investigate racial disparities in pricing and welfare for an expensive, durable investment---rooftop solar photovoltaic (PV) systems.   
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
+
+### 24 Febrary 2021
+
+**Presenter:** Jesse Buchsbaum   
+**Title:** TBD   
+**Abstract:** TBD  
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=am6zzrrs" width = "200" hspace = "20" alt = "Jaecheol Lee">
+
+**Presenter:** Jaecheol Lee   
+**Title:** TBD   
+**Abstract:** TBD  
+
+<img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
+
+### 10 March 2021
+
+**Presenter:** Matthew Tarduno   
+**Title:** TBD   
+**Abstract:** TBD  
+
+<img src = "https://elyubich.github.io/images/bio-photo.png" width = "200" hspace = "20" alt = "Eva Lyubich">
+
+**Presenter:** Eva Lyubich   
+**Title:** Place Based Climate Policy   
+**Abstract:** TBD 
+
+### 7 April 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
+
+**Presenter:** Leila Safavi   
+**Title:** From Bargaining Power to Market Power: Evidence from Natural Gas Pipelines   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun Wang">
+
+**Presenter:** Wenjun Wang   
+**Title:** TBD   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1594327691.png?itok=wSImUNQU" width = "200" hspace = "20" alt = "James Sears">
+
+### 21 April 2021
+
+**Presenter:** James Sears   
+**Title:** Culpable Consumption: Public Shame and Excessive Water Use   
+**Abstract:** TBD 
+
+### 5 May 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13727-1509586799.jpg?itok=6nixeQaH" width = "200" hspace = "20" alt = "Jenya Kahn-Lang">
+
+**Presenter:** Jenya Kahn-Lang   
+**Title:** TBD   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13785-1536780839.jpg?itok=6MQH2eDh" width = "200" hspace = "20" alt = "Wei Guo">
+
+**Presenter:** Wei Guo   
+**Title:** TBD   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel Kannell">
+
+### 12 May 2021
+
+**Presenter:** Daniel Kannell   
+**Title:** TBD   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13676-1474659435.jpg?itok=pdIDnNrt" width = "200" hspace = "20" alt = "Molly Sears">
+
+**Presenter:** Molly Sears   
+**Title:** Tradition is king: stickiness in agricultural nitrogen management decisions   
+**Abstract:** TBD 
+
 
 
 ## Past Presentations -- Spring 2021
