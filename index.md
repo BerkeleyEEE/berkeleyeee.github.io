@@ -45,7 +45,7 @@ Dial by your location
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
 
 **Presenter:** Jesse Buchsbaum   
-**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: \\Implications for Climate Policy   
+**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: Implications for Climate Policy   
 **Abstract:** In electricity markets, generators are rewarded both for providing energy and for enabling grid reliability. The two functions are compensated in separate markets: energy markets and ancillary services markets. We provide evidence of changes in the fuel mix in the energy market that is driven by exogenous changes in an ancillary services market. We provide quasi-experimental evidence and a theoretical framework for understanding the mechanism, showing that it results from the multi-product nature of conventional power plants combined with discontinuities in costs. As a result, policy changes relating to grid operations, grid reliability, or climate change could have unintended effects.   
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=am6zzrrs" width = "200" hspace = "20" alt = "Jaecheol Lee">
