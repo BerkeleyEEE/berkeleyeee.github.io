@@ -45,14 +45,16 @@ Dial by your location
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
 
 **Presenter:** Jesse Buchsbaum   
-**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: Implications for Climate Policy   
+**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: \\Implications for Climate Policy   
 **Abstract:** In electricity markets, generators are rewarded both for providing energy and for enabling grid reliability. The two functions are compensated in separate markets: energy markets and ancillary services markets. We provide evidence of changes in the fuel mix in the energy market that is driven by exogenous changes in an ancillary services market. We provide quasi-experimental evidence and a theoretical framework for understanding the mechanism, showing that it results from the multi-product nature of conventional power plants combined with discontinuities in costs. As a result, policy changes relating to grid operations, grid reliability, or climate change could have unintended effects.   
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=am6zzrrs" width = "200" hspace = "20" alt = "Jaecheol Lee">
 
 **Presenter:** Jaecheol Lee   
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** A Cost-Benefit Analysis of Warnings: the Case of South Korean Air Pollution Alert System   
+**Abstract:** Concerns over air pollution have been increasing due to anthropogenic emissions and natural disasters such as wildfires and dust storms. To reduce adverse health effects, an increasing number of countries have enacted air quality alert systems. However, it is unclear whether the resulting health benefits outweigh the costs associated with reduced economic activities and system maintenance. This project conducts a cost-benefit analysis of air pollution warnings focusing on the case of South Korea. Based on a regression discontinuity design, it estimates the reduction in respiratory morbidity spending using South Korea's universal healthcare data. This work further identifies the decrease in consumer demand utilizing the daily credit card spending dataset. Our results show that the health benefits considerably exceed the costs, which suggests the importance of the transparent and timely distribution of pollution information. 
+
+
 
 ### 10 March 2021
 
