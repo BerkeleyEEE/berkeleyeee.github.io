@@ -52,7 +52,7 @@ Dial by your location
 
 **Presenter:** Eva Lyubich   
 **Title:** Place Based Climate Policy   
-**Abstract:** TBD 
+**Abstract:** There is immense geographic heterogeneity in household carbon footprints across the US. This paper aims to understand whether this is the result of place-based constraints, such as under-provision of local public goods, and if so, what the implications are for optimal climate policy. I leverage migration across places to estimate what fraction of spatial heterogeneity is driven by preferences and sorting, and what fraction is driven by places themselves. I then use the relationship between place characteristics and emissions to identify potential opportunities for targeted, place-based investments and estimate the cost of achieving given carbon reductions under different policy scenarios. 
 
 ### 7 April 2021
 
