@@ -38,22 +38,6 @@ Dial by your location
 
 ## Spring 2021 -- Upcoming Schedule
 
- 
-
-### 24 February 2021
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
-
-**Presenter:** Jesse Buchsbaum   
-**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: Implications for Climate Policy   
-**Abstract:** In electricity markets, generators are rewarded both for providing energy and for enabling grid reliability. The two functions are compensated in separate markets: energy markets and ancillary services markets. We provide evidence of changes in the fuel mix in the energy market that is driven by exogenous changes in an ancillary services market. We provide quasi-experimental evidence and a theoretical framework for understanding the mechanism, showing that it results from the multi-product nature of conventional power plants combined with discontinuities in costs. As a result, policy changes relating to grid operations, grid reliability, or climate change could have unintended effects.   
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=am6zzrrs" width = "200" hspace = "20" alt = "Jaecheol Lee">
-
-**Presenter:** Jaecheol Lee   
-**Title:** A Cost-Benefit Analysis of Warnings: the Case of South Korean Air Pollution Alert System   
-**Abstract:** Concerns over air pollution have been increasing due to anthropogenic emissions and natural disasters such as wildfires and dust storms. To reduce adverse health effects, an increasing number of countries have enacted air quality alert systems. However, it is unclear whether the resulting health benefits outweigh the costs associated with reduced economic activities and system maintenance. This project conducts a cost-benefit analysis of air pollution warnings focusing on the case of South Korea. Based on a regression discontinuity design, it estimates the reduction in respiratory morbidity spending using South Korea's universal healthcare data. This work further identifies the decrease in consumer demand utilizing the daily credit card spending dataset. Our results show that the health benefits considerably exceed the costs, which suggests the importance of the transparent and timely distribution of pollution information. 
-
 
 
 ### 10 March 2021
@@ -61,8 +45,8 @@ Dial by your location
 <img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
 
 **Presenter:** Matthew Tarduno   
-**Title:** TBD   
-**Abstract:** TBD  
+**Title:** What drives support for inefficient corrective policies? Evidence from a Nevada ballot initiative   
+**Abstract:** I use an information provision experiment conducted around a vote on Nevada’s renewable portfolio standard (RPS) to study voter preferences for externality-correcting policies. I leverage exogenous variation in respondent beliefs induced by the experiment to model policy support as a function of voter perceptions of policy attributes (cost, effectiveness, and regressivity). I find that voting behavior is relatively unresponsive to perceived cost and perceived regressivity, but relatively responsive to perceived policy effectiveness. Using this model, I decompose differences in support for a performance-based policy (Nevada’s RPS) and a hypothetical price-based policy (a carbon tax). Oaxaca-Blinder decompositions imply that differences in perceptions of policy attributes explain just 23% of the gap in support between RPS policies and carbon taxes, suggesting a significant role for “tax aversion.” To the extent that misperceptions of policy attributes do explain differences in support for these two policies, the explained gap results from overly optimistic beliefs about RPS attributes. To conclude, I predict voting behavior several under counterfactual scenarios. I find that in this setting, targeting revenue toward “swing” voters is unlikely to significantly improve support for carbon taxes. Instead, the results of this experiment highlight the importance of communicating to voters the efficacy of price-based policies.  
 
 <img src = "https://elyubich.github.io/images/bio-photo.png" width = "200" hspace = "20" alt = "Eva Lyubich">
 
@@ -145,6 +129,20 @@ Dial by your location
 **Presenter:** Derek Wolfson   
 **Title:** Who Gets a Bid? Racial Disparities in Price Quotes   
 **Abstract:** When services are customized and priced on a case-by-case basis, sellers possess considerable leeway in whether to serve a customer and how much to charge if they do.  These types of markets are ubiquitous--including, among others, construction contracting, auto repair, and legal services.  Compared to firms with posted menus or fixed prices, firms offering customized services have more potential to discriminate based on customer characteristics. Inherent in these settings is the possibility of discrimination with respect to racial or ethnic characteristics.  Our research will investigate racial disparities in pricing and welfare for an expensive, durable investment---rooftop solar photovoltaic (PV) systems.  
+
+### 24 February 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13724-1505413136.jpg?itok=rJCwG8AG" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
+
+**Presenter:** Jesse Buchsbaum   
+**Title:** Spillovers from Ancillary Services to Wholesale Power Markets: Implications for Climate Policy   
+**Abstract:** In electricity markets, generators are rewarded both for providing energy and for enabling grid reliability. The two functions are compensated in separate markets: energy markets and ancillary services markets. We provide evidence of changes in the fuel mix in the energy market that is driven by exogenous changes in an ancillary services market. We provide quasi-experimental evidence and a theoretical framework for understanding the mechanism, showing that it results from the multi-product nature of conventional power plants combined with discontinuities in costs. As a result, policy changes relating to grid operations, grid reliability, or climate change could have unintended effects.   
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13728-1538409843.jpg?itok=am6zzrrs" width = "200" hspace = "20" alt = "Jaecheol Lee">
+
+**Presenter:** Jaecheol Lee   
+**Title:** A Cost-Benefit Analysis of Warnings: the Case of South Korean Air Pollution Alert System   
+**Abstract:** Concerns over air pollution have been increasing due to anthropogenic emissions and natural disasters such as wildfires and dust storms. To reduce adverse health effects, an increasing number of countries have enacted air quality alert systems. However, it is unclear whether the resulting health benefits outweigh the costs associated with reduced economic activities and system maintenance. This project conducts a cost-benefit analysis of air pollution warnings focusing on the case of South Korea. Based on a regression discontinuity design, it estimates the reduction in respiratory morbidity spending using South Korea's universal healthcare data. This work further identifies the decrease in consumer demand utilizing the daily credit card spending dataset. Our results show that the health benefits considerably exceed the costs, which suggests the importance of the transparent and timely distribution of pollution information. 
 
 ## Past Presentations -- Fall 2020
 
