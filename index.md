@@ -40,33 +40,13 @@ Dial by your location
 
 
 
-### 10 March 2021
-
-<img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
-
-**Presenter:** Matthew Tarduno   
-**Title:** What drives support for inefficient corrective policies? Evidence from a Nevada ballot initiative   
-**Abstract:** I use an information provision experiment conducted around a vote on Nevada’s renewable portfolio standard (RPS) to study voter preferences for externality-correcting policies. I leverage exogenous variation in respondent beliefs induced by the experiment to model policy support as a function of voter perceptions of policy attributes (cost, effectiveness, and regressivity). I find that voting behavior is relatively unresponsive to perceived cost and perceived regressivity, but relatively responsive to perceived policy effectiveness. Using this model, I decompose differences in support for a performance-based policy (Nevada’s RPS) and a hypothetical price-based policy (a carbon tax). Oaxaca-Blinder decompositions imply that differences in perceptions of policy attributes explain just 23% of the gap in support between RPS policies and carbon taxes, suggesting a significant role for “tax aversion.” To the extent that misperceptions of policy attributes do explain differences in support for these two policies, the explained gap results from overly optimistic beliefs about RPS attributes. To conclude, I predict voting behavior several under counterfactual scenarios. I find that in this setting, targeting revenue toward “swing” voters is unlikely to significantly improve support for carbon taxes. Instead, the results of this experiment highlight the importance of communicating to voters the efficacy of price-based policies.  
-
-<img src = "https://elyubich.github.io/images/bio-photo.png" width = "200" hspace = "20" alt = "Eva Lyubich">
-
-**Presenter:** Eva Lyubich   
-**Title:** Place Based Climate Policy   
-**Abstract:** There is immense geographic heterogeneity in household carbon footprints across the US. This paper aims to understand whether this is the result of place-based constraints, such as under-provision of local public goods, and if so, what the implications are for optimal climate policy. I leverage migration across places to estimate what fraction of spatial heterogeneity is driven by preferences and sorting, and what fraction is driven by places themselves. I then use the relationship between place characteristics and emissions to identify potential opportunities for targeted, place-based investments and estimate the cost of achieving given carbon reductions under different policy scenarios. 
-
 ### 7 April 2021
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
 
 **Presenter:** Leila Safavi   
 **Title:** From Bargaining Power to Market Power: Evidence from Natural Gas Pipelines   
-**Abstract:** TBD 
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun Wang">
-
-**Presenter:** Wenjun Wang   
-**Title:** TBD   
-**Abstract:** TBD 
+**Abstract:** Do changes in bargaining power of large firms contribute to increased market concentration and markups? This research project will try to determine if growing imbalances in bargaining power between firms in vertical markets have empirically contributed to rising markups using data from the US natural gas industry. Using data from 2004-2020 on bargained rates between natural gas shippers and pipelines, I estimate a structural model of the natural gas industry to measure annual mark-ups and bargaining power parameters for each pipeline-shipper pair. I estimate the extent to which variation in bargaining power explains rising markups. Finally, I explore the determinants of bargaining power using policy generated changes in regulatory stringency and market structure.  
 
 ### 21 April 2021
 
@@ -74,6 +54,12 @@ Dial by your location
 
 **Presenter:** James Sears   
 **Title:** Culpable Consumption: Public Shame and Excessive Water Use   
+**Abstract:** TBD 
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun Wang">
+
+**Presenter:** Wenjun Wang   
+**Title:** TBD   
 **Abstract:** TBD 
 
 ### 5 May 2021
@@ -89,8 +75,6 @@ Dial by your location
 **Presenter:** Wei Guo   
 **Title:** TBD   
 **Abstract:** TBD 
-
-### 12 May 2021
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13648-1474655374.jpg?itok=qwetqvao" width = "200" hspace = "20" alt = "Daniel Kannell">
 
@@ -143,6 +127,20 @@ Dial by your location
 **Presenter:** Jaecheol Lee   
 **Title:** A Cost-Benefit Analysis of Warnings: the Case of South Korean Air Pollution Alert System   
 **Abstract:** Concerns over air pollution have been increasing due to anthropogenic emissions and natural disasters such as wildfires and dust storms. To reduce adverse health effects, an increasing number of countries have enacted air quality alert systems. However, it is unclear whether the resulting health benefits outweigh the costs associated with reduced economic activities and system maintenance. This project conducts a cost-benefit analysis of air pollution warnings focusing on the case of South Korea. Based on a regression discontinuity design, it estimates the reduction in respiratory morbidity spending using South Korea's universal healthcare data. This work further identifies the decrease in consumer demand utilizing the daily credit card spending dataset. Our results show that the health benefits considerably exceed the costs, which suggests the importance of the transparent and timely distribution of pollution information. 
+
+### 10 March 2021
+
+<img src = "https://matt-tarduno.github.io/assets/headshot.jpg" width = "200" hspace = "20" alt = "Matthew Tarduno">
+
+**Presenter:** Matthew Tarduno   
+**Title:** What drives support for inefficient corrective policies? Evidence from a Nevada ballot initiative   
+**Abstract:** I use an information provision experiment conducted around a vote on Nevada’s renewable portfolio standard (RPS) to study voter preferences for externality-correcting policies. I leverage exogenous variation in respondent beliefs induced by the experiment to model policy support as a function of voter perceptions of policy attributes (cost, effectiveness, and regressivity). I find that voting behavior is relatively unresponsive to perceived cost and perceived regressivity, but relatively responsive to perceived policy effectiveness. Using this model, I decompose differences in support for a performance-based policy (Nevada’s RPS) and a hypothetical price-based policy (a carbon tax). Oaxaca-Blinder decompositions imply that differences in perceptions of policy attributes explain just 23% of the gap in support between RPS policies and carbon taxes, suggesting a significant role for “tax aversion.” To the extent that misperceptions of policy attributes do explain differences in support for these two policies, the explained gap results from overly optimistic beliefs about RPS attributes. To conclude, I predict voting behavior several under counterfactual scenarios. I find that in this setting, targeting revenue toward “swing” voters is unlikely to significantly improve support for carbon taxes. Instead, the results of this experiment highlight the importance of communicating to voters the efficacy of price-based policies.  
+
+<img src = "https://elyubich.github.io/images/bio-photo.png" width = "200" hspace = "20" alt = "Eva Lyubich">
+
+**Presenter:** Eva Lyubich   
+**Title:** Place Based Climate Policy   
+**Abstract:** There is immense geographic heterogeneity in household carbon footprints across the US. This paper aims to understand whether this is the result of place-based constraints, such as under-provision of local public goods, and if so, what the implications are for optimal climate policy. I leverage migration across places to estimate what fraction of spatial heterogeneity is driven by preferences and sorting, and what fraction is driven by places themselves. I then use the relationship between place characteristics and emissions to identify potential opportunities for targeted, place-based investments and estimate the cost of achieving given carbon reductions under different policy scenarios. 
 
 ## Past Presentations -- Fall 2020
 
