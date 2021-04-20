@@ -40,21 +40,13 @@ Dial by your location
 
 
 
-### 7 April 2021
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
-
-**Presenter:** Leila Safavi   
-**Title:** From Bargaining Power to Market Power: Evidence from Natural Gas Pipelines   
-**Abstract:** Do changes in bargaining power of large firms contribute to increased market concentration and markups? This research project will try to determine if growing imbalances in bargaining power between firms in vertical markets have empirically contributed to rising markups using data from the US natural gas industry. Using data from 2004-2020 on bargained rates between natural gas shippers and pipelines, I estimate a structural model of the natural gas industry to measure annual mark-ups and bargaining power parameters for each pipeline-shipper pair. I estimate the extent to which variation in bargaining power explains rising markups. Finally, I explore the determinants of bargaining power using policy generated changes in regulatory stringency and market structure.  
-
 ### 21 April 2021
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13674-1594327691.png?itok=wSImUNQU" width = "200" hspace = "20" alt = "James Sears">
 
 **Presenter:** James Sears   
 **Title:** Culpable Consumption: Public Shame and Excessive Water Use   
-**Abstract:** TBD 
+**Abstract:** Consumer response to conservation policy is a key parameter of interest for public water utilities. Utility districts around the country face difficult decisions during droughts and must find ways to incentivize consumer conservation behavior in order to meet state-imposed reductions (Weiser and Siders 2015). In California, policy design is further complicated by legal obstacles to traditional pricing instruments.This complexity, combined with recent improvements to our understanding of behavioral influences like social norms, peer effects, and nudges, has sparked policymaker interest in nontraditional policy instruments for evoking conservation behavior, especially among price-inelastic consumers. Using household-level consumption data for single family homes in the San Francisco East Bay Area, I investigate how residential customers changed their consumption behavior around the recent drought emergency and responded to policy-induced variation in both prices and social pressure. After discussing broader patterns in water consumption, I estimate water demand models for single-family homes and characterize heterogeneity in price-responsiveness across income and usage levels. Next, I incorporate data on public shame exposure induced by the EBMUD Excessive Use Penalty from 2015-2016 to estimate the extent to which public shame exposure induced additional conservation behavior beyond that elicited by drought surcharges. 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun Wang">
 
@@ -141,6 +133,14 @@ Dial by your location
 **Presenter:** Eva Lyubich   
 **Title:** Place Based Climate Policy   
 **Abstract:** There is immense geographic heterogeneity in household carbon footprints across the US. This paper aims to understand whether this is the result of place-based constraints, such as under-provision of local public goods, and if so, what the implications are for optimal climate policy. I leverage migration across places to estimate what fraction of spatial heterogeneity is driven by preferences and sorting, and what fraction is driven by places themselves. I then use the relationship between place characteristics and emissions to identify potential opportunities for targeted, place-based investments and estimate the cost of achieving given carbon reductions under different policy scenarios. 
+
+### 7 April 2021
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
+
+**Presenter:** Leila Safavi   
+**Title:** From Bargaining Power to Market Power: Evidence from Natural Gas Pipelines   
+**Abstract:** Do changes in bargaining power of large firms contribute to increased market concentration and markups? This research project will try to determine if growing imbalances in bargaining power between firms in vertical markets have empirically contributed to rising markups using data from the US natural gas industry. Using data from 2004-2020 on bargained rates between natural gas shippers and pipelines, I estimate a structural model of the natural gas industry to measure annual mark-ups and bargaining power parameters for each pipeline-shipper pair. I estimate the extent to which variation in bargaining power explains rising markups. Finally, I explore the determinants of bargaining power using policy generated changes in regulatory stringency and market structure.  
 
 ## Past Presentations -- Fall 2020
 
