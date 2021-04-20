@@ -51,8 +51,8 @@ Dial by your location
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13732-1505778813.jpg?itok=pEffzKn2" width = "200" hspace = "20" alt = "Wenjun Wang">
 
 **Presenter:** Wenjun Wang   
-**Title:** TBD   
-**Abstract:** TBD 
+**Title:** Measuring Economic Value of Patents Using Stock Market Response   
+**Abstract:** I develop three measures of patent value based on stock market response,  including a publication-event measure, a grant-event measure, and a non-event-Tuesdays measure. These measures each assign a dollar value to each patent of public firms and make it possible to compare patent values across different fields and years. Empirical results show that the three measures often assign similar dollar values to a focal patent, suggesting the value measures are consistent with each other and thus can be pretty accurate. I use the estimated values to investigate which factors are most useful in predicting patent values before grant. I find that the number of independent claims at the time of publication plays the most important role. The number of dependent claims, numbers of pre-grant forward and backward citations also matter. Finally, I explore if the commonly used patent quality measures: number of forward citations and patent renewals are good proxies of patent values. Primitive empirical findings suggest forward citations and patent renewals are only loosely correlated with the economic value of patents and can only explain a small proportion of the latter. 
 
 ### 5 May 2021
 
