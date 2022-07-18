@@ -1,4 +1,4 @@
-#### Tentatively, the ERE seminar will be hybrid this year. The current plan is to have pizza and heavily encourage in-person attendence. The online component is meant for those who are feeling sick or otherwise would not be able to attend the seminar in person. This may be updated to in-person only, check back here for the latest updates. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
+#### Tentatively, the ERE seminar will be hybrid this year. The current plan is to have pizza and heavily encourage in-person attendence. The online component is meant for those who are feeling sick or otherwise would not be able to attend the seminar in person. This may be updated to in-person only; check back here for the latest updates. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
 
 The presentation schedule, location, and zoom link will be updated below.
 
