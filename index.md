@@ -1,49 +1,17 @@
-#### Due to the COVID-19 outbreak, we will be holding the presentations on Zoom until we are able to meet again. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
+#### Tentatively, the ERE seminar will be hybrid this year. The current plan is to have pizza and heavily encourage in-person attendence. The online component is meant for those who are feeling sick or otherwise would not be able to attend the seminar in person. This may be updated to in-person only, check back here for the latest updates. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
 
-Join Zoom Meeting
-https://berkeley.zoom.us/j/93929425145
-
-Meeting ID: 939 2942 5145
-
-Password: 960711
-
-One tap mobile
-
-+16692192599,,93929425145#,,,,,,0#,,960711# US (San Jose)
-
-+16699006833,,93929425145#,,,,,,0#,,960711# US (San Jose)
-
-Dial by your location
-
-        +1 669 219 2599 US (San Jose)
-        +1 669 900 6833 US (San Jose)
-        +1 213 338 8477 US (Los Angeles)
-        +1 253 215 8782 US (Tacoma)
-        +1 346 248 7799 US (Houston)
-        +1 602 753 0140 US (Phoenix)
-        +1 720 928 9299 US (Denver)
-        +1 971 247 1195 US (Portland)
-        +1 206 337 9723 US (Seattle)
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 470 250 9358 US (Atlanta)
-        +1 470 381 2552 US (Atlanta)
-        +1 646 518 9805 US (New York)
-        +1 646 558 8656 US (New York)
-        +1 651 372 8299 US (St. Paul)
-        +1 786 635 1003 US (Miami)
-        +1 267 831 0333 US (Philadelphia) 
+The presentation schedule, location, and zoom link will be updated below.
 
 
 
-## Spring 2021 -- Upcoming Schedule
+## Fall 2022 -- Upcoming Schedule
 
 
 
 
 
 
-## Past Presentations -- Spring 2021
+## Past Presentations
 
 ### 27 January 2021
 
