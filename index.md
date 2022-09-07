@@ -75,7 +75,7 @@ Robert Metcalfe,	University of Southern California
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13727-1660950945.jpg?itok=BIaROngT" width = "200" hspace = "20" alt = "Jenya Kahn-Lang">
 
-**Presenter:** Jenya Kahn-Lang	 
+**Presenter:** Jenya Kahn-Lang  
 **Title:** TBA  
 **Abstract:** TBA
 
