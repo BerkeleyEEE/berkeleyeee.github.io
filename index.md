@@ -1,6 +1,11 @@
-#### Tentatively, the ERE seminar will be hybrid this year. The current plan is to have pizza and heavily encourage in-person attendence. The online component is meant for those who are feeling sick or otherwise would not be able to attend the seminar in person. This may be updated to in-person only; check back here for the latest updates. ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 11:40AM or 12:10PM, and last for 80 minutes.
+#### ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year and there will be pizza!
 
-The presentation schedule, location, and zoom link will be updated below.
+## Seminar Description
+This year will look a lot like pre-covid years.  [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/) will meet on a few Wednesdays, 12-1:30 PM. Student (ERE) presentations will take place on the weeks that there is no EEE seminar from 12:00-1:00PM (schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
+
+The ERE faculty strongly encourage students and post-docs in the field to present on a regular basis. In practice, this means that students should present at least once a year starting in their third year. For post-docs, there are often slots open early in the semester, so feel free to indicate your preference for early Fall.
+
+While the student seminar is meant for “work-in-progress”, the faculty’s hope and expectation is that students will prepare/refine their presentation as much as possible in advance. Students are encouraged to meet with faculty/students/visitors well in advance to vet ideas and gather preliminary feedback. The faculty also ask that students share slides with their advisor at least one week prior to the scheduled talk in order to get some more targeted feedback, prior to the presentation.
 
 
 
