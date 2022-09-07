@@ -6,7 +6,92 @@ The presentation schedule, location, and zoom link will be updated below.
 
 ## Fall 2022 -- Upcoming Schedule
 
-TBD
+### 14 September 2022
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13785-1661980103.jpg?itok=xvALrGP1" width = "200" hspace = "20" alt = "Wei Guo">
+
+**Presenter:** Wei Guo
+**Title:** The Sharing Economy as a Disaster Remedy: The Case of Airbnb  
+**Abstract:** TBA
+
+### 21 September 2022
+
+<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
+
+**Presenter:** Sherrie Wang
+**Title:** TBA
+**Abstract:** TBA
+
+
+### 28 September 2022
+
+<img src = "https://lh4.googleusercontent.com/YL13CVy7gfYlOSy4gXKgze_-x0DAGvjk_YOtOo0CIoStUyLkZjdclBCFZgoM5M70nYtg4QDeW27fv96p1vl4UjU3VyZ-DKh5QBwg0a4J_qsPbrNz=w1280" width = "200" hspace = "20" alt = "Bobby Harris">
+
+**Presenter:** Bobby Harris
+**Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales
+**Abstract:** TBA
+
+
+### 5 October 2022
+
+<img src = "https://www.pik-potsdam.de/members/stecheme/homepage/@@images/809e834f-6dd8-4c2a-bca1-2a797350b1d8.jpeg" width = "200" hspace = "20" alt = "Annika Stechemesser">
+
+**Presenter:** Annika Stechemesser
+**Title:** TBA
+**Abstract:** TBA
+
+
+
+### 19 October 2022
+
+
+
+**Presenter:** 
+**Title:** TBA
+**Abstract:** TBA
+
+
+
+### 26 October 2022
+
+
+
+**Presenter:** 
+**Title:** TBA
+**Abstract:** TBA
+
+
+
+### 9 November 2022
+
+
+
+**Presenter:** 
+**Title:** TBA
+**Abstract:** TBA
+
+
+
+### 30 November 2022
+
+
+
+**Presenter:** 
+**Title:** TBA
+**Abstract:** TBA
+
+
+
+### 7 December 2022
+
+
+
+**Presenter:** 
+**Title:** TBA
+**Abstract:** TBA
+
+
+
 
 
 
