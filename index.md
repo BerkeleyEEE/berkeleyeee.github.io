@@ -94,6 +94,16 @@ Robert Metcalfe,	University of Southern California
 ---
 
 
+### 2 November 2022 (EEE Faculty Seminar)
+
+<img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2022/08/panle-jia-barwick-220x300.jpeg" width = "200" hspace = "20" alt = "Panle Jia Barwick">
+
+Panle Jia Barwick,	Cornell University  
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
+
+---
+
+
 
 ### 9 November 2022
 
@@ -102,6 +112,16 @@ Robert Metcalfe,	University of Southern California
 **Presenter:** Sara Johns  
 **Title:** TBA  
 **Abstract:** TBA
+
+---
+
+
+### 16 November 2022 (EEE Faculty Seminar)
+
+<img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2022/08/Marshall_Burke-300x300.jpeg" width = "200" hspace = "20" alt = "Marshall Burke">
+
+Marshall Burke,	Stanford University  
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
 ---
 
