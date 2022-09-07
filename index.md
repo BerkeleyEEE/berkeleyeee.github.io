@@ -23,8 +23,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
 
-**Presenter:** Sherrie Wang
-**Title:** TBA
+**Presenter:** Sherrie Wang  
+**Title:** TBA  
 **Abstract:** TBA
 
 
@@ -32,8 +32,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTNtQuGw-5e1mvD3CNXU8aSXyAOLF9GELHLYMeJ8aLTXPgtDMAkAdGjeJaqhDUVsM0b_nOj3_0=w1920-h929" width = "200" hspace = "20" alt = "Bobby Harris">
 
-**Presenter:** Bobby Harris
-**Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales
+**Presenter:** Bobby Harris  
+**Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales  
 **Abstract:** TBA
 
 
@@ -41,58 +41,72 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://www.pik-potsdam.de/members/stecheme/homepage/@@images/809e834f-6dd8-4c2a-bca1-2a797350b1d8.jpeg" width = "200" hspace = "20" alt = "Annika Stechemesser">
 
-**Presenter:** Annika Stechemesser
-**Title:** TBA
+**Presenter:** Annika Stechemesser  
+**Title:** TBA  
 **Abstract:** TBA
+
+<img src = "https://www.hendrikmahlkow.com/assets/images/2019.11-portrait-homepage-817x828.jpg" width = "200" hspace = "20" alt = "Hendrik Mahlkow">
+
+**Presenter:** Hendrik Mahlkow  
+**Title:** The Carbon Footprint of Global Trade Imbalances  
+**Abstract:** TBA
+
 
 
 
 ### 19 October 2022
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13727-1660950945.jpg?itok=BIaROngT" width = "200" hspace = "20" alt = "Jenya Kahn-Lang">
 
-
-**Presenter:** 
-**Title:** TBA
+**Presenter:** Jenya Kahn-Lang	 
+**Title:** TBA  
 **Abstract:** TBA
 
 
 
 ### 26 October 2022
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
 
-
-**Presenter:** 
-**Title:** TBA
+**Presenter:** Leila Safavi  
+**Title:** TBA  
 **Abstract:** TBA
 
 
 
 ### 9 November 2022
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13859-1599609917.jpg?itok=HyrZ6oCK" width = "200" hspace = "20" alt = "Sara Johns">
 
-
-**Presenter:** 
-**Title:** TBA
+**Presenter:** Sara Johns  
+**Title:** TBA  
 **Abstract:** TBA
 
 
 
 ### 30 November 2022
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=8Re3uQjy" width = "200" hspace = "20" alt = "Lucy Hackett">
 
-
-**Presenter:** 
-**Title:** TBA
+**Presenter:** Lucy Hackett  
+**Title:** TBA  
 **Abstract:** TBA
+
+<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1582444837393-2IS03LCSPRGFP4U82TSI/Image+from+iOS+%284%29.jpg?format=500w" width = "200" hspace = "20" alt = "Nicklas Nordfors">
+
+**Presenter:** Nicklas Nordfors  
+**Title:** TBA  
+**Abstract:** TBA
+
 
 
 
 ### 7 December 2022
 
+<img src = "https://cataylorcom.files.wordpress.com/2020/10/headshot_taylor_2019.jpeg?w=1024" width = "200" hspace = "20" alt = "Charles Taylor">
 
-
-**Presenter:** 
-**Title:** TBA
+**Presenter:** Charles Taylor  
+**Title:** TBA  
 **Abstract:** TBA
 
 
