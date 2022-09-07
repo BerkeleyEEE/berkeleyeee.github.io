@@ -19,6 +19,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** The Sharing Economy as a Disaster Remedy: The Case of Airbnb  
 **Abstract:** TBA
 
+---
+
 ### 21 September 2022
 
 <img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
@@ -26,6 +28,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Presenter:** Sherrie Wang  
 **Title:** TBA  
 **Abstract:** TBA
+
+---
 
 
 ### 28 September 2022
@@ -36,6 +40,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales  
 **Abstract:** TBA
 
+---
+
 
 ### 5 October 2022
 
@@ -45,19 +51,24 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** TBA  
 **Abstract:** TBA
 
+
 <img src = "https://www.hendrikmahlkow.com/assets/images/2019.11-portrait-homepage-817x828.jpg" width = "200" hspace = "20" alt = "Hendrik Mahlkow">
 
 **Presenter:** Hendrik Mahlkow  
 **Title:** The Carbon Footprint of Global Trade Imbalances  
 **Abstract:** TBA
 
+---
+
 
 ### 12 October 2022 (EEE Faculty Seminar)
 
 <img src = "https://static.wixstatic.com/media/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg/v1/crop/x_77,y_0,w_847,h_1272/fill/w_215,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg" width = "200" hspace = "20" alt = "Robert Metcalfe">
 
-Robert Metcalfe,	University of Southern California
+Robert Metcalfe,	University of Southern California  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
+
+---
 
 
 ### 19 October 2022
@@ -67,6 +78,8 @@ Robert Metcalfe,	University of Southern California
 **Presenter:** Jenya Kahn-Lang	 
 **Title:** TBA  
 **Abstract:** TBA
+
+---
 
 
 
@@ -78,6 +91,8 @@ Robert Metcalfe,	University of Southern California
 **Title:** TBA  
 **Abstract:** TBA
 
+---
+
 
 
 ### 9 November 2022
@@ -87,6 +102,8 @@ Robert Metcalfe,	University of Southern California
 **Presenter:** Sara Johns  
 **Title:** TBA  
 **Abstract:** TBA
+
+---
 
 
 
@@ -104,6 +121,8 @@ Robert Metcalfe,	University of Southern California
 **Title:** TBA  
 **Abstract:** TBA
 
+---
+
 
 
 
@@ -114,6 +133,7 @@ Robert Metcalfe,	University of Southern California
 **Presenter:** Charles Taylor  
 **Title:** TBA  
 **Abstract:** TBA
+
 
 
 
