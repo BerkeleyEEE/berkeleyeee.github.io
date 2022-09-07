@@ -52,6 +52,12 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Abstract:** TBA
 
 
+### 12 October 2022 (EEE Faculty Seminar)
+
+<img src = "https://static.wixstatic.com/media/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg/v1/crop/x_77,y_0,w_847,h_1272/fill/w_215,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg" width = "200" hspace = "20" alt = "Robert Metcalfe">
+
+Robert Metcalfe,	University of Southern California
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
 
 ### 19 October 2022
