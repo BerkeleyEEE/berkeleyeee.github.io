@@ -25,7 +25,7 @@ The presentation schedule, location, and zoom link will be updated below.
 
 ### 28 September 2022
 
-<img src = "https://lh4.googleusercontent.com/YL13CVy7gfYlOSy4gXKgze_-x0DAGvjk_YOtOo0CIoStUyLkZjdclBCFZgoM5M70nYtg4QDeW27fv96p1vl4UjU3VyZ-DKh5QBwg0a4J_qsPbrNz=w1280" width = "200" hspace = "20" alt = "Bobby Harris">
+<img src = "https://drive.google.com/file/d/1V0-zE2oKSZs51IJIJENcJ0y_SxLFY8rc/preview" width = "200" hspace = "20" alt = "Bobby Harris">
 
 **Presenter:** Bobby Harris
 **Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales
