@@ -17,7 +17,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 **Presenter:** Wei Guo  
 **Title:** The Sharing Economy as a Disaster Remedy: The Case of Airbnb  
-**Abstract:** TBA
+**Abstract:** How to handle the logistics for short-term displacements remains a critical yet underexplored question in disaster relief. This paper explores the welfare impacts of the home-sharing platform Airbnb on disaster accommodation, in the context of wildfire evacuation near Los Angeles. I develop a structural model of short-term housing choice highlighting two welfare channels. First, the option of Airbnb accommodation has a peer effect that increases consumer surplus for all. Second, the altruistic sharing creates a transfer to customers who enjoy a lower-than-usual price. I find evacuees to Los Angeles obtain a welfare gain of $192k per day of evacuation from the Airbnb option, of which only $17.5k come from the altruistic sharing. Substantial benefits fall on regular travelers due to the failure of evacuee targeting. Only a subset of households in good social-economic status conducts altruistic sharing, while other hosts also suffer from a welfare loss due to the price spillovers. I suggest enabling customer targeting can correct the home-sharing accommodation as an equitable transfer from altruistic households to disaster evacuees.
 
 ---
 
