@@ -15,7 +15,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13785-1661980103.jpg?itok=xvALrGP1" width = "200" hspace = "20" alt = "Wei Guo">
 
-**Presenter:** Wei Guo
+**Presenter:** Wei Guo  
 **Title:** The Sharing Economy as a Disaster Remedy: The Case of Airbnb  
 **Abstract:** TBA
 
