@@ -21,13 +21,14 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 21 September 2022
+### 21 September 2022 (EEE Faculty Seminar)
 
-<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
+<img src = "https://joseph-s-shapiro.com/JShapiro_pic.jpg" width = "200" hspace = "20" alt = "Joe Shapiro">
 
-**Presenter:** Sherrie Wang  
-**Title:** TBA  
-**Abstract:** TBA
+**Presenter:** [Joe Shapiro](https://joseph-s-shapiro.com/),	UC Berkeley  
+**Title:** Institutions, Comparative Advantage, and the Environment: Why are Developing Countries Polluted?  
+**Abstract:** I propose a new reason why developing countries have high levels of air and water pollution: financial, judicial, and labor market institutions provide comparative advantage in clean industries. Weak institutions make countries poor and polluted; strong institutions make countries rich and clean. Strong national institutions attract clean production, even conditional on environmental regulation and factor endowments. Cross-country differences in the composition of output between clean and dirty industries explain more of the global distribution of emissions than differences in the techniques used for production do. Partial equilibrium calculations and a quantitative general equilibrium model suggest that strengthening institutions in countries with weak baseline institutions would substantially decrease their pollution through relocating dirty industries abroad, though would correspondingly increase pollution in high income countries.
+
 
 ---
 
@@ -36,7 +37,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://lh3.googleusercontent.com/drive-viewer/AJc5JmTNtQuGw-5e1mvD3CNXU8aSXyAOLF9GELHLYMeJ8aLTXPgtDMAkAdGjeJaqhDUVsM0b_nOj3_0=w1920-h929" width = "200" hspace = "20" alt = "Bobby Harris">
 
-**Presenter:** Bobby Harris  
+**Presenter:** [Bobby Harris](https://www.bobby-harris.com/)  
 **Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales  
 **Abstract:** TBA
 
@@ -47,14 +48,14 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://www.pik-potsdam.de/members/stecheme/homepage/@@images/809e834f-6dd8-4c2a-bca1-2a797350b1d8.jpeg" width = "200" hspace = "20" alt = "Annika Stechemesser">
 
-**Presenter:** Annika Stechemesser  
+**Presenter:** [Annika Stechemesser](https://www.pik-potsdam.de/members/stecheme)  
 **Title:** TBA  
 **Abstract:** TBA
 
 
 <img src = "https://www.hendrikmahlkow.com/assets/images/2019.11-portrait-homepage-817x828.jpg" width = "200" hspace = "20" alt = "Hendrik Mahlkow">
 
-**Presenter:** Hendrik Mahlkow  
+**Presenter:** [Hendrik Mahlkow](https://www.hendrikmahlkow.com/)  
 **Title:** The Carbon Footprint of Global Trade Imbalances  
 **Abstract:** TBA
 
@@ -65,7 +66,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://static.wixstatic.com/media/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg/v1/crop/x_77,y_0,w_847,h_1272/fill/w_215,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fe9abe_43f805c5ac974ab29905335024c48184~mv2.jpg" width = "200" hspace = "20" alt = "Robert Metcalfe">
 
-Robert Metcalfe,	University of Southern California  
+[Robert Metcalfe](https://www.rmetcalfe.net/),	University of Southern California  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
 ---
@@ -75,7 +76,7 @@ Robert Metcalfe,	University of Southern California
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13727-1660950945.jpg?itok=BIaROngT" width = "200" hspace = "20" alt = "Jenya Kahn-Lang">
 
-**Presenter:** Jenya Kahn-Lang  
+**Presenter:** [Jenya Kahn-Lang](https://emp.lbl.gov/staff/jenya-kahn-lang)  
 **Title:** Price Discrimination in Residential Electricity Markets  
 **Abstract:** TBA
 
@@ -85,9 +86,9 @@ Robert Metcalfe,	University of Southern California
 
 ### 26 October 2022
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=mhD_9jSs" width = "200" hspace = "20" alt = "Leila Safavi">
+<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
 
-**Presenter:** Leila Safavi  
+**Presenter:** [Sherrie Wang](https://sherriewang.github.io/)  
 **Title:** TBA  
 **Abstract:** TBA
 
@@ -98,7 +99,7 @@ Robert Metcalfe,	University of Southern California
 
 <img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2022/08/panle-jia-barwick-220x300.jpeg" width = "200" hspace = "20" alt = "Panle Jia Barwick">
 
-Panle Jia Barwick,	Cornell University  
+[Panle Jia Barwick](https://barwick.economics.cornell.edu/),	Cornell University  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
 ---
@@ -109,7 +110,7 @@ Panle Jia Barwick,	Cornell University
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13859-1599609917.jpg?itok=HyrZ6oCK" width = "200" hspace = "20" alt = "Sara Johns">
 
-**Presenter:** Sara Johns  
+**Presenter:** [Sara Johns](https://are.berkeley.edu/user/13859)  
 **Title:** TBA  
 **Abstract:** TBA
 
@@ -120,7 +121,7 @@ Panle Jia Barwick,	Cornell University
 
 <img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2022/08/Marshall_Burke-300x300.jpeg" width = "200" hspace = "20" alt = "Marshall Burke">
 
-Marshall Burke,	Stanford University  
+[Marshall Burke](https://web.stanford.edu/~mburke/),	Stanford University  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
 ---
@@ -131,13 +132,13 @@ Marshall Burke,	Stanford University
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=8Re3uQjy" width = "200" hspace = "20" alt = "Lucy Hackett">
 
-**Presenter:** Lucy Hackett  
+**Presenter:** [Lucy Hackett](https://are.berkeley.edu/user/13900)  
 **Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1582444837393-2IS03LCSPRGFP4U82TSI/Image+from+iOS+%284%29.jpg?format=500w" width = "200" hspace = "20" alt = "Nicklas Nordfors">
 
-**Presenter:** Nicklas Nordfors  
+**Presenter:** [Nicklas Nordfors](http://www.globalpolicy.science/nicklas-nordfors)  
 **Title:** TBA  
 **Abstract:** TBA
 
@@ -150,7 +151,7 @@ Marshall Burke,	Stanford University
 
 <img src = "https://cataylorcom.files.wordpress.com/2020/10/headshot_taylor_2019.jpeg?w=1024" width = "200" hspace = "20" alt = "Charles Taylor">
 
-**Presenter:** Charles Taylor  
+**Presenter:** [Charles Taylor](https://ca-taylor.com/)  
 **Title:** TBA  
 **Abstract:** TBA
 
