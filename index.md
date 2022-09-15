@@ -1,4 +1,4 @@
-#### ERE student work-in-progress presentations begin at 12:10PM and conlude at 1:00PM. Practice job talks begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year and there will be pizza!
+#### ERE student work-in-progress presentations begin at 12:10PM and conclude at 1:00PM. Practice job talks begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year and there will be pizza!
 
 ## Seminar Description
 This year will look a lot like pre-covid years.  [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/) will meet on a few Wednesdays, 12-1:30 PM. Student (ERE) presentations will take place on the weeks that there is no EEE seminar from 12:00-1:00PM (schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
