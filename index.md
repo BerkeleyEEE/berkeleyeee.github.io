@@ -39,7 +39,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 **Presenter:** [Bobby Harris](https://www.bobby-harris.com/)  
 **Title:** Willingness to Pay for Electricity Reliability: Evidence from U.S. Generator Sales  
-**Abstract:** TBA
+**Abstract:** Power outages and unreliable electricity supply have potentially high economic costs; however, existing empirical evidence on the magnitude of these costs or the value of electricity reliability is limited. In this paper, I provide some of the first revealed preference estimates of household willingness to pay to avoid power outages (also referred to as residential value of lost load) using a defensive expenditures approach. Combining this approach with proprietary, store-transaction level sales data for all generators sold at Lowe’s Home Improvement stores from 2012-2020, I find that a household is willing to pay $1.16/kWh of avoided outage. Given this estimate, I perform various back-of-the-envelope evaluations of potential utility investments in improved reliability, the outage-related costs of hurricanes, and total household willingness to pay to avoid average annual outages, which I calculate to be over $1 billion per year.
 
 ---
 
