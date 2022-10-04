@@ -49,15 +49,15 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://www.pik-potsdam.de/members/stecheme/homepage/@@images/809e834f-6dd8-4c2a-bca1-2a797350b1d8.jpeg" width = "200" hspace = "20" alt = "Annika Stechemesser">
 
 **Presenter:** [Annika Stechemesser](https://www.pik-potsdam.de/members/stecheme)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Temperature impacts on mobility in New York City: Evidence of unequal, compounding heat risks  
+**Abstract:** Adversary effects of heat stress have been identified across a range of disciplines. The usage of public transit can lead to increased heat stress through waiting times in the sun or in hot stations underground, lack or air-conditioning in trains, or passenger density. In New York City, subway stations frequently experience higher temperatures than above ground which can become particularly dangerous on hot days. In this study, we assess the temperature dependence of the mobility behavior in New York City using daily turnstile data for 439 subway stations from 2014 to 2019. A binned fixed-effects panel-regression model is applied to assess the general influence of temperature on subway usage in New York City. Preliminary results show a quasi-quadratic relationship between temperature and mobility with sharp near-linear decays in mobility for hot and cold temperatures. Isolating the warm response (>17°C) we perform separate linear regressions for neighborhoods (ZCTA level). The results show disparities across New York City. Relating these results to the New York City Heat Vulnerability Index which captures the geospatial distribution of heat risk in New York City based on a number of environment and socioeconomic indicators, we find that areas already at a higher risk experience smaller reductions in mobility. These results suggest that neighborhoods already at a socioeconomic disadvantage disproportionally bear the additional burden of heat stress caused by public transit and are limited in their ability to mitigate it.
 
 
 <img src = "https://www.hendrikmahlkow.com/assets/images/2019.11-portrait-homepage-817x828.jpg" width = "200" hspace = "20" alt = "Hendrik Mahlkow">
 
 **Presenter:** [Hendrik Mahlkow](https://www.hendrikmahlkow.com/)  
-**Title:** The Carbon Footprint of Global Trade Imbalances  
-**Abstract:** TBA
+**Title:** The Carbon Footprint of Global Trade Imbalances 
+**Abstract:** A large share of global carbon emissions arises in the production of goods that are consumed in a different country and from burning fossil fuels that have been extracted yet elsewhere. The flows of carbon embodied in trade are highly asymmetrical, decoupling territorial emissions (or what we will call production footprints) from consumption footprints and from what we call extraction or supply footprints. At the same time, trade is highly and persistently unbalanced in value terms, too, allowing this decoupling to be even more pronounced — with a priori ambiguous environmental consequences. Prominently, the two countries with the largest net ex- and imports of carbon (China and the US) have at the same time consistently been among the countries with the largest trade surplus and deficit, respectively, and many large fossil fuel exporters have been running persistent trade surpluses. We investigate the effects of global value trade imbalances on carbon emissions around the world. To this end, we build a Ricardian quantitative trade model including sectoral input-output linkages, trade imbalances, fossil fuel extraction, and carbon emissions from fossil fuel combustion. For every individual country, the emission effect of removing its trade imbalance depends on the carbon intensities of its production and consumption patterns, as well as on its fossil resource abundance. The simultaneous removal of all global trade imbalances is found to lower world carbon emissions by 0.62 percent or 184 million tons of carbon dioxide. Out of all individual countries’ imbalances, eliminating the Qatari trade surplus and the US trade deficit would lead to the largest environmental benefits in terms of lower global emissions. [with Joschka Wanner]
 
 ---
 
@@ -78,7 +78,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 **Presenter:** [Jenya Kahn-Lang](https://emp.lbl.gov/staff/jenya-kahn-lang)  
 **Title:** Price Discrimination in Residential Electricity Markets  
-**Abstract:** TBA
+**Abstract:** This paper studies determinants of price heterogeneity in an unconcentrated market for a nearly homogeneous good. In doing so, I uncover some adverse efficiency and distributional impacts of competition when consumers face large search frictions. Price competition for residential electricity results in substantial price dispersion, with low-income households and marginalized communities paying systematically higher electricity prices than their higher-income counterparts. I show theoretically that these patterns are consistent with a model in which firms price discriminate on search frictions and compete through marketing that raises equilibrium costs. Auxiliary analyses largely rule out alternative explanations. I estimate a structural model that shows that price discrimination leads to a welfare loss. However, eliminating marketing increases prices faced by low-income communities in the short run due to an interaction between marketing and price discrimination on inattention-driven inertia. The main results leverage billing data from Baltimore Gas and Electric, but I confirm several pricing patterns in other U.S. electricity markets.
 
 ---
 
