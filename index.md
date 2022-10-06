@@ -69,6 +69,9 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 [Robert Metcalfe](https://www.rmetcalfe.net/),	University of Southern California  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
 
+**Title:** Welfare and Congestion  
+**Abstract:** Sufficient statistics have proven to be a very useful tool for measuring welfare changes. Our paper extends this literature in three ways: First, we extend the theory for estimating the welfare impacts of price changes by including externalities that affect consumption decisions. Second, we apply the theory to an area of growing policy importance: congestion pricing. We develop estimates of peak and off-peak demand elasticities for urban mass transit in San Francisco using a large natural experiment and a natural field experiment that subsidized travel across 4.8 million trip sessions. Third, we estimate the welfare impacts for these subsidies using a sufficient statistics approach and a marginal value of public funds (MVPF) approach, and provide a way to connect these approaches. Our analysis suggests that off-peak subsidies can increase welfare, but the positive effects are reduced when consumers take the decisions of others into account compared to when they do not. We also find a large variation in the welfare impacts of shifting travel to different periods, which is explained by differences in demand and congestion characteristics. Finally, we show that the targeting of subsidies can increase welfare, but need not do so if the regulator does not have accurate information on demand.
+
 ---
 
 
