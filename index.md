@@ -92,8 +92,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1624561122469-5CGC8THOZPEB21HE1EH0/arcade-headshot.jpg?format=500w" width = "200" hspace = "20" alt = "Sherrie Wang">
 
 **Presenter:** [Sherrie Wang](https://sherriewang.github.io/)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Planetary-Scale Digital Agriculture via Remote Sensing  
+**Abstract:** As the world works toward the UN Sustainable Development Goals, data gaps hinder our ability to measure progress and target interventions. Meanwhile, rapid advances in computer vision and satellite imagery give us the opportunity to extract knowledge about the Earth at planetary scale. Compared to field surveys, which are the traditional source of knowledge about human activities and natural ecosystems, satellites offer global coverage at low marginal cost. However, in order for us to realize the potential of satellite imagery, we must overcome a lack of ground labels, especially in the world's poorest regions. This talk will cover strategies for mapping agriculture from satellite imagery when ground labels are scarce. In particular, I discuss how (1) transfer learning and weak supervision enable country-wide crop field delineation in India and (2) meta-learning allows for adaptive land cover classification in new regions with few labels. I conclude with an example of how satellite image-based datasets can be used to estimate causal effects by showing the impact of wildfire smoke on crop yields in the US Midwest.
 
 ---
 
