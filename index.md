@@ -21,7 +21,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 21 September 2022 (EEE Faculty Seminar)
+### 21 September 2022
 
 <img src = "https://joseph-s-shapiro.com/JShapiro_pic.jpg" width = "200" hspace = "20" alt = "Joe Shapiro">
 
@@ -104,6 +104,9 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 [Panle Jia Barwick](https://barwick.economics.cornell.edu/),	Cornell University  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/)
+
+**Title:** Attribute-based Subsidies and Market Power: an Application to Electric Vehicles    
+**Abstract:** Attribute-based subsidies are commonly used to promote the diffusion of energy-efficient products in industries with significant market power. We first develop a theoretical framework for optimal policy design that incorporates endogenous product attributes, environmental externalities, and market power. We then estimate an equilibrium model with endogenous product attributes using comprehensive data on China’s vehicle market. Simulations show that relative to attribute-based subsidies, uniform subsidies favor small and environmental-friendly vehicles but exacerbate the quantity distortion from market power for high-quality products. In contrast, subsidies based on the driving range and battery capacity or vehicle weight generate a large consumer surplus by improving product quality and mitigating market power. Among commonly used policies, capacity-based subsidies induce attributes valued by consumers, mitigate market power, and lead to the largest welfare gain at a moderate loss of environmental benefit. These findings highlight the importance of incorporating product-attribute choices and market power considerations in designing attributes-based policies.
 
 ---
 
