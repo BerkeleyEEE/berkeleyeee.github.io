@@ -117,8 +117,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13859-1599609917.jpg?itok=HyrZ6oCK" width = "200" hspace = "20" alt = "Sara Johns">
 
 **Presenter:** [Sara Johns](https://are.berkeley.edu/user/13859)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Tax credit structure and wind farm investment decisions  
+**Abstract:** Policymakers face many choices about subsidy design, including forward-looking decisions about how long a subsidy should last and how it should be phased out. This paper analyzes how the lifespan and phaseout of production tax credits for wind energy affects wind farms’ investment decisions. Wind farms receive a production tax credit for their first ten years, but can requalify for additional tax credits by making investments to retrofit or replace parts of the wind turbines. I show descriptively that wind farms choose to retrofit shortly after ten years, and this is earlier than in places without a ten year policy. I also show that wind farms increased retrofits just before a planned phaseout of the tax credits in 2017. I then use this temporal variation in the value of the production tax credit as well as technology costs to estimate a dynamic single-agent optimal replacement model. I then examine wind farm investment under counterfactual tax credit lifespans and phaseouts. 
 
 ---
 
