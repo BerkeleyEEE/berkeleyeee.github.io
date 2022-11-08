@@ -136,9 +136,9 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 30 November 2022
 
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=8Re3uQjy" width = "200" hspace = "20" alt = "Lucy Hackett">
+<img src = "" width = "200" hspace = "20" alt = "">
 
-**Presenter:** [Lucy Hackett](https://are.berkeley.edu/user/13900)  
+**Presenter:** [TBD]()  
 **Title:** TBA  
 **Abstract:** TBA
 
