@@ -9,6 +9,11 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
+
+## Spring 2023 -- Upcoming Schedule
+
+Coming soon!
+
 ## Fall 2022 -- Upcoming Schedule
 
 ### 14 September 2022
