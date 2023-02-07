@@ -48,7 +48,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2023/02/EmbeddedImage-edited-300x300.jpeg" width = "200" hspace = "20" alt = "Yunmi Kong">
 
-[Yunmi Kong](https://sites.google.com/site/yunmikongecon),	Rice University
+[Yunmi Kong](https://sites.google.com/site/yunmikongecon),	Rice University  
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/spring-2023/)
 
 **Title:** TBA  
