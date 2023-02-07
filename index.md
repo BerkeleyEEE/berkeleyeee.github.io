@@ -46,7 +46,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 15 March 2023
 
-<img src = "https://lh4.googleusercontent.com/zGWMaoIVgDjvoaLggQBBY9wqXUdxjVm87ICruTNS2Y_69-coq2PhAF6p4NIA97Sw_lLoovvjgd3FosAhlJh20BBExPMfm9XZFOKuEYYKsCg=w1280" width = "200" hspace = "20" alt = "Yunmi Kong">
+<img src = "https://lh5.googleusercontent.com/rlOTTew3FY5q6IDZ3i6kByWXK0_IzlKPllZjKPQysKGSgPdb1eS_QvfgFePtAMpCMacU2sL6C06Bf7iEUhdSG7DlNYhZO0hw6s5Tj14XFaA=w1280" width = "200" hspace = "20" alt = "Yunmi Kong">
 
 [Yunmi Kong](https://sites.google.com/site/yunmikongecon),	Rice University
 [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/spring-2023/)
