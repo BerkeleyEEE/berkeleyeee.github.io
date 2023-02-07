@@ -61,7 +61,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://static.wixstatic.com/media/a5be0d_6e9733f48a834d6fb836b74a447acb71~mv2.jpg/v1/fill/w_233,h_310,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Jose-Luis-Cruz-06_edited.jpg" width = "200" hspace = "20" alt = "José-Luis Cruz">
 
 **Presenter:** [José-Luis Cruz](https://www.cruzjl.com/)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
@@ -71,13 +71,13 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13865-1569435522.jpg?itok=DHoGrrJd" width = "200" hspace = "20" alt = "Arthur Wardle">
 
 **Presenter:** [Arthur Wardle](https://are.berkeley.edu/user/13865)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
 
 **Presenter:** [Elif Tasar](https://are.berkeley.edu/user/13907)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
@@ -87,13 +87,13 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13904-1600886166.jpg?itok=iBWItwBU" width = "200" hspace = "20" alt = "Kendra Marcoux">
 
 **Presenter:** [Kendra Marcoux](https://are.berkeley.edu/user/13904)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13858-1569371236.jpg?itok=0uR3pwu8" width = "200" hspace = "20" alt = "Connor Jackson">
 
 **Presenter:** [Connor Jackson](https://are.berkeley.edu/user/13858)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
@@ -103,19 +103,19 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13899-1600885459.jpg?itok=cUlK74TY" width = "200" hspace = "20" alt = "Simon Greenhill">
 
 **Presenter:** [Simon Greenhill](https://are.berkeley.edu/user/13899)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "http://jaysayre.com/js8.jpg" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** [James Sayre](http://jaysayre.com/)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13908-1600886770.jpg?itok=jvAfnHr5" width = "200" hspace = "20" alt = "Trevor Woolley">
 
 **Presenter:** [Trevor Woolley](https://are.berkeley.edu/user/13908)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
@@ -125,19 +125,19 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13902-1600309873.jpg?itok=tdp-73FE" width = "200" hspace = "20" alt = "Hamza Husain">
 
 **Presenter:** [Hamza Husain](https://are.berkeley.edu/user/13902)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
 
 **Presenter:** [Sunny Mitra](https://are.berkeley.edu/user/13861)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://pbs.twimg.com/profile_images/1349754834640117761/kNx5czb7_400x400.jpg" width = "200" hspace = "20" alt = "Milan Quentel">
 
 **Presenter:** [Milan Quentel](https://www.upf.edu/en/web/econ/psr-ipr/-/asset_publisher/ZwyuIpmQoVVW/content/quentel-milan-2-/maximized)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
@@ -147,19 +147,19 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://lh3.googleusercontent.com/pw/AMWts8CJ6cn45cykNYbWkNbtnKAq_rDOwn-AcNUY7-4dTy6j9uucytSdRESAHvpB-bzlI0JSuJ04pMXldIYRMGJKoL9Sr06S9ceQsp1kTDKi1gyWiuXw5foU98wp_8snN__7KVCXpxneWSCxvIXYPvXKBJ_ZNg=w1011-h1239-s-no?authuser=0" width = "200" hspace = "20" alt = "Aaron Watt">
 
 **Presenter:** [Aaron Watt](https://acwatt.net/)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=w7Ye12pc" width = "200" hspace = "20" alt = "Lucy Hackett">
 
 **Presenter:** [Lucy Hackett](https://are.berkeley.edu/user/13900)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 <img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1582444837393-2IS03LCSPRGFP4U82TSI/Image+from+iOS+%284%29.jpg?format=500w" width = "200" hspace = "20" alt = "Nicklas Nordfors">
 
 **Presenter:** [Nicklas Nordfors](http://www.globalpolicy.science/nicklas-nordfors)  
-**Title:** TBA
+**Title:** TBA  
 **Abstract:** TBA
 
 ---
