@@ -12,7 +12,159 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ## Spring 2023 -- Upcoming Schedule
 
-Coming soon!
+### 22 February 2023
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=5FtmiuW9" width = "200" hspace = "20" alt = "Leila Safavi">
+
+**Presenter:** [Leila Safavi](https://are.berkeley.edu/user/13787)  
+**Title:** TBA  
+**Abstract:** TBA
+
+---
+
+### 1 March 2023
+
+<img src = "https://cataylorcom.files.wordpress.com/2020/10/headshot_taylor_2019.jpeg?w=1024" width = "200" hspace = "20" alt = "Charles Taylor">
+
+**Presenter:** [Charles Taylor](https://ca-taylor.com/)  
+**Title:** Environmental Drivers of Agricultural Productivity Growth: CO2 Fertilization of US Field Crops  
+**Abstract:** Post-war growth in agricultural productivity outpaced the US non-farm economy, spurred by steadily increasing crop yields. We argue that rising atmospheric CO2 is responsible for a significant share of these yield gains. We present a novel methodology to estimate the CO2 fertilization effect using data from NASA’s Orbiting Carbon Observatory-2 (OCO-2) satellite. Our study complements the many field experiments by regressing county yields on local CO2 levels across the majority of US cropland under actual growing conditions. For identification, we utilize year-to-year anomalies from county-specific trends, an instrument for those CO2 anomalies using wind patterns, and a spatial first-differences approach. We consistently find a large CO2 fertilization effect: a 1 ppm increase in CO2 equates to a 0.4%, 0.6%, 1% yield increase for corn, soybeans, and wheat, respectively. In a thought exercise, we apply the CO2 fertilization effect we estimated in our sample from 2015-2021 backwards to 1940, and, assuming no other limiting factors, find that CO2 was the dominant driver of yield growth–with implications for estimates of future climate change damages.
+
+---
+
+### 8 March 2023
+
+<img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2022/08/Marshall_Burke-300x300.jpeg" width = "200" hspace = "20" alt = "Marshall Burke">
+
+[Marshall Burke](https://web.stanford.edu/~mburke/),	Stanford University  
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/spring-2023/)
+
+**Title:** Liquid Markets: An Empirical Analysis of a Water Exchange  
+**Abstract:** This paper empirically analyzes the performance of one of the world’s most developed water exchanges, which operates as a primitive limit order market.  Upon modeling participants’ incentives to shade their order prices and their choice between limit and market orders, I identify the distribution of participants’ willingness to pay (or accept) from the observed orders and trades.  The model flexibly allows for dynamics, risk aversion, and default behavior.  Counterfactual simulations suggest the observed exchange attains substantially lower trade surplus than periodic uniform-price market clearing.  The exchange exhibits noticeable price dispersion, which enables suboptimal buyer-seller matching and incentivizes price shading.
+
+---
+
+### 15 March 2023
+
+<img src = "https://lh4.googleusercontent.com/zGWMaoIVgDjvoaLggQBBY9wqXUdxjVm87ICruTNS2Y_69-coq2PhAF6p4NIA97Sw_lLoovvjgd3FosAhlJh20BBExPMfm9XZFOKuEYYKsCg=w1280" width = "200" hspace = "20" alt = "Yunmi Kong">
+
+[Yunmi Kong](https://sites.google.com/site/yunmikongecon),	Rice University
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/spring-2023/)
+
+**Title:** TBA  
+**Abstract:** TBA
+
+---
+
+### 22 March 2023
+
+<img src = "https://static.wixstatic.com/media/a5be0d_6e9733f48a834d6fb836b74a447acb71~mv2.jpg/v1/fill/w_233,h_310,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Jose-Luis-Cruz-06_edited.jpg" width = "200" hspace = "20" alt = "José-Luis Cruz">
+
+**Presenter:** [José-Luis Cruz](https://www.cruzjl.com/)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+### 5 April 2023
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13865-1569435522.jpg?itok=DHoGrrJd" width = "200" hspace = "20" alt = "Arthur Wardle">
+
+**Presenter:** [Arthur Wardle](https://are.berkeley.edu/user/13865)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
+
+**Presenter:** [Elif Tasar](https://are.berkeley.edu/user/13907)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+### 12 April 2023
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13904-1600886166.jpg?itok=iBWItwBU" width = "200" hspace = "20" alt = "Kendra Marcoux">
+
+**Presenter:** [Kendra Marcoux](https://are.berkeley.edu/user/13904)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13858-1569371236.jpg?itok=0uR3pwu8" width = "200" hspace = "20" alt = "Connor Jackson">
+
+**Presenter:** [Connor Jackson](https://are.berkeley.edu/user/13858)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+### 19 April 2023
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13899-1600885459.jpg?itok=cUlK74TY" width = "200" hspace = "20" alt = "Simon Greenhill">
+
+**Presenter:** [Simon Greenhill](https://are.berkeley.edu/user/13899)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "http://jaysayre.com/js8.jpg" width = "200" hspace = "20" alt = "James Sayre">
+
+**Presenter:** [James Sayre](http://jaysayre.com/)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13908-1600886770.jpg?itok=jvAfnHr5" width = "200" hspace = "20" alt = "Trevor Woolley">
+
+**Presenter:** [Trevor Woolley](https://are.berkeley.edu/user/13908)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+### 26 April 2023
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13902-1600309873.jpg?itok=tdp-73FE" width = "200" hspace = "20" alt = "Hamza Husain">
+
+**Presenter:** [Hamza Husain](https://are.berkeley.edu/user/13902)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
+
+**Presenter:** [Sunny Mitra](https://are.berkeley.edu/user/13861)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://pbs.twimg.com/profile_images/1349754834640117761/kNx5czb7_400x400.jpg" width = "200" hspace = "20" alt = "Milan Quentel">
+
+**Presenter:** [Milan Quentel](https://www.upf.edu/en/web/econ/psr-ipr/-/asset_publisher/ZwyuIpmQoVVW/content/quentel-milan-2-/maximized)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+### 3 May 2023
+
+<img src = "https://lh3.googleusercontent.com/pw/AMWts8CJ6cn45cykNYbWkNbtnKAq_rDOwn-AcNUY7-4dTy6j9uucytSdRESAHvpB-bzlI0JSuJ04pMXldIYRMGJKoL9Sr06S9ceQsp1kTDKi1gyWiuXw5foU98wp_8snN__7KVCXpxneWSCxvIXYPvXKBJ_ZNg=w1011-h1239-s-no?authuser=0" width = "200" hspace = "20" alt = "Aaron Watt">
+
+**Presenter:** [Aaron Watt](https://acwatt.net/)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=w7Ye12pc" width = "200" hspace = "20" alt = "Lucy Hackett">
+
+**Presenter:** [Lucy Hackett](https://are.berkeley.edu/user/13900)  
+**Title:** TBA
+**Abstract:** TBA
+
+<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1582444837393-2IS03LCSPRGFP4U82TSI/Image+from+iOS+%284%29.jpg?format=500w" width = "200" hspace = "20" alt = "Nicklas Nordfors">
+
+**Presenter:** [Nicklas Nordfors](http://www.globalpolicy.science/nicklas-nordfors)  
+**Title:** TBA
+**Abstract:** TBA
+
+---
+
+
 
 ## Fall 2022 -- Upcoming Schedule
 
