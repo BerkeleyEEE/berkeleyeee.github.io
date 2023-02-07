@@ -1,7 +1,7 @@
-#### ERE student work-in-progress presentations begin at 12:10PM and conclude at 1:00PM, as do post-doc presentations. Practice job talks and EEE visiting faculty seminars begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year. Due to budget constraints, no food will be provided -- please bring lunch with you!
+#### ERE student work-in-progress presentations begin at 12:10PM. Presentations conclude at 1pm or 1:30pm, depending on the number of presentations. Post-doc presentations begin at 12:10PM and conclude at 1pm. Practice job talks and EEE visiting faculty seminars begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year. Due to budget constraints, no food will be provided -- please bring lunch with you!
 
 ## Seminar Description
-This year will look a lot like pre-covid years.  [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/) will meet on a few Wednesdays, 12-1:30 PM. Student (ERE) presentations will take place on the weeks that there is no EEE seminar from 12:00-1:00PM (schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
+This year will look a lot like pre-covid years.  [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/) will meet on a few Wednesdays; student (ERE) presentations will take place on the weeks that there is no EEE seminar(schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
 
 The ERE faculty strongly encourage students and post-docs in the field to present on a regular basis. In practice, this means that students should present at least once a year starting in their third year. For post-docs, there are often slots open early in the semester, so feel free to indicate your preference for early Fall.
 
