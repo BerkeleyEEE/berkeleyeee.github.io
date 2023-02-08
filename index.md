@@ -109,8 +109,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://lh3.googleusercontent.com/drive-viewer/AAOQEOTngCzm4g8dYz2Oj9molQfHlqTTqstMvRb4hREmuJtDW6WnQnUeM96MeOyP3iNhjBMV3XX8d2oZfct82t59Brba2w6g=w1920-h929" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** [James Sayre](http://jaysayre.com/) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Predicting Yields at Scale using Remote Sensing  
+**Abstract:** We develop a procedure to feasibly produce remotely sensed agricultural outcome measures (such as crop yields) using publicly available survey data and large scale satellite imagery. Our approach builds upon the methodology of You et al. (2017) to introduce a dimensionality reduction technique that allows us to train a convolutional neural network in a setting in which the training data are much more aggregated than the level of the satellite imagery, yet maintains the temporal and spatial features necessary for accurate crop discrimination. Additionally, we develop a methodological toolkit that can be used by other researchers to select, download, query, and run analyses on large scale sets of imagery where such images must be stored locally on computing clusters. The primary application of our procedure is to predict maize yields in Mexico, using high resolution satellite imagery obtained for all of the states in Mexico.
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13908-1600886770.jpg?itok=jvAfnHr5" width = "200" hspace = "20" alt = "Trevor Woolley">
 
