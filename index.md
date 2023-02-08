@@ -106,7 +106,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** TBA  
 **Abstract:** TBA
 
-<img src = "http://www.jaysayre.com/js8.jpg" width = "200" hspace = "20" alt = "James Sayre">
+<img src = "https://drive.google.com/file/d/13ze1iOdiKpgpVhxuI0tEE8TgL5D2hX_i/preview" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** [James Sayre](http://jaysayre.com/) (ARE PhD Student)  
 **Title:** TBA  
