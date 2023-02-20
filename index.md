@@ -17,8 +17,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13787-1536681191.jpg?itok=5FtmiuW9" width = "200" hspace = "20" alt = "Leila Safavi">
 
 **Presenter:** [Leila Safavi](https://are.berkeley.edu/user/13787) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Energy Transition and Transportation Networks: Estimating the Economic Impact of Natural Gas Pipelines  
+**Abstract:** By allowing for the development of new major shale formations, innovations in hydraulic fracturing changed the spatial distribution of energy production in the United States. Did transportation networks efficiently expand in order to bring fracked gas to market? I develop a model of pipeline investment where frackers contract with pipeline operators to expand pipeline capacity between supply and demand areas and pipelines can exert market power over the price of capacity expansions.  Testing predictions from the model with a novel dataset on pipeline contracts, I show that supply regions where pipelines have significant pre-existing market power under-invest in capacity expansions, leading to incomplete market integration. This finding highlights the importance of addressing market power in transportation infrastructure as the energy sector shifts towards renewable electricity.
 
 ---
 
