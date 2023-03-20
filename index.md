@@ -61,8 +61,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://static.wixstatic.com/media/a5be0d_6e9733f48a834d6fb836b74a447acb71~mv2.jpg/v1/fill/w_233,h_310,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Jose-Luis-Cruz-06_edited.jpg" width = "200" hspace = "20" alt = "José-Luis Cruz">
 
 **Presenter:** [José-Luis Cruz](https://www.cruzjl.com/) (ARE Post-Doc)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Global Warming and Labor Market Reallocation  
+**Abstract:** Global warming is a phenomenon expected to have heterogeneous effects across geographic locations and economic sectors. To assess its welfare consequences and the reallocation of workers across different markets, I develop a dynamic economic model with the patterns of structural transformation and spatially distinct labor markets facing varying exposure to warming damages on productivity. I incorporate trade of goods and migration across regions and industries, to account for the ability of agents to adapt to this phenomenon, and non-homothetic preferences, to reproduce the reallocation of economic activity when income grows. To measure workers' mobility, I collect data from censuses and population surveys, and employ methodologies from the demographic literature to provide novel estimates of worldwide bilateral migration flows. To identify the non-linear effects of temperature on productivity, I exploit weather fluctuations in a long panel and find that agricultural productivity in the hottest countries declines by 6% when temperature rises 1ºC. The model, quantified for 6 sectors and 287 countries and subnational units, suggests that workers in agriculture face welfare losses three times larger than the average worker and that employment in this sector increases. Although hot regions might reduce the production of agricultural goods and import them from less affected locations, sectoral specialization is mainly driven by the shift in consumption expenditure towards the subsistence goods, as warming reduces global income.
 
 ---
 
