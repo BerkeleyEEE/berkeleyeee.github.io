@@ -116,7 +116,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** TBA  
 **Abstract:** TBA
 
-<img src = "https://drive.google.com/file/d/13ze1iOdiKpgpVhxuI0tEE8TgL5D2hX_i/preview" width = "200" hspace = "20" alt = "James Sayre">
+<img src = "https://lh5.googleusercontent.com/0IN8N2q74BXkZjfReAOPH7_g0dqREJyOvzQOu_N8AFtWctiqUAqGvtCDs8YbAnF7wok=w2400" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** [James Sayre](http://jaysayre.com/) (ARE PhD Student)  
 **Title:** Predicting Yields at Scale using Remote Sensing (with Joel Ferguson and Kangogo Sogomo)  
