@@ -116,7 +116,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** TBA  
 **Abstract:** TBA
 
-<img src = "https://lh3.googleusercontent.com/drive-viewer/AAOQEOTngCzm4g8dYz2Oj9molQfHlqTTqstMvRb4hREmuJtDW6WnQnUeM96MeOyP3iNhjBMV3XX8d2oZfct82t59Brba2w6g=w1920-h929" width = "200" hspace = "20" alt = "James Sayre">
+<img src = "https://drive.google.com/file/d/13ze1iOdiKpgpVhxuI0tEE8TgL5D2hX_i/preview" width = "200" hspace = "20" alt = "James Sayre">
 
 **Presenter:** [James Sayre](http://jaysayre.com/) (ARE PhD Student)  
 **Title:** Predicting Yields at Scale using Remote Sensing (with Joel Ferguson and Kangogo Sogomo)  
@@ -176,7 +176,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
-## Fall 2022
+## Fall 2022 -- Upcoming Schedule
 
 ### 14 September 2022
 
