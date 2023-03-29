@@ -99,6 +99,13 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** TBA  
 **Abstract:** TBA
 
+<img src = "https://www.csemken.eu/img/picture.png" width = "200" hspace = "20" alt = "Christoph Semken
+">
+
+**Presenter:** [Christoph Semken](https://www.csemken.eu/) (Universitat Pompeu Fabra, Barcelona PhD Student)  
+**Title:** The Marginal Impact of Emission Reductions  
+**Abstract:** Many people think they can at most have a small impact on climate change through their own actions, limiting the demand for individual emission reductions. Currently available statistics are not suited to systematically assess this belief. In this paper, I derive the marginal impact of emission reductions – the effect of reducing emissions by 1tCO₂ – for tangible climate change outcomes, document important misperceptions and show how they affect behaviour. Using climate models, I estimate the marginal impact for glacier ice melting, life expectancy and vegetation change. Subjects’ beliefs are inconsistent with the climate model findings in several ways. First, they substantially underestimate the marginal impact. Second, they think the marginal impact increases when others reduce their emissions (strategic complementarity). By contrast, for most outcomes, climate models predict strategic substitutability. Third, they falsely believe there are discontinuities at known temperature thresholds, after which the marginal impact significantly decreases. Providing subjects with the climate model findings causally increases perceived self-efficacy, intentions to reduce emissions and real donations to mitigate them. The findings are consistent with a model of threshold thinking, which predicts positive overall reductions of information provision in equilibrium.
+
 ---
 
 ### 19 April 2023
