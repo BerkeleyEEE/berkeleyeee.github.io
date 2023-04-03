@@ -96,8 +96,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13858-1569371236.jpg?itok=0uR3pwu8" width = "200" hspace = "20" alt = "Connor Jackson">
 
 **Presenter:** [Connor Jackson](https://are.berkeley.edu/user/13858) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Additionality and Adverse Selection in Demand Response Programs  
+**Abstract:** Paying for reductions in consumption of externality-generating goods yields incentive problems, because counterfactual consumption is unknown to the regulator. Payments can be made for consumption reductions that are not additional---they would occur even in the absence of the payment. This additionality problem can inflate program costs and generate welfare losses that counteract benefits from reduced consumption. I will estimate the effects of this additionality problem on California's Power Saver Rewards Program with a triple-difference design, estimating the average electricity consumption reduction from the program, and thus the average cost per kWh of additional demand reduction.
 
 <img src = "https://www.csemken.eu/img/picture.png" width = "200" hspace = "20" alt = "Christoph Semken
 ">
