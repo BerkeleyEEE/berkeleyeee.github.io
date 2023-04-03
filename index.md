@@ -74,14 +74,14 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13865-1569435522.jpg?itok=DHoGrrJd" width = "200" hspace = "20" alt = "Arthur Wardle">
 
 **Presenter:** [Arthur Wardle](https://are.berkeley.edu/user/13865) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Causally Identified Travel Cost Demand Shifts for Non-Market Valuation  
+**Abstract:** Travel cost demand models are widely used by both academics and practitioners for revealed preference valuation of recreational natural resources. Modern users typically estimate travel cost demand curves using discrete choice random utility models, which impose numerous structural assumptions with substantive influence over welfare estimates. This paper develops a method for estimating the consumer surplus change resulting from exogeneous changes in site attributes that is based on causally identified changes in zonal visitation. In contrast to discrete choice approaches, this method does not require specifying a choice set or observing all relevant site attributes. The method’s performance is compared to traditional discrete choice random utility model estimation in a series of simulations and demonstrated to substantially reduce bias when either a subset of attributes or elements of the choice set are unobserved.
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
 
 **Presenter:** [Elif Tasar](https://are.berkeley.edu/user/13907) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Assessment Caps and Spatial Mobility  
+**Abstract:** Capping the rate of increase in assessed property values is a common form of property tax relief intended to insure homeowners against demand shocks. By design, these “assessment caps” implicitly subsidize tenure and tax moving. I examine the mobility effects of two prominent assessment caps in California and Texas using quasi-experimental variation in the value of the cap across properties. Using granular property assessment and residential history data, I aim to characterize the distribution of tax savings that these caps generate and the types of moves that they deter. I plan to use these reduced-form results in a spatial equilibrium model to estimate misallocation arising from the caps.
 
 ---
 
