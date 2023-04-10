@@ -69,7 +69,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 5 April 2023
+### 5 April 2023 12:10-1pm
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13865-1569435522.jpg?itok=DHoGrrJd" width = "200" hspace = "20" alt = "Arthur Wardle">
 
@@ -85,7 +85,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 12 April 2023
+### 12 April 2023 12:10-1:30pm
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13904-1600886166.jpg?itok=iBWItwBU" width = "200" hspace = "20" alt = "Kendra Marcoux">
 
@@ -108,7 +108,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 19 April 2023
+### 19 April 2023 12:10-1:30pm
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13899-1600885459.jpg?itok=cUlK74TY" width = "200" hspace = "20" alt = "Simon Greenhill">
 
@@ -130,7 +130,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 26 April 2023
+### 26 April 2023 12:10-1:30pm
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13902-1600309873.jpg?itok=tdp-73FE" width = "200" hspace = "20" alt = "Hamza Husain">
 
@@ -152,7 +152,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ---
 
-### 3 May 2023
+### 3 May 2023 12:10-1:30pm
 
 <img src = "https://lh3.googleusercontent.com/pw/AMWts8CJ6cn45cykNYbWkNbtnKAq_rDOwn-AcNUY7-4dTy6j9uucytSdRESAHvpB-bzlI0JSuJ04pMXldIYRMGJKoL9Sr06S9ceQsp1kTDKi1gyWiuXw5foU98wp_8snN__7KVCXpxneWSCxvIXYPvXKBJ_ZNg=w1011-h1239-s-no?authuser=0" width = "200" hspace = "20" alt = "Aaron Watt">
 
