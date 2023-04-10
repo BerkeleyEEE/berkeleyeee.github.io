@@ -90,8 +90,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13904-1600886166.jpg?itok=iBWItwBU" width = "200" hspace = "20" alt = "Kendra Marcoux">
 
 **Presenter:** [Kendra Marcoux](https://are.berkeley.edu/user/13904) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Impacts of political representation on environmental justice measures  
+**Abstract:** Minority groups tend to be disproportionately exposed to environmental disamenities and various measures of environmental harm. This gap is thought of as attributable to three separate mechanisms: residential sorting, firm sorting, or discriminatory politics. Few studies have explored the role that discriminatory politics plays, despite the fact that decisions over where these same disamenities should be located are often impacted by state and local representatives. This paper explores how discrimination on behalf of elected officials might contribute to environmental inequality. I plan to use a close elections regression discontinuity design at the state legislature level to understand how electing minority legislators, or legislators from either major party, can impact environmental justice outcomes within their districts.
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13858-1569371236.jpg?itok=0uR3pwu8" width = "200" hspace = "20" alt = "Connor Jackson">
 
