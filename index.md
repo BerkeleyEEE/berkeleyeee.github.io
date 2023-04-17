@@ -113,8 +113,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13899-1600885459.jpg?itok=cUlK74TY" width = "200" hspace = "20" alt = "Simon Greenhill">
 
 **Presenter:** [Simon Greenhill](https://are.berkeley.edu/user/13899) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** What are the costs of noise pollution? Evidence from seismic monitors  
+**Abstract:** Environmental noise pollution is ubiquitous yet has received little attention from economists. Evidence from correlational and lab studies in medicine and public health suggests links between environmental noise exposure and adverse health effects ranging from sleep disruption to hypertension, heart disease, and increased suicide risk. A central challenge to studying noise using quasi-experimental methods is the lack of data on ambient noise levels. I develop a new dataset of environmental noise using observations from seismic monitors, which have been shown to measure anthropogenic noise. I propose to use this dataset in combination with an instrumental variables identification strategy to study the causal effect of noise on health outcomes and property values. 
 
 <img src = "https://lh5.googleusercontent.com/0IN8N2q74BXkZjfReAOPH7_g0dqREJyOvzQOu_N8AFtWctiqUAqGvtCDs8YbAnF7wok=w2400" width = "200" hspace = "20" alt = "James Sayre">
 
@@ -125,8 +125,8 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13908-1600886770.jpg?itok=jvAfnHr5" width = "200" hspace = "20" alt = "Trevor Woolley">
 
 **Presenter:** [Trevor Woolley](https://are.berkeley.edu/user/13908) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** What If All Farm Animals Were Pasture Raised? Estimating Consumer and Producer Costs  
+**Abstract:** In a given year, the US is home to 28 times as many farm animals as people (9.2 billion to 332 million in 2022). Over 95% of these animals are raised entirely indoors. Applying a mixed logit model to grocery purchases data, I (plan to) estimate consumer willingness to pay for free-range and pasture-raised poultry, pork, and beef products. Using my estimates of market shares and semi-elasticities, I (will) estimate the  private marginal costs of these products and the consumer/producer welfare impacts of a hypothetical welfare standard that requires all broiler chickens, pigs, and beef cows in the US to be pasture-raised. This is very early stage research, so my presentation will focus nearly entirely on my proposed empirical strategy.
 
 ---
 
