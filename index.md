@@ -157,7 +157,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://lh3.googleusercontent.com/pw/AMWts8CJ6cn45cykNYbWkNbtnKAq_rDOwn-AcNUY7-4dTy6j9uucytSdRESAHvpB-bzlI0JSuJ04pMXldIYRMGJKoL9Sr06S9ceQsp1kTDKi1gyWiuXw5foU98wp_8snN__7KVCXpxneWSCxvIXYPvXKBJ_ZNg=w1011-h1239-s-no?authuser=0" width = "200" hspace = "20" alt = "Aaron Watt">
 
 **Presenter:** [Aaron Watt](https://acwatt.net/) (ARE PhD Student)  
-**Title:** TBA  
+**Title:** Optimal Siting of Air Quality Monitors in Ambient Pollution Regulation  
 **Abstract:** TBA
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=w7Ye12pc" width = "200" hspace = "20" alt = "Lucy Hackett">
