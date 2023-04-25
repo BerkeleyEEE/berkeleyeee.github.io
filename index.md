@@ -135,20 +135,20 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13902-1600309873.jpg?itok=tdp-73FE" width = "200" hspace = "20" alt = "Hamza Husain">
 
 **Presenter:** [Hamza Husain](https://are.berkeley.edu/user/13902) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** A Bioeconomic Model of Green Manure Cover Crops and Soil Health Dynamics  
+**Abstract:** Depletion of soil fertility is considered to be one of the the major biophysical causes of low per capita food production in Sub-Saharan Africa. The neglect of the rural sector by governments and the collapse of traditional societies and their fallowing practices have resulted in the removal of large quantities of nutrients from soils without sufficient quantities of fertilizer or organic resources to replenish them. Green manure cover crops (GMCCs) are a neglected yet promising technology for land-constrained smallholders to quickly improve soil health while reducing the need for costly fertilizer inputs. I plan to develop an optimal control model that integrates GMMCs and dynamic processes of carbon and nitrogen turnover in soils within an economic optimization framework, using (hopefully) rich data from agronomic field studies to calibrate the model. The model will demonstrate gains that might be realized from the adoption of this low-cost technology. 
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
 
 **Presenter:** [Sunny Mitra](https://are.berkeley.edu/user/13861) (ARE PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** The Forest-Development Tradeoff: Local Socioeconomic Effects and the Role of Increasing Costs Related to Deforestation for Infrastructure in India  
+**Abstract:** In land-constrained developing countries, there is often an argument regarding the optimal trajectory for the governments in such countries to take: preserve critical environmental resources or invest in infrastructure to spur economic growth. Using an Indian government regulation on the cost of deforesting different ecological types, I aim to inform this debate by evaluating the local socioeconomic effect of replacing forest with infrastructure. In the process, I also hope to contribute to the debate about the role of increasing costs on reducing deforestation for infrastructure and thus discuss the prospects of payment for ecosystem services in this context.
 
 <img src = "https://pbs.twimg.com/profile_images/1349754834640117761/kNx5czb7_400x400.jpg" width = "200" hspace = "20" alt = "Milan Quentel">
 
 **Presenter:** [Milan Quentel](https://www.upf.edu/en/web/econ/psr-ipr/-/asset_publisher/ZwyuIpmQoVVW/content/quentel-milan-2-/maximized) (Visiting PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
+**Title:** Gone with the Wind: Renewable Energy Infrastructure, Welfare and Redistribution  
+**Abstract:** Electricity production from renewable sources of energy is cheap and reduces CO2 emissions. Yet the global expansion of renewable energy infrastructure has been slow, in part because residents fear the effect of nearby infrastructure on the local quality of life, for example due to the visual impact or noise pollution, and delay construction. Focusing on wind energy in Germany, I estimate the welfare and redistributive effects of such infrastructure projects and the implications for optimal zoning and redistributive policies. I combine a novel identification strategy with fine spatial data to show that i) wind turbines decrease housing prices, ii) high-skilled residents move away, and iii) the local labor supply of high-skilled decreases. The results suggest that wind turbine locations become less attractive, especially so for high-skilled residents. To shed light on the welfare effects, I develop a quantitative spatial model of residential choices following turbine construction. I estimate the key parameter, the elasticity of amenities with respect to wind turbines, using the exogenous variation from the reduced form strategy. Finally, I use the model to evaluate how different zoning and redistributive policies affect the welfare costs of turbines, redistribution, and incentives for further turbine construction.
 
 ---
 
