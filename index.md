@@ -166,11 +166,6 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Title:** Subsidence and the costs of groundwater over-extraction: Evidence from Mexico City  
 **Abstract:** Subsidence, the sinking of land areas due to aquifer over-extraction, is a prevalent and worsening phenomenon worldwide that has major consequences in urban areas. This paper focuses on an urban context experiencing rapid and extreme land subsidence due to aquifer drawdown: Mexico City. Exploiting spatial variation in the geology of the historic lake bed on which the city was built combined with groundwater extraction rates as an instrument for neighborhood-level subsidence, I estimate the causal effect of subsidence on housing market outcomes, economic activity, and measures of infrastructure integrity. I interpret these estimates through the lens of a quantitative spatial model, and evaluate the welfare consequences of place-based policies that subsidize either in-situ adaptation to subsidence or subsidized development in less vulnerable areas.
 
-<img src = "https://images.squarespace-cdn.com/content/v1/55667009e4b04bbb290cc837/1582444837393-2IS03LCSPRGFP4U82TSI/Image+from+iOS+%284%29.jpg?format=500w" width = "200" hspace = "20" alt = "Nicklas Nordfors">
-
-**Presenter:** [Nicklas Nordfors](http://www.globalpolicy.science/nicklas-nordfors) (Visiting PhD Student)  
-**Title:** TBA  
-**Abstract:** TBA
 
 ---
 
