@@ -158,7 +158,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 **Presenter:** [Aaron Watt](https://acwatt.net/) (ARE PhD Student)  
 **Title:** Optimal Siting of Air Quality Monitors in Ambient Pollution Regulation  
-**Abstract:** TBA
+**Abstract:** Regulating air quality relies heavily on air pollution measurements taken by a sparse network of air quality monitoring stations. Due to this sparsity, there is high uncertainty in air quality between stations, making the location of the monitors important in deciding who gets regulated and who does not. This project builds a Bayesian model of optimal sequential monitor siting, explicitly including the regulator's uncertainty in air quality and incorporating knowledge gained from previously placed monitors in future siting decisions. This model will then be taken to US data to estimate optimal sites for future monitors given different decision rules and regulatory frameworks.
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13900-1600310637.jpg?itok=w7Ye12pc" width = "200" hspace = "20" alt = "Lucy Hackett">
 
