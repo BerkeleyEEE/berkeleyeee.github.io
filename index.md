@@ -8,8 +8,8 @@ The ERE faculty strongly encourage students and post-docs in the field to presen
 While the student seminar is meant for “work-in-progress”, the faculty’s hope and expectation is that students will prepare/refine their presentation as much as possible in advance. Students are encouraged to meet with faculty/students/visitors well in advance to vet ideas and gather preliminary feedback. The faculty also ask that students share slides with their advisor at least one week prior to the scheduled talk in order to get some more targeted feedback, prior to the presentation.
 
 [ARE Seminar Norms](https://are.berkeley.edu/sites/are.berkeley.edu/files/SeminarNorms_0.pdf)  
-[EEE Faculty seminar website](https://eeeseminar.berkeley.edu/schedules/) 
-[Google Doc version of the schedule](https://docs.google.com/document/d/1yhRBa8SQ0nGThTnj2MTq-suoA2VWs5gH_lTwATvbAbE/edit?usp=sharing)
+[EEE Faculty seminar website](https://eeeseminar.berkeley.edu/schedules/)  
+[Google Doc version of the schedule](https://docs.google.com/document/d/1yhRBa8SQ0nGThTnj2MTq-suoA2VWs5gH_lTwATvbAbE/edit?usp=sharing)  
 [Add the ERE Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y18xOTloYmsyMTRxbnJxZ212YnY5cThyZ28zb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
