@@ -21,7 +21,7 @@ Scheduling still in progress – come back for updates.
 <img src = "https://appliedecon.oregonstate.edu/sites/agscid7/files/devin.jpeg" width = "200" hspace = "20" alt = "Devin Mounts">
 
 **Presenter:** Devin Mounts (Oregon State University PhD Student)  
-**Title:** [Canceled: An Incentive for Reliability in Texas’ Electricity Market](https://drive.google.com/file/d/1C-YWRUCPeUyhB2WE99oxyJNQ7a900wBz/view?usp=sharing)
+**Title:** [Canceled: An Incentive for Reliability in Texas’ Electricity Market](https://drive.google.com/file/d/1C-YWRUCPeUyhB2WE99oxyJNQ7a900wBz/view?usp=sharing)  
 **Abstract:** U.S climate policy is increasing the retirement rate of fossil fuel generators, requiring large quantities of capacity to enter U.S electricity markets in order to maintain reliability. Texas implemented a new producer incentive subsidy, paid for directly by consumers, to increase reliable capacity growth in 2014. We examine the effect of this policy on reliability within ERCOT in three ways: a theoretical examination of its impact to firm profits, an empirical analysis of its effect on entry of generating capacity, and an empirical analysis of its effect on entry into the applicant pool. All three approaches suggest that the consumer paid subsidy did not improve reliability in the market.
 
 ---
@@ -31,7 +31,7 @@ Scheduling still in progress – come back for updates.
 <img src = "https://images.squarespace-cdn.com/content/v1/595af9e472af65691b788c27/1500482428149-WYK32WWOQW6J6OCTVG85/kitchen+-+1.jpg" width = "200" hspace = "20" alt = "Meredith Fowlie">
 
 **Presenter:** Meredith Fowlie (ARE Faculty, Energy Institute at Haas, NBER)  
-**Title:** [How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance](https://eeeseminar.berkeley.edu/meredith-fowlie-8-30-2023/)
+**Title:** [How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance](https://eeeseminar.berkeley.edu/meredith-fowlie-8-30-2023/)  
 **Abstract:** In the face of escalating climate risk, property insurance markets have a critical role to play in helping households and firms reduce risk exposures and recover from natural disasters when they strike. Performing these functions efficiently requires a detailed understanding of property-level disaster risk and pricing that accurately reflects the costs of insuring this risk. We use proprietary data on parcel-level wildfire risk, together with insurers’ regulatory rate filings, to investigate how insurance is being priced and provided in California’s homeowners’ insurance market. We document significant differences between the risk pricing we observe in this market and benchmark measures of ‘fair’ pricing. We also find striking variation across firms in terms of both risk pricing and underwriting. A selection model of natural hazard insurance that incorporates both price regulation and asymmetries in information across insurers helps rationalize these findings. Our results highlight the underappreciated importance of the winner’s curse as a barrier to participation in insurance markets for large, hard-to-model risks.
 
 ---
