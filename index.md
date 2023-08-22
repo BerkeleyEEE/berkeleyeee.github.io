@@ -1,19 +1,59 @@
-#### ERE student work-in-progress presentations begin at 12:10PM. Presentations conclude at 1pm or 1:30pm, depending on the number of presentations. Post-doc presentations begin at 12:10PM and conclude at 1pm. Practice job talks and EEE visiting faculty seminars begin at 12:10PM, and last for 80 minutes. The seminar will be in-person this year. Due to budget constraints, no food will be provided -- please bring lunch with you!
+#### ERE student work-in-progress presentations begin at 12:10PM. Most student presentations conclude at 1pm (see schedule to be sure). Post-doc presentations begin at 12:10PM and conclude at 1pm. Practice job talks and EEE visiting faculty seminars run 12:10-1:30PM. This seminar will be in-person only unless specifically requested by the presenter. Due to budget constraints, no food will be provided -- please bring lunch with you!
 
 ## Seminar Description
-This year will look a lot like pre-covid years.  [Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/fall-2022/) will meet on a few Wednesdays; student (ERE) presentations will take place on the weeks that there is no EEE seminar(schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
+[Faculty (EEE) seminars](https://eeeseminar.berkeley.edu/schedules/) will meet on a few Wednesdays each semester; student (ERE) presentations will take place on the weeks that there is no EEE seminar (schedule below).  All energy/environment/resources faculty and grad students are encouraged to attend both seminars!
 
 The ERE faculty strongly encourage students and post-docs in the field to present on a regular basis. In practice, this means that students should present at least once a year starting in their third year. For post-docs, there are often slots open early in the semester, so feel free to indicate your preference for early Fall.
 
 While the student seminar is meant for “work-in-progress”, the faculty’s hope and expectation is that students will prepare/refine their presentation as much as possible in advance. Students are encouraged to meet with faculty/students/visitors well in advance to vet ideas and gather preliminary feedback. The faculty also ask that students share slides with their advisor at least one week prior to the scheduled talk in order to get some more targeted feedback, prior to the presentation.
 
 [ARE Seminar Norms](https://are.berkeley.edu/sites/are.berkeley.edu/files/SeminarNorms_0.pdf)  
-[EEE Faculty seminar website](https://eeeseminar.berkeley.edu/spring-2023/)  
+[EEE Faculty seminar website](https://eeeseminar.berkeley.edu/schedules/) 
+[Google Doc version of the schedule](https://docs.google.com/document/d/1yhRBa8SQ0nGThTnj2MTq-suoA2VWs5gH_lTwATvbAbE/edit?usp=sharing)
 [Add the ERE Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y18xOTloYmsyMTRxbnJxZ212YnY5cThyZ28zb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
+## Fall 2023
+Scheduling still in progress – come back for updates.
 
-## Spring 2023 -- Upcoming Schedule
+### August 23 2023
+
+<img src = "https://appliedecon.oregonstate.edu/sites/agscid7/files/devin.jpeg" width = "200" hspace = "20" alt = "Devin Mounts">
+
+**Presenter:** Devin Mounts (Oregon State University PhD Student)  
+**Title:** [Canceled: An Incentive for Reliability in Texas’ Electricity Market](https://drive.google.com/file/d/1C-YWRUCPeUyhB2WE99oxyJNQ7a900wBz/view?usp=sharing)
+**Abstract:** U.S climate policy is increasing the retirement rate of fossil fuel generators, requiring large quantities of capacity to enter U.S electricity markets in order to maintain reliability. Texas implemented a new producer incentive subsidy, paid for directly by consumers, to increase reliable capacity growth in 2014. We examine the effect of this policy on reliability within ERCOT in three ways: a theoretical examination of its impact to firm profits, an empirical analysis of its effect on entry of generating capacity, and an empirical analysis of its effect on entry into the applicant pool. All three approaches suggest that the consumer paid subsidy did not improve reliability in the market.
+
+---
+
+### August 30 2023
+
+<img src = "https://images.squarespace-cdn.com/content/v1/595af9e472af65691b788c27/1500482428149-WYK32WWOQW6J6OCTVG85/kitchen+-+1.jpg" width = "200" hspace = "20" alt = "Meredith Fowlie">
+
+**Presenter:** Meredith Fowlie (ARE Faculty, Energy Institute at Haas, NBER)  
+**Title:** [How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance](https://eeeseminar.berkeley.edu/meredith-fowlie-8-30-2023/)
+**Abstract:** In the face of escalating climate risk, property insurance markets have a critical role to play in helping households and firms reduce risk exposures and recover from natural disasters when they strike. Performing these functions efficiently requires a detailed understanding of property-level disaster risk and pricing that accurately reflects the costs of insuring this risk. We use proprietary data on parcel-level wildfire risk, together with insurers’ regulatory rate filings, to investigate how insurance is being priced and provided in California’s homeowners’ insurance market. We document significant differences between the risk pricing we observe in this market and benchmark measures of ‘fair’ pricing. We also find striking variation across firms in terms of both risk pricing and underwriting. A selection model of natural hazard insurance that incorporates both price regulation and asymmetries in information across insurers helps rationalize these findings. Our results highlight the underappreciated importance of the winner’s curse as a barrier to participation in insurance markets for large, hard-to-model risks.
+
+---
+
+### September 06 2023
+### September 13 2023
+### September 20 2023
+### September 27 2023
+### October 04 2023
+### October 11 2023
+### October 18 2023
+### October 25 2023
+### November 01 2023
+### November 08 2023
+### November 15 2023
+### November 22 2023
+### November 29 2023
+### December 06 2023
+### December 13 2023
+
+
+## Past Presentations -- Spring 2023
 
 ### 22 February 2023
 
@@ -171,7 +211,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
-## Fall 2022 -- Upcoming Schedule
+## Fall 2022
 
 ### 14 September 2022
 
@@ -330,7 +370,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
-## Past Presentations -- Spring 2020
+## Spring 2020
 
 ### 27 January 2021
 
