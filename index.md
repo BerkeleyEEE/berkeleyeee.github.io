@@ -37,6 +37,15 @@ Scheduling still in progress – come back for updates.
 ---
 
 ### September 06 2023
+
+<img src = "https://joelferg.github.io/IMG_0559.jpg" width = "200" hspace = "20" alt = "Joel Ferguson">
+
+**Presenter:** [Joel Ferguson](https://joelferg.github.io/) (UC Berkeley Post Doc)  
+**Title:** Climate Change and Civil Conflict in General Equilibrium   
+**Abstract:** There is a large body of empirical evidence suggesting that weather shocks causally affect the risk of civil conflict in low-income settings. If one of the channels for this effect is through economic shocks, as is widely hypothesized, then distant weather shocks may also affect conflict incidence via the trade network. I test this hypothesis in a sample of 2125 1°x1° grid cells over the period 2000-2015 in continental sub-Saharan Africa. To do so, I develop a quantitative spatial equilibrium model with weather-induced productivity shocks, which allows me to aggregate distant weather shocks in a model-consistent way and derive a reduced-form specification linking aggregated weather shocks to conflict incidence via labor's share of income. I find that a 10% decrease in real wage causes a 6.4% increase in conflict incidence. I then use this model-consistent reduced form estimate to predict conflict under climate change and compare the results to those using simple reduced form estimates of the effects of weather shocks on conflict. These counterfactual results suggest that naive regressions of the effects of weather substantially underpredict increases in civil conflict incidence due to climate changeover the period 2015-2040.
+
+---
+
 ### September 13 2023
 ### September 20 2023
 ### September 27 2023
