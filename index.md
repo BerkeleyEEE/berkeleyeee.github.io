@@ -26,7 +26,7 @@ Scheduling still in progress – come back for updates.
 
 ---
 
-### August 30 2023
+### August 30 2023 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
 
 <img src = "https://images.squarespace-cdn.com/content/v1/595af9e472af65691b788c27/1500482428149-WYK32WWOQW6J6OCTVG85/kitchen+-+1.jpg" width = "200" hspace = "20" alt = "Meredith Fowlie">
 
@@ -46,20 +46,55 @@ Scheduling still in progress – come back for updates.
 
 ---
 
-### September 13 2023
 ### September 20 2023
-### September 27 2023
+
+**Presenter:** Jesse Buchsbaum		
+
+---
+
 ### October 04 2023
+
+**Presenter:** Leila Safavi		
+
+---
+
 ### October 11 2023
-### October 18 2023
-### October 25 2023
+
+**Presenter:** Riccardo Norbiato
+
+---
+
+### October 25 2023 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
+
+**Presenter:** Ulrich Wagner	
+
+---
+
 ### November 01 2023
-### November 08 2023
+
+**Presenter:** Sara Johns	
+
+---
+
 ### November 15 2023
-### November 22 2023
+
+**Presenter:** Lucy Hackett 	
+
+---
+
 ### November 29 2023
+
+**Presenter 1:** Dingyi Li
+
+**Presenter 2:** Shuo Yu
+
+---
+
 ### December 06 2023
-### December 13 2023
+
+**Presenter:** Trevor Woolley
+
+---
 
 
 ## Past Presentations -- Spring 2023
