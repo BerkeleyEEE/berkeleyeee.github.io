@@ -46,9 +46,13 @@ Scheduling still in progress – come back for updates.
 
 ---
 
-### September 20 2023
+### September 20 2023 - Job Talk
 
-**Presenter:** Jesse Buchsbaum		
+<img src = "https://jesse-buchsbaum.com/author/jesse-buchsbaum/avatar_hudd14bea53504b7648ccb51eb94d26f95_109675_270x270_fill_q90_lanczos_center.jpeg" width = "200" hspace = "20" alt = "Jesse Buchsbaum">
+
+**Presenter:** [Jesse Buchsbaum](https://jesse-buchsbaum.com/) (UC Berkeley grad, Postdoc at U of Chicago’s Energy & Environment Lab)  
+**Title:** How do consumers respond to prices in the long run? Evidence from electricity customers   
+**Abstract:** Long-run elasticities are critical inputs for welfare analysis, demand forecasting, and policy evaluation. But there is a dearth of empirical long-run elasticity estimates, leading much of the literature to use short-run estimates in their place. In this paper, I leverage a novel source of exogenous and persistent price variation to estimate the long-run price elasticity of demand for residential electricity consumers. In this setting, consumers are much more responsive to prices in the long run than in the short-run, with elasticity estimates of -2.4 and -0.36 respectively. I explore mechanisms and find that in the long run, consumers respond differently to temperature across price regimes. Furthermore, low-income consumers are particularly responsive to prices in the long run, emphasizing the importance of bill salience for low-income households. These findings highlight the importance of setting electricity prices that reflect social marginal costs, and suggest that retail electricity prices can play an important role in inducing conservation.
 
 ---
 
