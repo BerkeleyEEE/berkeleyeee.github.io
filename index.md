@@ -59,6 +59,7 @@ Scheduling still in progress – come back for updates.
 ### October 04 2023
 
 **Presenter:** Leila Safavi		
+**Title:** Can Firms Evade Pricing Regulation? The Case of Vertically Integrated Energy Utilities  
 
 ---
 
