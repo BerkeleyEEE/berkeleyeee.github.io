@@ -64,7 +64,13 @@ Scheduling still in progress – come back for updates.
 
 ### October 11 2023
 
-**Presenter:** Riccardo Norbiato
+**Presenter:** Riccardo Norbiato		
+
+---
+
+### October 18 2023
+
+**Presenter:** [Matteo Benetton](https://sites.google.com/view/matteobenetton/home) (Haas)
 
 ---
 
@@ -76,7 +82,13 @@ Scheduling still in progress – come back for updates.
 
 ### November 01 2023
 
-**Presenter:** Sara Johns	
+**Presenter:** Sara Johns		
+
+---
+
+### November 08 2023
+
+**Presenter:** Vincent Thivierge
 
 ---
 
@@ -96,7 +108,15 @@ Scheduling still in progress – come back for updates.
 
 ### December 06 2023
 
-**Presenter:** Trevor Woolley
+**Presenter 1:** Trevor Woolley
+
+**Presenter 2:** Aaron  Watt
+
+---
+
+### December 13 2023
+
+**Presenter:** Kendra Marcoux
 
 ---
 
