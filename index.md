@@ -56,11 +56,11 @@ Scheduling still in progress – come back for updates.
 
 ---
 
-### October 04 2023
+### October 04 2023 - Job Talk
 
 <img src = "https://lsafavi.weebly.com/uploads/1/2/6/9/126913501/safavi-head-1_orig.jpeg" width = "200" hspace = "20" alt = "Leila Safavi">
 
-**Presenter:** Leila Safavi		
+**Presenter:** [Leila Safavi](https://lsafavi.weebly.com/)		(UC Berkeley PhD Candiate, ARE)  
 **Title:** Can Firms Evade Pricing Regulation? The Case of Vertically Integrated Energy Utilities  
 
 ---
