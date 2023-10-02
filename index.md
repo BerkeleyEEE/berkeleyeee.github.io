@@ -58,6 +58,8 @@ Scheduling still in progress – come back for updates.
 
 ### October 04 2023
 
+<img src = "https://lsafavi.weebly.com/uploads/1/2/6/9/126913501/safavi-head-1_orig.jpeg" width = "200" hspace = "20" alt = "Leila Safavi">
+
 **Presenter:** Leila Safavi		
 **Title:** Can Firms Evade Pricing Regulation? The Case of Vertically Integrated Energy Utilities  
 
