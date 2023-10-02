@@ -65,7 +65,10 @@ Scheduling still in progress – come back for updates.
 
 ### October 11 2023
 
-**Presenter:** Riccardo Norbiato		
+**Presenter 1:** Riccardo Norbiato		
+
+**Presenter 2:** Jules Linden
+
 
 ---
 
