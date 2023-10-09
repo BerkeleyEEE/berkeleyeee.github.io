@@ -78,7 +78,6 @@ Between 1990 and 2008, emissions embodied in the production of traded goods incr
 
 <img src = "https://liser.elsevierpure.com/files-asset/12480872/1145.jpg" width = "200" hspace = "20" alt = "Jules Linden">
 
-
 **Presenter 2:** Jules Linden		    
 **Title:** Decomposing the distributional impact of carbon taxation across six EU countries   
 **Abstract:**
@@ -88,6 +87,9 @@ This paper decomposes and compares the distributional impact of national carbon 
 ---
 
 ### October 18 2023
+
+<img src = "https://lh4.googleusercontent.com/vhSbqEBXhGC08hp-Knlx4cU6et0ezVC5Iy22uD_0S0F2-aHlAaxXYodq1vQbZx0lSNlOkrPyYLurXkST7ZcNvmtfMgKvVrq8oDF9gpg0-CY=w1280" width = "200" hspace = "20" alt = "Matteo Benetton">
+
 
 **Presenter:** [Matteo Benetton](https://sites.google.com/view/matteobenetton/home) (Haas)		    
 **Title:** Does Climate Change Adaptation Matter? Evidence from the City on the Water   
