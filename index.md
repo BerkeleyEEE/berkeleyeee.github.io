@@ -69,10 +69,15 @@ Economic theory shows that vertical mergers may be used by a regulated monopoly 
 
 ### October 11 2023
 
+<img src = "https://crest.science/wp-content/uploads/2020/05/Norbiato_Riccardo2.jpg" width = "200" hspace = "20" alt = "Riccardo Norbiato">
+
 **Presenter 1:** Riccardo Norbiato		    
 **Title:** Production Fragmentation, Trade and Emissions  
 **Abstract:**
 Between 1990 and 2008, emissions embodied in the production of traded goods increased and many developed countries became net importers of pollution emissions. At the same time, these countries experienced a decrease in domestic emissions despite a substantial increase in output. Technological changes leading to lower pollution intensity (e.g., the amount of domestic emissions per unit of output) are usually reported to be the main cause of this emissions reduction. However, the standard decomposition analysis lacks considering the possible role played by production fragmentation and trade in intermediates: while not altering the composition of final goods produced, offshoring intermediates may lead to a decrease in firms' pollution intensity through two channels. On the one hand, lower input prices associated with larger sourcing capabilities may affect firms' abatement investment decisions. On the other, the physical production of several components can be offshored by implying composition effects related to intermediates. Thus, I develop a model linking trade with the environment to better understand the economic forces driving these changes. In particular, the model includes heterogeneous firms sourcing intermediates and it accommodates decreasing pollution intensities as a result of both endogenous abatement investment and offshoring decisions. By doing so, the aim is to analyze the effects of trade and environmental regulation on domestic and global pollution emissions. In future work, I plan to estimate the model and quantitatively evaluate a range of counterfactuals in order to explain the evolution of pollution emissions.
+
+<img src = "https://liser.elsevierpure.com/files-asset/12480872/1145.jpg" width = "200" hspace = "20" alt = "Jules Linden">
+
 
 **Presenter 2:** Jules Linden		    
 **Title:** Decomposing the distributional impact of carbon taxation across six EU countries   
