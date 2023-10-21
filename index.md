@@ -97,13 +97,18 @@ This paper exploits the operation of a sea wall built to protect the city of Ven
 
 ### October 25 2023 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
 
-**Presenter:** Ulrich Wagner	
+<img src = "https://eeeseminar.berkeley.edu/wp-content/uploads/2023/08/Wagner.jpg" width = "200" hspace = "20" alt = "Ulrich Wagner">
+
+**Presenter:** Ulrich Wagner	  
+**Title:** Measuring the Health Effects of Implicit Air Pollution Trades on the European Carbon Market   
+**Abstract:**
+Market-based climate policies decentralize abatement decisions by establishing a CO2 price, either via taxes or via a pollution permit market. Since CO2 emissions are often released jointly with conventional air pollutants, CO2 permit trades give rise to implicit trades of such co-pollutants. In contrast to CO2 emissions, co-pollution emissions are not traded on a ton-for-ton basis, and they have local environmental impacts. Depending on the spatial distribution of polluters and the polluted, these properties can lead to undesirable health outcomes. We develop an empirical framework for quantifying changes in plant-level air pollution emissions due to carbon permit trades on the European Union Emissions Trading Scheme (EU ETS). Linking predictions of this framework to a purpose-built chemical transport model (Gu et al., 2023a, 2023b), we estimate the associated effects on ambient concentrations of PM2.5 and ozone in Europe on a 0.25° by 0.3125° grid. We apply this framework to provide first estimates of the health consequences of co-pollution trades on the European carbon market. We find that health co-benefits during the first decade of the EU ETS were substantially larger than under a counterfactual command-and-control regulation.
 
 ---
 
 ### November 01 2023
 
-**Presenter:** Sara Johns		
+**NO SEMINAR**	
 
 ---
 
