@@ -108,7 +108,7 @@ Market-based climate policies decentralize abatement decisions by establishing a
 
 ### November 01 2023
 
-**NO SEMINAR**	
+**TBD**	
 
 ---
 
