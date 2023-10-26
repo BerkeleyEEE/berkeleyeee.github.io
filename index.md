@@ -108,7 +108,10 @@ Market-based climate policies decentralize abatement decisions by establishing a
 
 ### November 01 2023
 
-**Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home)	  
+**Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home)	  	  
+**Title:** Economic Forces Drive Climate Policy Polarization  
+**Abstract:**
+Climate policy is among the most polarizing issues in US party politics. That polarization is a relatively new phenomenon. I develop a model that explains polarization based on underlying economic trends. Rising income inequality and political campaign contributions, as well as rising incomes, bring parties’ economic policies closer together. That pushes parties to try to distinguish themselves by increasingly focusing on non-economic value politics. The analysis also shows a potential path forward: framing climate primarily as an economic policy issue that puts distributional implications (and remedies) front and center and a stricter regulation of campaign contributions.
 
 ---
 
