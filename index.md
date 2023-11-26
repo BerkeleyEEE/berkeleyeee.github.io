@@ -71,14 +71,14 @@ Economic theory shows that vertical mergers may be used by a regulated monopoly 
 
 <img src = "https://crest.science/wp-content/uploads/2020/05/Norbiato_Riccardo2.jpg" width = "200" hspace = "20" alt = "Riccardo Norbiato">
 
-**Presenter 1:** Riccardo Norbiato		    
+**Presenter 1:** [Riccardo Norbiato](https://rnorbiato.github.io/)		    
 **Title:** Production Fragmentation, Trade and Emissions  
 **Abstract:**
 Between 1990 and 2008, emissions embodied in the production of traded goods increased and many developed countries became net importers of pollution emissions. At the same time, these countries experienced a decrease in domestic emissions despite a substantial increase in output. Technological changes leading to lower pollution intensity (e.g., the amount of domestic emissions per unit of output) are usually reported to be the main cause of this emissions reduction. However, the standard decomposition analysis lacks considering the possible role played by production fragmentation and trade in intermediates: while not altering the composition of final goods produced, offshoring intermediates may lead to a decrease in firms' pollution intensity through two channels. On the one hand, lower input prices associated with larger sourcing capabilities may affect firms' abatement investment decisions. On the other, the physical production of several components can be offshored by implying composition effects related to intermediates. Thus, I develop a model linking trade with the environment to better understand the economic forces driving these changes. In particular, the model includes heterogeneous firms sourcing intermediates and it accommodates decreasing pollution intensities as a result of both endogenous abatement investment and offshoring decisions. By doing so, the aim is to analyze the effects of trade and environmental regulation on domestic and global pollution emissions. In future work, I plan to estimate the model and quantitatively evaluate a range of counterfactuals in order to explain the evolution of pollution emissions.
 
 <img src = "https://liser.elsevierpure.com/files-asset/12480872/1145.jpg" width = "200" hspace = "20" alt = "Jules Linden">
 
-**Presenter 2:** Jules Linden		    
+**Presenter 2:** [Jules Linden](https://www.researchgate.net/profile/Jules-Linden-2)		    
 **Title:** Decomposing the distributional impact of carbon taxation across six EU countries   
 **Abstract:**
 This paper decomposes and compares the distributional impact of national carbon taxes across six EU countries. We quantify the contribution of the key determinants of the carbon tax burden to its impact on inequality and regressivity indicators. We identify large cross-country differences in carbon tax burdens, their composition, and the drivers of the within-country distributional impact. A carbon tax is regressive in all countries, but carbon tax burdens and their impact on income inequality are larger in poorer countries of our sample. Cross-country differences in the primary driver of carbon tax regressivity suggest that the most effective policy lever to mitigate carbon tax regressivity differs across countries. Differences in the composition of the consumption basket play an important role in most countries, but not all. Differences in savings rates play the most important role in the wealthier countries of our sample. Differences in  the carbon intensity of consumption plays a larger role in the poorer countries of our sample. Overall, this article suggests that differences in the structure of carbon tax incidence and the drivers of its distributional impact across countries pose a challenge to cross-country policy learning, and highlights the need for in-depth country-level and comparative analysis.
@@ -117,21 +117,33 @@ Climate policy is among the most polarizing issues in US party politics. That po
 
 ### November 08 2023
 
-**Presenter:** Vincent Thivierge
+**Presenter:** [Vincent Thivierge](https://vthivierge.github.io/)  
+**Title:** Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution  
+**Abstract:**
+Across many domains, market-based interventions hold the promise of reducing costs through improved allocative efficiency in settings where prices are otherwise missing. This claim is also fundamentally challenging to verify: the very absence of prices before a market makes establishing misallocation changes due to the market difficult. This paper develops an empirical framework showing how a theoretical change in allocative efficiency following a policy change can be recovered using a quasi-experimental panel data estimator, without needing input prices. We apply this framework, together with administrative data, to the study of two major U.S. markets for air pollution, a canonical missing market setting where concerns over high abatement costs have made market-based interventions particularly appealing. We find that for California's RECLAIM program, allocative efficiency improved by 10 percentage points. For the U.S.'s NOx Budget Program (NBP), we do not detect efficiency gains. Heterogeneity analyses suggest the plant and firm-level flexibility in pollution abatement options, and the regulator’s time commitment to the policy matter for the efficiency gains of pollution markets.
 
 ---
 
 ### November 15 2023
 
-**Presenter:** Lucy Hackett 	
+**Presenter:** [Lucy Hackett](https://lghackett.github.io/)  
+**Title:** Subsidence and Adaptation: Evidence from Mexico City   
+**Abstract:**
+How does city structure respond to slow-moving environmental hazards? This paper explores this question in the context of subsidence, a slow-moving environmental hazard consisting of the gradual sinking of buildings due to aquifer over-extraction, in a large developing-country city. Subsidence is a prevalent and worsening phenomenon worldwide, considered in the civil engineering literature to be a major risk to infrastructure in affected urban areas. I estimate the causal effect of subsidence on the economic geography of Mexico City, an urban context experiencing severe sinking using spatial regression discontinuity and fixed effects approaches. I find that subsidence causes deterioration of urban spaces, and results in significant shifts in population and housing density out of unstable areas. Despite these movements and decreases in the floorspace built in sinking areas, the price of new construction is unresponsive to subsidence, potentially reflecting large discount rates for future damages. In future work, I will use confidential microdata to explore the effect of subsidence on used housing prices and housing repair costs. I will also propose an economic geography model that will allow me to back out the welfare impacts of these findings and compare counterfactual policy scenarios where costly mitigation efforts are implemented to prevent sinking.
 
 ---
 
 ### November 29 2023
 
-**Presenter 1:** Dingyi Li
+**Presenter 1:** [Dingyi Li](https://clinlawell.dyson.cornell.edu/students.html)  
+**Title:** The Price to Avoid Pollution: Evidence from Travel Mode Choice in Beijing  
+**Abstract:**
+Using fine-scale travel survey data in Beijing, we propose an estimate of the short-term marginal willingness-to-pay (WTP) to avoid air pollution. We develop a model to show the trade-offs between indoor and outdoor travel modes for compulsory work trips during high-polluted hours. Our model indicates that the short-term marginal WTP forms the lower bound for the long-term WTP, which is around 3.60 dollars per year to avoid 1 μg/m3 ambient fine particles (PM 2.5). Our estimation strategy uses a machine learning IV method in a high-dimensional econometrics setting. Our empirical results are robust to different time lengths, age groups, and income levels. We find that a longer potential exposure to air pollution prevents people from walking and cycling. People above 55, vulnerable to pollution, have 28% higher WTP than the young. Similarly, richer people with above 100,000 RMB annual incomes, who value their health the same as time, are willing to avoid a unit of pollution with 36% more cost. Finally, we find evidence for the information effect on behavioral adjustment: people start to reduce the negative effect of bad air only after the large media coverage of the pollution.
 
-**Presenter 2:** Shuo Yu
+**Presenter 2:** [Shuo Yu](https://are.berkeley.edu/user/13877)  
+**Title:** Impact of Cover Cropping on Water Quality  
+**Abstract:**
+This study investigates the effects of cover cropping on water quality. We leveraged pixel-level cover crop adoption data with 30-meter resolution and harmonized water quality data for the Mississippi River Basin, along with climate data from ECMWF. The study aggregated cover crop adoption rates within a five-mile radius of each water monitoring site and executed a panel data regression to evaluate the influence on nitrogen and phosphorus levels in water, accounting for climatic variables. Initial results revealed no significant immediate effect on these nutrient levels. However, a significant reduction in nitrogen compounds was observed in sites with at least five years of water quality observations. Further research is planned to address potential sample selection issues and to explore the short-term and long-term benefits of cover cropping.
 
 ---
 
