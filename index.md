@@ -37,7 +37,6 @@ This study investigates the effects of cover cropping on water quality. We lever
 Do animal welfare regulations go too far or not far enough? With the surge of animal welfare legislation over the last decade, and their pending implementation within the next five years, it is critical that we consider both their costs and benefits. However, uncertainty surrounding measurement of these benefits has hindered the analytical tractability of this question for two reasons. The first is that the number of farm animals in certain conditions (e.g. caged, cage-free, etc) is not publicly known at the state or national level. The second is that no empirical measure exists for the value of a statistical life-year for any farm animal. In this article, I overcome these challenges in the setting of California’s ban on battery cages (Proposition 2) and derive a lower bound of the social benefits of the policy. To overcome the first barrier, I use grocery scanner data to infer policy-induced changes in the number of hens living in caged and cage-free conditions based on eggs sold with and without a “cage-free” label. To overcome the second barrier (the value of population changes), I measure the policy-induced change in household consumer surplus and invoke the Median Voter Theorem to uncover a minimum estimate of the value of a statistical caged hen life-year from the perspective of California households under certain assumptions about voter rationality. 
 
 **Presenter 2:** [Aaron Watt](https://acwatt.net/)  
-  
 **Title:** Optimal Siting of Air Quality Monitors   
 
 
