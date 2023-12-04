@@ -15,19 +15,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ## Upcoming Presentations -- Fall 2023
 
-### November 29 2023
 
-**Presenter 1:** [Dingyi Li](https://clinlawell.dyson.cornell.edu/students.html)  
-**Title:** The Price to Avoid Pollution: Evidence from Travel Mode Choice in Beijing  
-**Abstract:**
-Using fine-scale travel survey data in Beijing, we propose an estimate of the short-term marginal willingness-to-pay (WTP) to avoid air pollution. We develop a model to show the trade-offs between indoor and outdoor travel modes for compulsory work trips during high-polluted hours. Our model indicates that the short-term marginal WTP forms the lower bound for the long-term WTP, which is around 3.60 dollars per year to avoid 1 μg/m3 ambient fine particles (PM 2.5). Our estimation strategy uses a machine learning IV method in a high-dimensional econometrics setting. Our empirical results are robust to different time lengths, age groups, and income levels. We find that a longer potential exposure to air pollution prevents people from walking and cycling. People above 55, vulnerable to pollution, have 28% higher WTP than the young. Similarly, richer people with above 100,000 RMB annual incomes, who value their health the same as time, are willing to avoid a unit of pollution with 36% more cost. Finally, we find evidence for the information effect on behavioral adjustment: people start to reduce the negative effect of bad air only after the large media coverage of the pollution.
-
-**Presenter 2:** [Shuo Yu](https://are.berkeley.edu/user/13877)  
-**Title:** Impact of Cover Cropping on Water Quality  
-**Abstract:**
-This study investigates the effects of cover cropping on water quality. We leveraged pixel-level cover crop adoption data with 30-meter resolution and harmonized water quality data for the Mississippi River Basin, along with climate data from ECMWF. The study aggregated cover crop adoption rates within a five-mile radius of each water monitoring site and executed a panel data regression to evaluate the influence on nitrogen and phosphorus levels in water, accounting for climatic variables. Initial results revealed no significant immediate effect on these nutrient levels. However, a significant reduction in nitrogen compounds was observed in sites with at least five years of water quality observations. Further research is planned to address potential sample selection issues and to explore the short-term and long-term benefits of cover cropping.
-
----
 
 ### December 06 2023
 
@@ -38,7 +26,8 @@ Do animal welfare regulations go too far or not far enough? With the surge of an
 
 **Presenter 2:** [Aaron Watt](https://acwatt.net/)  
 **Title:** Optimal Siting of Air Quality Monitors   
-
+**Abstract:**
+Federal air quality regulation relies on a network of monitoring stations for enforcement. The network is spatially sparse, making the location of each monitor important in determining who gets regulated. Current monitor siting rules provide local agencies with flexibility in determining the monitor location; however, local agencies have different incentives than the federal regulator. Little is known about the impact of delegating the choice of monitor placement to the local level. This paper examines the implications of differing incentives to monitor by modeling an alternative siting rule where the federal regulator chooses the monitor location directly. By incorporating an approximation of the local agency's response to a new monitor, the federal regulator can choose a monitor location to maximize health outcomes.
 
 ---
 
@@ -167,6 +156,20 @@ Across many domains, market-based interventions hold the promise of reducing cos
 **Title:** Subsidence and Adaptation: Evidence from Mexico City   
 **Abstract:**
 How does city structure respond to slow-moving environmental hazards? This paper explores this question in the context of subsidence, a slow-moving environmental hazard consisting of the gradual sinking of buildings due to aquifer over-extraction, in a large developing-country city. Subsidence is a prevalent and worsening phenomenon worldwide, considered in the civil engineering literature to be a major risk to infrastructure in affected urban areas. I estimate the causal effect of subsidence on the economic geography of Mexico City, an urban context experiencing severe sinking using spatial regression discontinuity and fixed effects approaches. I find that subsidence causes deterioration of urban spaces, and results in significant shifts in population and housing density out of unstable areas. Despite these movements and decreases in the floorspace built in sinking areas, the price of new construction is unresponsive to subsidence, potentially reflecting large discount rates for future damages. In future work, I will use confidential microdata to explore the effect of subsidence on used housing prices and housing repair costs. I will also propose an economic geography model that will allow me to back out the welfare impacts of these findings and compare counterfactual policy scenarios where costly mitigation efforts are implemented to prevent sinking.
+
+---
+
+### November 29 2023
+
+**Presenter 1:** [Dingyi Li](https://clinlawell.dyson.cornell.edu/students.html)  
+**Title:** The Price to Avoid Pollution: Evidence from Travel Mode Choice in Beijing  
+**Abstract:**
+Using fine-scale travel survey data in Beijing, we propose an estimate of the short-term marginal willingness-to-pay (WTP) to avoid air pollution. We develop a model to show the trade-offs between indoor and outdoor travel modes for compulsory work trips during high-polluted hours. Our model indicates that the short-term marginal WTP forms the lower bound for the long-term WTP, which is around 3.60 dollars per year to avoid 1 μg/m3 ambient fine particles (PM 2.5). Our estimation strategy uses a machine learning IV method in a high-dimensional econometrics setting. Our empirical results are robust to different time lengths, age groups, and income levels. We find that a longer potential exposure to air pollution prevents people from walking and cycling. People above 55, vulnerable to pollution, have 28% higher WTP than the young. Similarly, richer people with above 100,000 RMB annual incomes, who value their health the same as time, are willing to avoid a unit of pollution with 36% more cost. Finally, we find evidence for the information effect on behavioral adjustment: people start to reduce the negative effect of bad air only after the large media coverage of the pollution.
+
+**Presenter 2:** [Shuo Yu](https://are.berkeley.edu/user/13877)  
+**Title:** Impact of Cover Cropping on Water Quality  
+**Abstract:**
+This study investigates the effects of cover cropping on water quality. We leveraged pixel-level cover crop adoption data with 30-meter resolution and harmonized water quality data for the Mississippi River Basin, along with climate data from ECMWF. The study aggregated cover crop adoption rates within a five-mile radius of each water monitoring site and executed a panel data regression to evaluate the influence on nitrogen and phosphorus levels in water, accounting for climatic variables. Initial results revealed no significant immediate effect on these nutrient levels. However, a significant reduction in nitrogen compounds was observed in sites with at least five years of water quality observations. Further research is planned to address potential sample selection issues and to explore the short-term and long-term benefits of cover cropping.
 
 ---
 
