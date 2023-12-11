@@ -17,27 +17,14 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
-### December 06 2023
-
-**Presenter 1:** [Trevor Woolley](https://www.trevorwoolley.com/)  
-**Title:** The Social Value of Farm Animal Welfare: Using a Voter Referendum to Reveal the Value of a Statistical Hen Life-year  
-**Abstract:**
-Do animal welfare regulations go too far or not far enough? With the surge of animal welfare legislation over the last decade, and their pending implementation within the next five years, it is critical that we consider both their costs and benefits. However, uncertainty surrounding measurement of these benefits has hindered the analytical tractability of this question for two reasons. The first is that the number of farm animals in certain conditions (e.g. caged, cage-free, etc) is not publicly known at the state or national level. The second is that no empirical measure exists for the value of a statistical life-year for any farm animal. In this article, I overcome these challenges in the setting of California’s ban on battery cages (Proposition 2) and derive a lower bound of the social benefits of the policy. To overcome the first barrier, I use grocery scanner data to infer policy-induced changes in the number of hens living in caged and cage-free conditions based on eggs sold with and without a “cage-free” label. To overcome the second barrier (the value of population changes), I measure the policy-induced change in household consumer surplus and invoke the Median Voter Theorem to uncover a minimum estimate of the value of a statistical caged hen life-year from the perspective of California households under certain assumptions about voter rationality. 
-
-**Presenter 2:** [Aaron Watt](https://acwatt.net/)  
-**Title:** Optimal Siting of Air Quality Monitors   
-**Abstract:**
-Federal air quality regulation relies on a network of monitoring stations for enforcement. The network is spatially sparse, making the location of each monitor important in determining who gets regulated. Current monitor siting rules provide local agencies with flexibility in determining the monitor location; however, local agencies have different incentives than the federal regulator. Little is known about the impact of delegating the choice of monitor placement to the local level. This paper examines the implications of differing incentives to monitor by modeling an alternative siting rule where the federal regulator chooses the monitor location directly. By incorporating an approximation of the local agency's response to a new monitor, the federal regulator can choose a monitor location to maximize health outcomes.
-
----
 
 ### December 13 2023
 
-**Presenter 1:** [Kendra Marcoux](https://are.berkeley.edu/user/13904)
+**Presenter:** [Sebastian Tebbe](https://sebastiantebbe.github.io/)  
+**Title:** Road Pricing with Multiple Policy Goals: The Effect on Vehicle Ownership, Driving, and Commuting  
+**Abstract:** 
+Many road pricing systems exempt or discount clean vehicles to achieve environmental objectives with transportation policies. Setting optimal road prices is not straightforward because the responses to the policy, such as vehicle acquisitions, driving on suburban roads, and residential sorting, interact nontrivially with the multiple policy goals. We provide a framework for setting optimal congestion charges that reflects emission and congestion externalities and accounts for these responses. Using Swedish administrative microdata, we identify these responses by exploiting a temporary exemption for alternative fuel vehicles and variation in individuals’ exposure to congestion charges based on whether an individual crossed one of Stockholm’s two exempted highways to travel to work. We find that exempting alternative fuel vehicles induced tolled commuters to reduce the adoption of fossil fuel vehicles and increase the adoption of alternative fuel vehicles, leaving the overall fleet size unchanged. However, increased driving in alternative fuel vehicles did not fully offset the reduction in trips from fossil fuel vehicles. Treated commuters were also more likely to move into the congestion zone, leading to shorter commuting distances. Finally, we combine the estimated responses with the framework to recover an optimal congestion charge of €9.46 per crossing.
 
-**Presenter 2:** [Sebastian Tebbe](https://sebastiantebbe.github.io/)
-
----
 ---
 
 ## Past Presentations -- Fall 2023
@@ -170,6 +157,20 @@ Using fine-scale travel survey data in Beijing, we propose an estimate of the sh
 **Title:** Impact of Cover Cropping on Water Quality  
 **Abstract:**
 This study investigates the effects of cover cropping on water quality. We leveraged pixel-level cover crop adoption data with 30-meter resolution and harmonized water quality data for the Mississippi River Basin, along with climate data from ECMWF. The study aggregated cover crop adoption rates within a five-mile radius of each water monitoring site and executed a panel data regression to evaluate the influence on nitrogen and phosphorus levels in water, accounting for climatic variables. Initial results revealed no significant immediate effect on these nutrient levels. However, a significant reduction in nitrogen compounds was observed in sites with at least five years of water quality observations. Further research is planned to address potential sample selection issues and to explore the short-term and long-term benefits of cover cropping.
+
+---
+
+### December 06 2023
+
+**Presenter 1:** [Trevor Woolley](https://www.trevorwoolley.com/)  
+**Title:** The Social Value of Farm Animal Welfare: Using a Voter Referendum to Reveal the Value of a Statistical Hen Life-year  
+**Abstract:**
+Do animal welfare regulations go too far or not far enough? With the surge of animal welfare legislation over the last decade, and their pending implementation within the next five years, it is critical that we consider both their costs and benefits. However, uncertainty surrounding measurement of these benefits has hindered the analytical tractability of this question for two reasons. The first is that the number of farm animals in certain conditions (e.g. caged, cage-free, etc) is not publicly known at the state or national level. The second is that no empirical measure exists for the value of a statistical life-year for any farm animal. In this article, I overcome these challenges in the setting of California’s ban on battery cages (Proposition 2) and derive a lower bound of the social benefits of the policy. To overcome the first barrier, I use grocery scanner data to infer policy-induced changes in the number of hens living in caged and cage-free conditions based on eggs sold with and without a “cage-free” label. To overcome the second barrier (the value of population changes), I measure the policy-induced change in household consumer surplus and invoke the Median Voter Theorem to uncover a minimum estimate of the value of a statistical caged hen life-year from the perspective of California households under certain assumptions about voter rationality. 
+
+**Presenter 2:** [Aaron Watt](https://acwatt.net/)  
+**Title:** Optimal Siting of Air Quality Monitors   
+**Abstract:**
+Federal air quality regulation relies on a network of monitoring stations for enforcement. The network is spatially sparse, making the location of each monitor important in determining who gets regulated. Current monitor siting rules provide local agencies with flexibility in determining the monitor location; however, local agencies have different incentives than the federal regulator. Little is known about the impact of delegating the choice of monitor placement to the local level. This paper examines the implications of differing incentives to monitor by modeling an alternative siting rule where the federal regulator chooses the monitor location directly. By incorporating an approximation of the local agency's response to a new monitor, the federal regulator can choose a monitor location to maximize health outcomes.
 
 ---
 
