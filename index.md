@@ -17,8 +17,6 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 21 February 2024
 
-<img src = "https://appliedecon.oregonstate.edu/sites/agscid7/files/devin.jpeg" width = "200" hspace = "20" alt = "Devin Mounts">
-
 **Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home) (Post-doctoral Scholar)  
 **Title:** Forthcoming  
 **Abstract:** Forthcoming  
