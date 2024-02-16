@@ -13,19 +13,47 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 [Add the ERE Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y18xOTloYmsyMTRxbnJxZ212YnY5cThyZ28zb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
-## Upcoming Presentations -- Fall 2023
+## Upcoming Presentations -- Spring 2024
 
+### 21 February 2024
 
+<img src = "https://appliedecon.oregonstate.edu/sites/agscid7/files/devin.jpeg" width = "200" hspace = "20" alt = "Devin Mounts">
 
-
-### December 13 2023
-
-**Presenter:** [Sebastian Tebbe](https://sebastiantebbe.github.io/)  
-**Title:** Road Pricing with Multiple Policy Goals: The Effect on Vehicle Ownership, Driving, and Commuting  
-**Abstract:** 
-Many road pricing systems exempt or discount clean vehicles to achieve environmental objectives with transportation policies. Setting optimal road prices is not straightforward because the responses to the policy, such as vehicle acquisitions, driving on suburban roads, and residential sorting, interact nontrivially with the multiple policy goals. We provide a framework for setting optimal congestion charges that reflects emission and congestion externalities and accounts for these responses. Using Swedish administrative microdata, we identify these responses by exploiting a temporary exemption for alternative fuel vehicles and variation in individuals’ exposure to congestion charges based on whether an individual crossed one of Stockholm’s two exempted highways to travel to work. We find that exempting alternative fuel vehicles induced tolled commuters to reduce the adoption of fossil fuel vehicles and increase the adoption of alternative fuel vehicles, leaving the overall fleet size unchanged. However, increased driving in alternative fuel vehicles did not fully offset the reduction in trips from fossil fuel vehicles. Treated commuters were also more likely to move into the congestion zone, leading to shorter commuting distances. Finally, we combine the estimated responses with the framework to recover an optimal congestion charge of €9.46 per crossing.
+**Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home) (Post-doctoral Scholar)  
+**Title:** Forthcoming  
+**Abstract:** Forthcoming  
 
 ---
+
+### 6 March 2024
+
+**Presenter 1:** Kaleb Javier (PhD Student, ARE)  
+**Title:** Forthcoming  
+**Abstract:** Forthcoming  
+
+**Presenter 2:** Kendra Marcoux (PhD Student, ARE)  
+**Title:** Forthcoming  
+**Abstract:** Forthcoming  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Past Presentations -- Fall 2023
 
@@ -173,6 +201,40 @@ Do animal welfare regulations go too far or not far enough? With the surge of an
 Federal air quality regulation relies on a network of monitoring stations for enforcement. The network is spatially sparse, making the location of each monitor important in determining who gets regulated. Current monitor siting rules provide local agencies with flexibility in determining the monitor location; however, local agencies have different incentives than the federal regulator. Little is known about the impact of delegating the choice of monitor placement to the local level. This paper examines the implications of differing incentives to monitor by modeling an alternative siting rule where the federal regulator chooses the monitor location directly. By incorporating an approximation of the local agency's response to a new monitor, the federal regulator can choose a monitor location to maximize health outcomes.
 
 ---
+
+
+### December 13 2023
+
+**Presenter:** [Sebastian Tebbe](https://sebastiantebbe.github.io/)  
+**Title:** Road Pricing with Multiple Policy Goals: The Effect on Vehicle Ownership, Driving, and Commuting  
+**Abstract:** 
+Many road pricing systems exempt or discount clean vehicles to achieve environmental objectives with transportation policies. Setting optimal road prices is not straightforward because the responses to the policy, such as vehicle acquisitions, driving on suburban roads, and residential sorting, interact nontrivially with the multiple policy goals. We provide a framework for setting optimal congestion charges that reflects emission and congestion externalities and accounts for these responses. Using Swedish administrative microdata, we identify these responses by exploiting a temporary exemption for alternative fuel vehicles and variation in individuals’ exposure to congestion charges based on whether an individual crossed one of Stockholm’s two exempted highways to travel to work. We find that exempting alternative fuel vehicles induced tolled commuters to reduce the adoption of fossil fuel vehicles and increase the adoption of alternative fuel vehicles, leaving the overall fleet size unchanged. However, increased driving in alternative fuel vehicles did not fully offset the reduction in trips from fossil fuel vehicles. Treated commuters were also more likely to move into the congestion zone, leading to shorter commuting distances. Finally, we combine the estimated responses with the framework to recover an optimal congestion charge of €9.46 per crossing.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Past Presentations -- Spring 2023
 
