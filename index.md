@@ -17,7 +17,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 21 February 2024
 
-<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/profile%20pictures/Waldemar%20Marz.png?raw=true" width = "200" hspace = "20" alt = "Devin Mounts">
+<img src = "https://github.com/BerkeleyEEE/berkeleyeee.github.io/blob/master/images/profile%20pictures/Waldemar%20Marz.png?raw=true" width = "200" hspace = "20" alt = "Waldemar Marz">
 
 
 **Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home) (Post-doctoral Scholar)  
@@ -29,10 +29,14 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 6 March 2024
 
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13904-1600886166.jpg?itok=iBWItwBU" width = "200" hspace = "20" alt = "Kendra Marcoux">
+
 **Presenter 1:** Kendra Marcoux (PhD Student, ARE)  
 **Title:** Incomplete Environmental Regulation and Inter-sectoral Leakage: Evidence from the Petrochemicals Industry  
 
 **Abstract:** The bulk of U.S. climate policy focuses on incentivizing renewable energy to decrease domestic reliance on fossil fuels and in turn reduce emissions. While this approach attempts to decrease demand for fossil fuel based energy, it fails to account for a second major fossil fuel based product: plastics. This project leverages the long-term price shock to natural gas induced by the shale gas boom to construct a structural model of the trade-offs between natural gas based energy and plastic production. Using the calibrated parameters of this model, the project will then run a series of counterfactual simulations to predict how a fall in the natural gas price resulting from renewable energy subsidies might impact the production of plastics in the future compared to a scenario in which a carbon tax regulates both goods.   
+
+<img src = "https://www.phdpareto.carloalberto.org/wp-content/uploads/2022/04/Castellani-Foto-730x1024.jpg" width = "200" hspace = "20" alt = "Davide Castellani">
 
 **Presenter 2:** Davide Castellani (Visiting PhD Student)  
 **Title:** The long-run effects of cyclones on the US housing market  
