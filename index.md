@@ -21,20 +21,23 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 **Presenter:** [Waldemar Marz](https://sites.google.com/view/waldemar-marz/home) (Post-doctoral Scholar)  
-**Title:** Forthcoming  
-**Abstract:** Forthcoming  
+**Title:** Fuel Economy Standards and Public Transport  
+
+**Abstract:** We identify and examine a novel welfare channel of fuel economy standards in a monocentric city model. A stricter emission standard for cars decreases the marginal cost of driving and triggers a shift in modal choice from public to private transport and a rise in carbon emissions in the medium run. In the long run, the modal shift additionally exacerbates the increase in the average commute length that results from lower driving costs. The resulting welfare cost for a 50 percent emission reduction goal turns out 7 percent higher than in a scenario without public transport. An alternative fuel tax policy, by contrast, induces a modal shift towards public transport and reduces the average commute and the welfare cost of emission reductions. The numerical model is calibrated with U.S. data.  
 
 ---
 
 ### 6 March 2024
 
-**Presenter 1:** Kaleb Javier (PhD Student, ARE)  
-**Title:** Forthcoming  
-**Abstract:** Forthcoming  
+**Presenter 1:** Kendra Marcoux (PhD Student, ARE)  
+**Title:** Incomplete Environmental Regulation and Inter-sectoral Leakage: Evidence from the Petrochemicals Industry  
 
-**Presenter 2:** Kendra Marcoux (PhD Student, ARE)  
-**Title:** Forthcoming  
-**Abstract:** Forthcoming  
+**Abstract:** The bulk of U.S. climate policy focuses on incentivizing renewable energy to decrease domestic reliance on fossil fuels and in turn reduce emissions. While this approach attempts to decrease demand for fossil fuel based energy, it fails to account for a second major fossil fuel based product: plastics. This project leverages the long-term price shock to natural gas induced by the shale gas boom to construct a structural model of the trade-offs between natural gas based energy and plastic production. Using the calibrated parameters of this model, the project will then run a series of counterfactual simulations to predict how a fall in the natural gas price resulting from renewable energy subsidies might impact the production of plastics in the future compared to a scenario in which a carbon tax regulates both goods.   
+
+**Presenter 2:** Davide Castellani (Visiting PhD Student)  
+**Title:** The long-run effects of cyclones on the US housing market  
+
+**Abstract:** This study investigates the impact of tropical cyclones on the U.S. housing market from 1988 to 2021, utilizing a novel dataset. Employing HURDAT2 data from the National Hurricane Center and a radial hurricane winds model, the analysis build a new measure of wind speed and offer the first insight on the overall impact of all recordings cyclones at the county-yearly level. Through inverse probability weights and a local projection model, coastal counties with similar cyclone occurrence probabilities are compared, mitigating confounding effects. Findings reveal a significant 9% decline in the housing market over a 12-year period in counties affected by new cyclones, with nuanced short-term effects favoring supply-side dynamics. Empirical evidence suggests that this housing market decline may be attributed to perceived risks, particularly an increased number of flooding insurance purchases post-cyclones. Intriguingly, the study indicates that the effects are not driven by employment or income factors, as these aspects seem to exhibit positive trends in the aftermath of cyclones. In summary, this research provides important insights into how tropical cyclones affect the U.S. housing market, highlighting the need for more investigation to fully understand the reasons behind these impacts.  
 
 ---
 
