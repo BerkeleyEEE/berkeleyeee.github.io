@@ -27,7 +27,7 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
 
-**Presenter 1:** Sunny Mitra (PhD Student, ARE)  
+**Presenter 1:** Sayantan ”Sunny” Mitra (PhD Student, ARE)  
 **Title:** The Forest-Development Tradeoff: How are Local Populations Impacted When Infrastructure Replaces Forests in India?  
 
 **Abstract:** There is often a debate regarding the optimal trajectory for the developing country governments to take: preserve critical environmental resources or invest in infrastructure and industrial projects to spur economic growth. While the literature provides a significant body of evidence to show the deleterious effect of infrastructure on forests in developing economies, significant identification challenges have not allowed economists to evaluate accurately how deforestation for infrastructure affects the surrounding population and local economy. Using novel data on approvals of deforestation by the Indian government and household-level panel data, I aim to identify the local economic effects of deforestation for infrastructure with an emphasis on the distributional effects of such projects.
