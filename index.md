@@ -21,45 +21,24 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ## Upcoming Presentations -- Spring 2024
 
-### 13 March 2024
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13856-1569369814.jpg?itok=fnhpqpfW" width = "200" hspace = "20" alt = "Abdoulaye Cisse">
-
-**Presenter 1:** Abdoulaye Cisse (PhD Student, ARE)  
-**Title:** The Value of Improved Electricity Reliability for Firms and Households: Evidence from Senegal  
-
-**Abstract:** Electricity reliability is a major issue for firms and households in low-income countries. This project studies the value of persistent and large improvements in electricity reliability for consumers in Senegal. First, we exploit the staggered roll-out of a large-scale reliability improvement project and use rich disaggregated data on outages and consumers' appliances and economic activities. We study the long-term impact of outages on appliance adoption, electricity use, migration in/out neighbors, consumption and firm outcomes. Using these reduced-form estimates, we plan to develop a demand model to estimate consumer welfare associated with reliability for different groups of consumers and to shed light on the distributional impacts of reliability in contexts with low baseline electricity reliability.
-
-<img src = "https://simondgreenhill.github.io/images/profile.png" width = "200" hspace = "20" alt = "Simon Greenhill">
-
-**Presenter 2:** Simon Greenhill (PhD Student, ARE)  
-**Title:** What are the health costs of noise pollution?  
-
-**Abstract:** Environmental noise pollution is ubiquitous yet has received little attention from economists. Correlational and lab studies suggest links between environmental noise exposure and adverse health effects ranging from sleep disruption to hypertension, heart disease, and increased suicide risk. A central challenge to studying noise pollution is a lack of data on ambient noise. I develop a new dataset measuring environmental noise using observations from seismic monitors. Leveraging high-frequency variation in noise from electric rail lines in California, I then estimate the causal effect of noise on infant health. Preliminary results suggest that electric train noise increases the risk of infant prematurity and low birth weight, with similar magnitudes to prior estimates of the impact of air pollution on infant health.
-
----
-
-
-### 20 March 2024 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
-
-<img src = "" width = "200" hspace = "20" alt = "">
-
-**Presenter :** Will Rafey (UCLA)  
-**Title:** [Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands](https://eeeseminar.berkeley.edu/will-rafey-wednesday-3-20-2024/)  
-
----
-
 
 
 ### 3 April 2024
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
 
 **Presenter 1:** Sunny Mitra (PhD Student, ARE)  
+**Title:** The Forest-Development Tradeoff: How are Local Populations Impacted When Infrastructure Replaces Forests in India?  
 
-<img src = "" width = "200" hspace = "20" alt = "">
+**Abstract:** There is often a debate regarding the optimal trajectory for the developing country governments to take: preserve critical environmental resources or invest in infrastructure and industrial projects to spur economic growth. While the literature provides a significant body of evidence to show the deleterious effect of infrastructure on forests in developing economies, significant identification challenges have not allowed economists to evaluate accurately how deforestation for infrastructure affects the surrounding population and local economy. Using novel data on approvals of deforestation by the Indian government and household-level panel data, I aim to identify the local economic effects of deforestation for infrastructure with an emphasis on the distributional effects of such projects.
+
+<img src = "https://lh3.googleusercontent.com/drive-viewer/AKGpihYBdjcU8p2yTz76Xq0VJpzD4BTEZxvGv2rUjJ8kjWeemB43fUv2Ho2NPiS61PaP99uH2JHK5CJPtplGqNQN5_L8uPE3Kg=s1600-v0" width = "200" hspace = "20" alt = "Suvy Qin">
 
 **Presenter 2:** Suvy Qin (PhD Student, ARE)  
+**Title:** Local Spillovers from Managed Retreat: Evidence from US Flood Buyouts  
+
+**Abstract:** Flooding is one of the most common and costly natural hazard risks. One way to adapt to flood risk is to relocate away from risky areas through managed retreat, implemented as flood buyout programs. By enabling government agencies to purchase and demolish flood-prone properties, buyout programs can permanently reduce flood risks. This project studies the indirect effects of buyouts on surrounding neighborhoods and the long-run outcomes of buyout households. I combine linked survey and administrative data with buyout location data from public information requests to provide causal estimates of how buyout programs affect both neighborhood characteristics and household outcomes.
+
 
 
 ---
@@ -68,12 +47,12 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ### 10 April 2024
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
 
 **Presenter 1:** Elif Tasar (PhD Student, ARE)  
 
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://avatars.githubusercontent.com/u/8732525?v=4" width = "200" hspace = "20" alt = "Arthur Wardle">
 
 **Presenter 2:** Arthur Wardle (PhD Student, ARE)  
 
@@ -186,6 +165,35 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 **Abstract:** This study investigates the impact of tropical cyclones on the U.S. housing market from 1988 to 2021, utilizing a novel dataset. Employing HURDAT2 data from the National Hurricane Center and a radial hurricane winds model, the analysis build a new measure of wind speed and offer the first insight on the overall impact of all recordings cyclones at the county-yearly level. Through inverse probability weights and a local projection model, coastal counties with similar cyclone occurrence probabilities are compared, mitigating confounding effects. Findings reveal a significant 9% decline in the housing market over a 12-year period in counties affected by new cyclones, with nuanced short-term effects favoring supply-side dynamics. Empirical evidence suggests that this housing market decline may be attributed to perceived risks, particularly an increased number of flooding insurance purchases post-cyclones. Intriguingly, the study indicates that the effects are not driven by employment or income factors, as these aspects seem to exhibit positive trends in the aftermath of cyclones. In summary, this research provides important insights into how tropical cyclones affect the U.S. housing market, highlighting the need for more investigation to fully understand the reasons behind these impacts.  
 
 ---
+
+### 13 March 2024
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13856-1569369814.jpg?itok=fnhpqpfW" width = "200" hspace = "20" alt = "Abdoulaye Cisse">
+
+**Presenter 1:** Abdoulaye Cisse (PhD Student, ARE)  
+**Title:** The Value of Improved Electricity Reliability for Firms and Households: Evidence from Senegal  
+
+**Abstract:** Electricity reliability is a major issue for firms and households in low-income countries. This project studies the value of persistent and large improvements in electricity reliability for consumers in Senegal. First, we exploit the staggered roll-out of a large-scale reliability improvement project and use rich disaggregated data on outages and consumers' appliances and economic activities. We study the long-term impact of outages on appliance adoption, electricity use, migration in/out neighbors, consumption and firm outcomes. Using these reduced-form estimates, we plan to develop a demand model to estimate consumer welfare associated with reliability for different groups of consumers and to shed light on the distributional impacts of reliability in contexts with low baseline electricity reliability.
+
+<img src = "https://simondgreenhill.github.io/images/profile.png" width = "200" hspace = "20" alt = "Simon Greenhill">
+
+**Presenter 2:** Simon Greenhill (PhD Student, ARE)  
+**Title:** What are the health costs of noise pollution?  
+
+**Abstract:** Environmental noise pollution is ubiquitous yet has received little attention from economists. Correlational and lab studies suggest links between environmental noise exposure and adverse health effects ranging from sleep disruption to hypertension, heart disease, and increased suicide risk. A central challenge to studying noise pollution is a lack of data on ambient noise. I develop a new dataset measuring environmental noise using observations from seismic monitors. Leveraging high-frequency variation in noise from electric rail lines in California, I then estimate the causal effect of noise on infant health. Preliminary results suggest that electric train noise increases the risk of infant prematurity and low birth weight, with similar magnitudes to prior estimates of the impact of air pollution on infant health.
+
+---
+
+
+### 20 March 2024 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
+
+<img src = "" width = "200" hspace = "20" alt = "">
+
+**Presenter :** Will Rafey (UCLA)  
+**Title:** [Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands](https://eeeseminar.berkeley.edu/will-rafey-wednesday-3-20-2024/)  
+
+---
+
 
 
 
