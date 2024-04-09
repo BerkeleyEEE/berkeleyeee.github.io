@@ -22,39 +22,25 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 ## Upcoming Presentations -- Spring 2024
 
 
-
-### 3 April 2024
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
-
-**Presenter 1:** Sayantan ”Sunny” Mitra (PhD Student, ARE)  
-**Title:** The Forest-Development Tradeoff: How are Local Populations Impacted When Infrastructure Replaces Forests in India?  
-
-**Abstract:** There is often a debate regarding the optimal trajectory for the developing country governments to take: preserve critical environmental resources or invest in infrastructure and industrial projects to spur economic growth. While the literature provides a significant body of evidence to show the deleterious effect of infrastructure on forests in developing economies, significant identification challenges have not allowed economists to evaluate accurately how deforestation for infrastructure affects the surrounding population and local economy. Using novel data on approvals of deforestation by the Indian government and household-level panel data, I aim to identify the local economic effects of deforestation for infrastructure with an emphasis on the distributional effects of such projects.
-
-<img src = "https://lh3.googleusercontent.com/drive-viewer/AKGpihYBdjcU8p2yTz76Xq0VJpzD4BTEZxvGv2rUjJ8kjWeemB43fUv2Ho2NPiS61PaP99uH2JHK5CJPtplGqNQN5_L8uPE3Kg=s1600-v0" width = "200" hspace = "20" alt = "Suvy Qin">
-
-**Presenter 2:** Suvy Qin (PhD Student, ARE)  
-**Title:** Local Spillovers from Managed Retreat: Evidence from US Flood Buyouts  
-
-**Abstract:** Flooding is one of the most common and costly natural hazard risks. One way to adapt to flood risk is to relocate away from risky areas through managed retreat, implemented as flood buyout programs. By enabling government agencies to purchase and demolish flood-prone properties, buyout programs can permanently reduce flood risks. This project studies the indirect effects of buyouts on surrounding neighborhoods and the long-run outcomes of buyout households. I combine linked survey and administrative data with buyout location data from public information requests to provide causal estimates of how buyout programs affect both neighborhood characteristics and household outcomes.
-
-
-
----
-
-
-
 ### 10 April 2024
 
 <img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
 
 **Presenter 1:** Elif Tasar (PhD Student, ARE)  
+**Title:** Housing Tenure Stickiness and Access to Opportunity  
+  
+**Abstract:**
+Capping the rate of increase in assessed property values is a common form of property tax relief intended to insure homeowners against demand shocks. By design, these “assessment caps” implicitly subsidize tenure and tax moving. I examine the incidence and spatial mobility effects of tenure-based subsidies to the user cost of housing. To do this, I build a longitudinal panel of housing and occupant characteristics for the near-universe of adults in California from 2010 to 2022 using federal tax returns, proprietary real estate, and Decennial Census data. Next, I use recent policy changes to America’s oldest and most binding assessment cap, California’s “Prop 13,” to study the spatial lock-in effects of rewarding tenure. In future work, I will provide direct evidence on how these lock-in effects influence neighborhood composition and develop a spatial equilibrium model to estimate misallocation resulting from tenure stickiness.    
 
 
 <img src = "https://avatars.githubusercontent.com/u/8732525?v=4" width = "200" hspace = "20" alt = "Arthur Wardle">
 
 **Presenter 2:** Arthur Wardle (PhD Student, ARE)  
+**Title:** Model Estimation using Categorical Satellite Data with Misclassification  
+
+**Abstract:** 
+Remotely sensed data products are gaining popularity in applied economics, but present novel challenges caused by non-classical measurement error. Research on debiasing model estimation with misclassified categorical outcomes has so far imposed strong functional restrictions on the misclassification process. We show that misclassification is a serious problem in modern remote sensed crop choice datasets covering California. We then introduce a method of debiasing parameter estimates in models estimated using that data using multiply imputed hot decking, and demonstrate its efficacy in simulations. We (will) conclude by demonstrating the technique in a crop choice model for the Pajaro Valley.
+
 
 ---
 
@@ -191,6 +177,28 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 **Presenter :** Will Rafey (UCLA)  
 **Title:** [Conservation Priorities and Environmental Offsets: Markets for Florida Wetlands](https://eeeseminar.berkeley.edu/will-rafey-wednesday-3-20-2024/)  
+
+---
+
+
+
+### 3 April 2024
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13861-1569372631.jpg?itok=gx9ga2Ai" width = "200" hspace = "20" alt = "Sunny Mitra">
+
+**Presenter 1:** Sayantan ”Sunny” Mitra (PhD Student, ARE)  
+**Title:** The Forest-Development Tradeoff: How are Local Populations Impacted When Infrastructure Replaces Forests in India?  
+
+**Abstract:** There is often a debate regarding the optimal trajectory for the developing country governments to take: preserve critical environmental resources or invest in infrastructure and industrial projects to spur economic growth. While the literature provides a significant body of evidence to show the deleterious effect of infrastructure on forests in developing economies, significant identification challenges have not allowed economists to evaluate accurately how deforestation for infrastructure affects the surrounding population and local economy. Using novel data on approvals of deforestation by the Indian government and household-level panel data, I aim to identify the local economic effects of deforestation for infrastructure with an emphasis on the distributional effects of such projects.
+
+<img src = "https://lh3.googleusercontent.com/drive-viewer/AKGpihYBdjcU8p2yTz76Xq0VJpzD4BTEZxvGv2rUjJ8kjWeemB43fUv2Ho2NPiS61PaP99uH2JHK5CJPtplGqNQN5_L8uPE3Kg=s1600-v0" width = "200" hspace = "20" alt = "Suvy Qin">
+
+**Presenter 2:** Suvy Qin (PhD Student, ARE)  
+**Title:** Local Spillovers from Managed Retreat: Evidence from US Flood Buyouts  
+
+**Abstract:** Flooding is one of the most common and costly natural hazard risks. One way to adapt to flood risk is to relocate away from risky areas through managed retreat, implemented as flood buyout programs. By enabling government agencies to purchase and demolish flood-prone properties, buyout programs can permanently reduce flood risks. This project studies the indirect effects of buyouts on surrounding neighborhoods and the long-run outcomes of buyout households. I combine linked survey and administrative data with buyout location data from public information requests to provide causal estimates of how buyout programs affect both neighborhood characteristics and household outcomes.
+
+
 
 ---
 
