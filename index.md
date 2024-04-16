@@ -22,36 +22,13 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 ## Upcoming Presentations -- Spring 2024
 
 
-### 10 April 2024
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
-
-**Presenter 1:** Elif Tasar (PhD Student, ARE)  
-**Title:** Housing Tenure Stickiness and Access to Opportunity  
-  
-**Abstract:**
-Capping the rate of increase in assessed property values is a common form of property tax relief intended to insure homeowners against demand shocks. By design, these “assessment caps” implicitly subsidize tenure and tax moving. I examine the incidence and spatial mobility effects of tenure-based subsidies to the user cost of housing. To do this, I build a longitudinal panel of housing and occupant characteristics for the near-universe of adults in California from 2010 to 2022 using federal tax returns, proprietary real estate, and Decennial Census data. Next, I use recent policy changes to America’s oldest and most binding assessment cap, California’s “Prop 13,” to study the spatial lock-in effects of rewarding tenure. In future work, I will provide direct evidence on how these lock-in effects influence neighborhood composition and develop a spatial equilibrium model to estimate misallocation resulting from tenure stickiness.    
-
-
-<img src = "https://avatars.githubusercontent.com/u/8732525?v=4" width = "200" hspace = "20" alt = "Arthur Wardle">
-
-**Presenter 2:** Arthur Wardle (PhD Student, ARE)  
-**Title:** Model Estimation using Categorical Satellite Data with Misclassification  
-
-**Abstract:** 
-Remotely sensed data products are gaining popularity in applied economics, but present novel challenges caused by non-classical measurement error. Research on debiasing model estimation with misclassified categorical outcomes has so far imposed strong functional restrictions on the misclassification process. We show that misclassification is a serious problem in modern remote sensed crop choice datasets covering California. We then introduce a method of debiasing parameter estimates in models estimated using that data using multiply imputed hot decking, and demonstrate its efficacy in simulations. We (will) conclude by demonstrating the technique in a crop choice model for the Pajaro Valley.
 
 
 ---
 
 
 
-### 17 April 2024 ([EEE Faculty Seminar](https://eeeseminar.berkeley.edu/schedules/))
-
-<img src = "" width = "200" hspace = "20" alt = "">
-
-**Presenter:** Paige Weber  (USB, ERG)  
-**Title:** [Will Cleaning Up the Local Environment Narrow or Widen Inequality?](https://eeeseminar.berkeley.edu/paige-weber-wednesday-4-17-2024/)
+### 17 April 2024 RESCHEDULED DUE TO ILLNESS
 
 
 ---
@@ -201,6 +178,31 @@ Remotely sensed data products are gaining popularity in applied economics, but p
 
 
 ---
+
+### 10 April 2024
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13907-1614105080.jpg?itok=RHwX53oX" width = "200" hspace = "20" alt = "Elif Tasar">
+
+**Presenter 1:** Elif Tasar (PhD Student, ARE)  
+**Title:** Housing Tenure Stickiness and Access to Opportunity  
+  
+**Abstract:**
+Capping the rate of increase in assessed property values is a common form of property tax relief intended to insure homeowners against demand shocks. By design, these “assessment caps” implicitly subsidize tenure and tax moving. I examine the incidence and spatial mobility effects of tenure-based subsidies to the user cost of housing. To do this, I build a longitudinal panel of housing and occupant characteristics for the near-universe of adults in California from 2010 to 2022 using federal tax returns, proprietary real estate, and Decennial Census data. Next, I use recent policy changes to America’s oldest and most binding assessment cap, California’s “Prop 13,” to study the spatial lock-in effects of rewarding tenure. In future work, I will provide direct evidence on how these lock-in effects influence neighborhood composition and develop a spatial equilibrium model to estimate misallocation resulting from tenure stickiness.    
+
+
+<img src = "https://avatars.githubusercontent.com/u/8732525?v=4" width = "200" hspace = "20" alt = "Arthur Wardle">
+
+**Presenter 2:** Arthur Wardle (PhD Student, ARE)  
+**Title:** Model Estimation using Categorical Satellite Data with Misclassification  
+
+**Abstract:** 
+Remotely sensed data products are gaining popularity in applied economics, but present novel challenges caused by non-classical measurement error. Research on debiasing model estimation with misclassified categorical outcomes has so far imposed strong functional restrictions on the misclassification process. We show that misclassification is a serious problem in modern remote sensed crop choice datasets covering California. We then introduce a method of debiasing parameter estimates in models estimated using that data using multiply imputed hot decking, and demonstrate its efficacy in simulations. We (will) conclude by demonstrating the technique in a crop choice model for the Pajaro Valley.
+
+---
+
+
+
+
 
 
 
