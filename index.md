@@ -28,23 +28,23 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 
 
-### 17 April 2024 RESCHEDULED DUE TO ILLNESS
-
-
----
-
-
-
 ### 24 April 2024
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13877-1569435839.jpg?itok=paxoETqx" width = "200" hspace = "20" alt = "">
 
 **Presenter 1:** Shuo Yu (PhD Student, ARE)  
+**Title:** Payments for Ecosystem Services and Water Quality in the Midwest U.S.   
 
+**Abstract:**  
+Agriculture is a primary contributor to nonpoint source pollution. Cover cropping, a conservative practice extensively incentivized by payment for ecosystem services (PES) schemes such as the USDA's Environmental Quality Incentives Program (EQIP), could effectively reduce runoff and sediment loss from fields, albeit its impact on soluble nitrogen levels and pest populations remains debated. This paper evaluates the social value of PES, focusing specifically on the effects of EQIP on water quality through cover cropping in the Midwest U.S. Utilizing a dataset that integrates georeferenced data on machine-learning-predicted cover crop adoption, water quality, water flow direction, land use, and climatic factors, I assess the effectiveness of cover cropping in reducing water pollution with panel data regressions. The results show significant reductions in nitrogen and phosphorus levels due to cover cropping, with effectiveness influenced by precipitation. Future analyses will explore EQIP’s effects on adoption rates and the economic and health implications of reduced nitrogen and phosphorus pollution. Combining these three parts of estimates will enable me to determine the cost-effectiveness of EQIP.
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13983-1653204292.jpg?itok=8O8SGVIV" width = "200" hspace = "20" alt = "">
 
-**Presenter 2:** Takanao Tanaka (PhD Student, ARE)  
+**Presenter 2:** Takanao Tanaka (PhD Student, ARE)    
+**Title:** The Effects of Environmental Regulations on Marginal Cost and Prices: Evidence from Japan's Air Pollution Prevention Act    
+
+**Abstract:**   
+This paper provides comprehensive evidence on how externality-corrective policies alter marginal cost and prices, parameters dictating the welfare of producers and consumers in the output markets, in the context of air pollution regulation. We provide a simple framework that links the change in marginal costs and prices and producer and consumer surplus in multi-industries. Using Japan’s Air Pollution Prevention Act, newly digitized data on the universe of manufacturing products, and DDD estimators, we quantify the welfare costs attributable to environmental regulations. We compare our estimate with previous findings about the cost of pollution regulations and discuss the policy implications. (This is a proposal; we obtained no results)
 
 
 ---
