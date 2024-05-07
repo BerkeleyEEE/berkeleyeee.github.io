@@ -21,62 +21,26 @@ While the student seminar is meant for “work-in-progress”, the faculty’s h
 
 ## Upcoming Presentations -- Spring 2024
 
-
-
-
----
-
-
-
-### 24 April 2024
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13877-1569435839.jpg?itok=paxoETqx" width = "200" hspace = "20" alt = "">
-
-**Presenter 1:** Shuo Yu (PhD Student, ARE)  
-**Title:** Payments for Ecosystem Services and Water Quality in the Midwest U.S.   
-
-**Abstract:**  
-Agriculture is a primary contributor to nonpoint source pollution. Cover cropping, a conservative practice extensively incentivized by payment for ecosystem services (PES) schemes such as the USDA's Environmental Quality Incentives Program (EQIP), could effectively reduce runoff and sediment loss from fields, albeit its impact on soluble nitrogen levels and pest populations remains debated. This paper evaluates the social value of PES, focusing specifically on the effects of EQIP on water quality through cover cropping in the Midwest U.S. Utilizing a dataset that integrates georeferenced data on machine-learning-predicted cover crop adoption, water quality, water flow direction, land use, and climatic factors, I assess the effectiveness of cover cropping in reducing water pollution with panel data regressions. The results show significant reductions in nitrogen and phosphorus levels due to cover cropping, with effectiveness influenced by precipitation. Future analyses will explore EQIP’s effects on adoption rates and the economic and health implications of reduced nitrogen and phosphorus pollution. Combining these three parts of estimates will enable me to determine the cost-effectiveness of EQIP.
-
-<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13983-1653204292.jpg?itok=8O8SGVIV" width = "200" hspace = "20" alt = "">
-
-**Presenter 2:** Takanao Tanaka (PhD Student, ARE)    
-**Title:** The Effects of Environmental Regulations on Marginal Cost and Prices: Evidence from Japan's Air Pollution Prevention Act    
-
-**Abstract:**   
-This paper provides comprehensive evidence on how externality-corrective policies alter marginal cost and prices, parameters dictating the welfare of producers and consumers in the output markets, in the context of air pollution regulation. We provide a simple framework that links the change in marginal costs and prices and producer and consumer surplus in multi-industries. Using Japan’s Air Pollution Prevention Act, newly digitized data on the universe of manufacturing products, and DDD estimators, we quantify the welfare costs attributable to environmental regulations. We compare our estimate with previous findings about the cost of pollution regulations and discuss the policy implications. (This is a proposal; we obtained no results)
-
-
----
-
-
-
-### 1 May 2024
-
-<img src = "" width = "200" hspace = "20" alt = "">
-
-**Presenter 1:** Ian Hardman (PhD Student, ARE)  
-
-
-<img src = "" width = "200" hspace = "20" alt = "">
-
-**Presenter 2:** Hamza Husain (PhD Student, ARE)  
-
-
 ---
 
 
 
 ### 8 May 2024
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13977-1632522211.jpg?itok=xTjbo6uI" width = "200" hspace = "20" alt = "Paula Meloni">
 
 **Presenter 1:** Paula Meloni (PhD Student, ARE)  
+**Title:** Green Subsidies: unintended effects on accidents, injuries and welfare  
+
+**Abstract:** In an effort to curb greenhouse gas emissions stemming from the transportation sector, countries such as Sweden have implemented aggressive subsidies and tax schemes aimed at bolstering demand for EVs, hybrids and small ICEs while dissuading purchases of dirtier vehicles. While this approach targets significant externalities arising from CO2 emissions, it fails to account for the external costs of vehicle weight. This project aims to study the effects of these subsidies and road taxes on serious injuries, mortality and welfare through their impact on vehicle choice in Sweden. To that end, we plan on estimating a discrete choice model as in Grieco, Murry, Pinske, et al. (2022) using Swedish administrative microdata for 2016-2020. We also intend to build a set of counterfactuals to explore policy alternatives such as weight taxes.  
 
 
-<img src = "" width = "200" hspace = "20" alt = "">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13979-1632523138.jpg?itok=i0pwTiV9" width = "200" hspace = "20" alt = "Zac Pond">
 
 **Presenter 2:** Zac Pond (PhD Student, ARE)  
+**Title:** Welfare effects of climate change on outdoor recreation: Evidence from campground reservations and cancellations  
+
+**Abstract:** Outdoor recreation comprises a large and growing sector of the economy. Consumer valuation of recreational activities, however, varies largely based on realized weather conditions. As such, the welfare generated from outdoor recreation will be directly affected by a changing climate. In this paper, we utilize rich data on campground reservations and cancellations combined with exogenous shocks in realized weather conditions to obtain revealed preference estimates of consumer valuation on realized weather. Consumer preferences exhibit an inverted-U shape relationship with temperature, with the disutility of extreme cold largely outweighing the disutility of extreme heat. We then combine our preference estimates with climate projections and a structural model of adaptation through recreation site substitution to estimate the welfare effects of climate change on outdoor recreation. We find that the welfare gains from decreased number of cold days more than offset the welfare losses from increased number of hot days, yielding a net increase in welfare.  
 
 
 ---
@@ -199,6 +163,58 @@ Capping the rate of increase in assessed property values is a common form of pro
 Remotely sensed data products are gaining popularity in applied economics, but present novel challenges caused by non-classical measurement error. Research on debiasing model estimation with misclassified categorical outcomes has so far imposed strong functional restrictions on the misclassification process. We show that misclassification is a serious problem in modern remote sensed crop choice datasets covering California. We then introduce a method of debiasing parameter estimates in models estimated using that data using multiply imputed hot decking, and demonstrate its efficacy in simulations. We (will) conclude by demonstrating the technique in a crop choice model for the Pajaro Valley.
 
 ---
+
+
+### 24 April 2024
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13877-1569435839.jpg?itok=paxoETqx" width = "200" hspace = "20" alt = "">
+
+**Presenter 1:** Shuo Yu (PhD Student, ARE)  
+**Title:** Payments for Ecosystem Services and Water Quality in the Midwest U.S.   
+
+**Abstract:**  
+Agriculture is a primary contributor to nonpoint source pollution. Cover cropping, a conservative practice extensively incentivized by payment for ecosystem services (PES) schemes such as the USDA's Environmental Quality Incentives Program (EQIP), could effectively reduce runoff and sediment loss from fields, albeit its impact on soluble nitrogen levels and pest populations remains debated. This paper evaluates the social value of PES, focusing specifically on the effects of EQIP on water quality through cover cropping in the Midwest U.S. Utilizing a dataset that integrates georeferenced data on machine-learning-predicted cover crop adoption, water quality, water flow direction, land use, and climatic factors, I assess the effectiveness of cover cropping in reducing water pollution with panel data regressions. The results show significant reductions in nitrogen and phosphorus levels due to cover cropping, with effectiveness influenced by precipitation. Future analyses will explore EQIP’s effects on adoption rates and the economic and health implications of reduced nitrogen and phosphorus pollution. Combining these three parts of estimates will enable me to determine the cost-effectiveness of EQIP.
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13983-1653204292.jpg?itok=8O8SGVIV" width = "200" hspace = "20" alt = "">
+
+**Presenter 2:** Takanao Tanaka (PhD Student, ARE)    
+**Title:** The Effects of Environmental Regulations on Marginal Cost and Prices: Evidence from Japan's Air Pollution Prevention Act    
+
+**Abstract:**   
+This paper provides comprehensive evidence on how externality-corrective policies alter marginal cost and prices, parameters dictating the welfare of producers and consumers in the output markets, in the context of air pollution regulation. We provide a simple framework that links the change in marginal costs and prices and producer and consumer surplus in multi-industries. Using Japan’s Air Pollution Prevention Act, newly digitized data on the universe of manufacturing products, and DDD estimators, we quantify the welfare costs attributable to environmental regulations. We compare our estimate with previous findings about the cost of pollution regulations and discuss the policy implications. (This is a proposal; we obtained no results)
+
+
+---
+
+
+
+### 1 May 2024
+
+<img src = "https://lh3.googleusercontent.com/drive-viewer/AKGpihZN_GigGlqZkK7xg4dtSf8652vS_ocHmAfq4GK2skb3k6v8VgtMbw8HYuYbJuQdRwEoNPvdC5UqUJkC_4zlJ-jXa5nlAdVuDqs=s1600-rw-v1" width = "200" hspace = "20" alt = "Ian Hardman">
+
+**Presenter 1:** Ian Hardman (PhD Student, ARE)  
+**Title:** Modeling Competition in the Global Coal and Gas Market  
+
+**Abstract:**
+A spatial equilibrium model of the world coal and gas market is developed that accounts for coal to natural gas switching, liquefaction and regasifiction constraints, potential for monopsony power, and the impacts of sanctions against key participants in the market. The market equilibrium is computed as the solution to a nonlinear complementarity problem. Where possible, parameters of the model are estimated econometrically or taken from observed data and the literature. Where this is not possible, the parameters are calibrated to observed global market outcomes in 2019 including production quantities and bilateral trade flows.  
+
+
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13902-1600309873.jpg?itok=tdp-73FE" width = "200" hspace = "20" alt = "Hamza Husain">
+
+**Presenter 2:** Hamza Husain (PhD Student, ARE)  
+**Title:** The Economic Impacts of Precision Production  
+
+**Abstract:**
+Our paper provides a theoretical framework through which to analyze the economic impact of "agricultural precision technologies", or technologies that are capable of adjusting input application to spatial or temporal variability within a firm. We aim to fill a void in the theory on the economics of precision application systems, deriving resource allocation under both traditional and precision technologies and providing a general theory that identifies under which conditions these technologies will be adopted by profit-maximizing firms. We also intend to apply the model empirically using remotely-sensed agricultural yield data from the Corn Belt to assess which farms could profitability adopt variable-rate fertilizer technology.   
+
+
+
+---
+
+
+
+
+
 
 
 
